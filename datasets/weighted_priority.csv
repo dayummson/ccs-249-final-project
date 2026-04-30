@@ -1,0 +1,1001 @@
+text,label
+The AUC-ROC curve analysis accounts for 5% of your semester grade.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 15% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 28: Hyperparameter optimization of Logistic Regression using the Sarcasm Dataset based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 24: Cross-validating Random Forest using the Sarcasm Dataset based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 47: Fine-tuning LSTM using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 32: Cross-validating Logistic Regression using custom WVSU student data based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Fine-tuning Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 7: Fine-tuning Random Forest using the MNIST corpus based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 48: Architecting Random Forest using custom WVSU student data based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Hyperparameter optimization of Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (75 pts) Architecting Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 29: Cross-validating Vision Transformer using the MNIST corpus based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Hyperparameter optimization of DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 20% of your semester grade.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 15% of your semester grade.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Architecting Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Hyperparameter optimization of Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Fine-tuning YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 10% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 44: Cross-validating YOLOv8 using the CIFAR-10 image set based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+Evaluation: (10 pts) Architecting Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 5% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 38: Fine-tuning LSTM using custom WVSU student data based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 45: Evaluating LSTM using the MNIST corpus based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Architecting Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 25: Fine-tuning YOLOv8 using the Sarcasm Dataset based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Architecting Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 46: Architecting DistilBERT using custom WVSU student data based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 30% of your semester grade.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Preprocessing Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Cross-validating LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Preprocessing YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 20% of your semester grade.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Fine-tuning LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Hyperparameter optimization of Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Cross-validating Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 36: Cross-validating Random Forest using the CIFAR-10 image set based on F1-score. Worth 40 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Evaluating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Fine-tuning LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Fine-tuning Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Evaluating ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Preprocessing YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 15% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 41: Hyperparameter optimization of Logistic Regression using custom WVSU student data based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 22: Cross-validating ResNet-50 using the MNIST corpus based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 5: Hyperparameter optimization of LSTM using the MNIST corpus based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 13: Fine-tuning LSTM using custom WVSU student data based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 29: Hyperparameter optimization of DistilBERT using the Sarcasm Dataset based on AUC-ROC curve. Worth 40 points.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Fine-tuning LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (25 pts) Cross-validating LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (15 pts) Architecting DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 45: Hyperparameter optimization of YOLOv8 using the MNIST corpus based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Preprocessing DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 36: Fine-tuning Logistic Regression using the MNIST corpus based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Preprocessing Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (10 pts) Hyperparameter optimization of ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 32: Preprocessing Logistic Regression using custom WVSU student data based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 12: Preprocessing YOLOv8 using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Cross-validating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 36: Hyperparameter optimization of Logistic Regression using the MNIST corpus based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 11: Evaluating ResNet-50 using the IMDb sentiment bank based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 30% of your semester grade.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (75 pts) Hyperparameter optimization of Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 6: Fine-tuning Logistic Regression using the IMDb sentiment bank based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Architecting Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 18: Architecting Logistic Regression using the CIFAR-10 image set based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 10% of your semester grade.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 30% of your semester grade.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Hyperparameter optimization of DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 29: Preprocessing Logistic Regression using the IMDb sentiment bank based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 15% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 21: Cross-validating ResNet-50 using the IMDb sentiment bank based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 5% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 29: Fine-tuning Random Forest using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Preprocessing Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (150 pts) Cross-validating Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (25 pts) Fine-tuning YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 20% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 35: Evaluating DistilBERT using the CIFAR-10 image set based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 7: Cross-validating LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 12: Hyperparameter optimization of DistilBERT using the MNIST corpus based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 31: Architecting LSTM using custom WVSU student data based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 48: Preprocessing DistilBERT using the IMDb sentiment bank based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 5% of your semester grade.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Hyperparameter optimization of Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Evaluating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Architecting ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 40: Fine-tuning YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Preprocessing Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (75 pts) Preprocessing YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 18: Preprocessing Logistic Regression using the MNIST corpus based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Preprocessing YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (20 pts) Preprocessing ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Preprocessing Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 22: Preprocessing Logistic Regression using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 10% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 38: Hyperparameter optimization of Random Forest using the Sarcasm Dataset based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 22: Preprocessing Vision Transformer using the IMDb sentiment bank based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 50% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 5: Evaluating Logistic Regression using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 1: Hyperparameter optimization of Random Forest using the MNIST corpus based on F1-score. Worth 50 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Cross-validating YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 20% of your semester grade.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Fine-tuning Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 16: Cross-validating YOLOv8 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 20: Fine-tuning YOLOv8 using custom WVSU student data based on AUC-ROC curve. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 37: Evaluating Logistic Regression using the Sarcasm Dataset based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 24: Preprocessing YOLOv8 using the Sarcasm Dataset based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 39: Cross-validating YOLOv8 using the MNIST corpus based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 43: Cross-validating ResNet-50 using the IMDb sentiment bank based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Hyperparameter optimization of YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+(REQUIRED) (25 pts) Architecting DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Evaluation: (50 pts) Preprocessing Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 10% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 10: Cross-validating LSTM using the IMDb sentiment bank based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 6: Cross-validating Vision Transformer using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 15% of your semester grade.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Fine-tuning Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 22: Preprocessing YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 2: Hyperparameter optimization of ResNet-50 using the IMDb sentiment bank based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 47: Fine-tuning Logistic Regression using the Sarcasm Dataset based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 5% of your semester grade.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Evaluating YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Fine-tuning Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 29: Fine-tuning ResNet-50 using the CIFAR-10 image set based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 50% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 50: Cross-validating Logistic Regression using the MNIST corpus based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 32: Cross-validating YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Fine-tuning DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Evaluating Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Preprocessing ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 24: Preprocessing LSTM using custom WVSU student data based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Hyperparameter optimization of DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 6: Preprocessing Random Forest using the CIFAR-10 image set based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 43: Evaluating Vision Transformer using the Sarcasm Dataset based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Cross-validating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 46: Cross-validating Random Forest using custom WVSU student data based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Hyperparameter optimization of Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 19: Preprocessing Logistic Regression using the MNIST corpus based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Architecting LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Evaluating Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Architecting Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 39: Hyperparameter optimization of Vision Transformer using the MNIST corpus based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 23: Preprocessing ResNet-50 using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 24: Hyperparameter optimization of DistilBERT using the CIFAR-10 image set based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 9: Architecting DistilBERT using the CIFAR-10 image set based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 50% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 37: Cross-validating Logistic Regression using the MNIST corpus based on Accuracy. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 10: Fine-tuning DistilBERT using the Sarcasm Dataset based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 1: Fine-tuning YOLOv8 using custom WVSU student data based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 38: Architecting DistilBERT using the IMDb sentiment bank based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 20: Evaluating Vision Transformer using custom WVSU student data based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 36: Evaluating ResNet-50 using the IMDb sentiment bank based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 32: Evaluating Vision Transformer using the CIFAR-10 image set based on F1-score. Worth 50 points.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Preprocessing Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 1: Preprocessing ResNet-50 using the MNIST corpus based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 30% of your semester grade.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Preprocessing YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 23: Fine-tuning ResNet-50 using custom WVSU student data based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 29: Fine-tuning ResNet-50 using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 38: Preprocessing Vision Transformer using the CIFAR-10 image set based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 43: Hyperparameter optimization of YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 19: Hyperparameter optimization of ResNet-50 using custom WVSU student data based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 10% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 9: Preprocessing Vision Transformer using the CIFAR-10 image set based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 46: Fine-tuning LSTM using the MNIST corpus based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+(REQUIRED) (75 pts) Hyperparameter optimization of YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Cross-validating Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 27: Evaluating LSTM using the CIFAR-10 image set based on AUC-ROC curve. Worth 10 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Hyperparameter optimization of ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 20: Fine-tuning YOLOv8 using the MNIST corpus based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+Evaluation: (50 pts) Fine-tuning LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 48: Fine-tuning Random Forest using the CIFAR-10 image set based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 10: Architecting DistilBERT using the MNIST corpus based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Hyperparameter optimization of Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Architecting LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Architecting LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Fine-tuning YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 26: Fine-tuning DistilBERT using custom WVSU student data based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 28: Fine-tuning Logistic Regression using custom WVSU student data based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 6: Architecting Random Forest using the MNIST corpus based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 44: Architecting LSTM using the MNIST corpus based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Fine-tuning DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 2: Preprocessing YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 32: Preprocessing YOLOv8 using the CIFAR-10 image set based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 19: Preprocessing ResNet-50 using the CIFAR-10 image set based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+Evaluation: (15 pts) Evaluating DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 14: Hyperparameter optimization of YOLOv8 using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 30: Hyperparameter optimization of Random Forest using the IMDb sentiment bank based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Hyperparameter optimization of Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 36: Architecting Vision Transformer using the MNIST corpus based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Cross-validating DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 34: Evaluating Random Forest using the MNIST corpus based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Evaluating Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 4: Architecting YOLOv8 using the IMDb sentiment bank based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Fine-tuning Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Evaluating LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 23: Hyperparameter optimization of YOLOv8 using the Sarcasm Dataset based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Evaluation: (100 pts) Architecting ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 27: Fine-tuning YOLOv8 using custom WVSU student data based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 35: Cross-validating Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 20: Cross-validating LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Evaluation: (10 pts) Cross-validating Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (25 pts) Hyperparameter optimization of Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (100 pts) Fine-tuning DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 16: Architecting Vision Transformer using custom WVSU student data based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 14: Preprocessing ResNet-50 using custom WVSU student data based on F1-score. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 18: Evaluating YOLOv8 using the Sarcasm Dataset based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 19: Architecting Random Forest using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Hyperparameter optimization of LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Cross-validating LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MAJOR TASK: (50 pts) Evaluating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Preprocessing ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Hyperparameter optimization of LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Cross-validating Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 18: Cross-validating DistilBERT using the CIFAR-10 image set based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 12: Evaluating Logistic Regression using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Fine-tuning DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Evaluating ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Fine-tuning YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Hyperparameter optimization of ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 26: Cross-validating ResNet-50 using the CIFAR-10 image set based on Mean Squared Error. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 14: Fine-tuning Vision Transformer using the MNIST corpus based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 9: Hyperparameter optimization of LSTM using the MNIST corpus based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Cross-validating LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 37: Cross-validating LSTM using the CIFAR-10 image set based on AUC-ROC curve. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 33: Cross-validating LSTM using custom WVSU student data based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 50% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 50: Hyperparameter optimization of YOLOv8 using the CIFAR-10 image set based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Evaluating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 26: Evaluating Logistic Regression using the MNIST corpus based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Cross-validating LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Preprocessing LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (75 pts) Fine-tuning Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 21: Architecting Random Forest using the Sarcasm Dataset based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Architecting YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (100 pts) Cross-validating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Architecting Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 15: Architecting LSTM using the IMDb sentiment bank based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Hyperparameter optimization of Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 7: Cross-validating Random Forest using the MNIST corpus based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Architecting Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 6: Evaluating DistilBERT using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 49: Fine-tuning Random Forest using the IMDb sentiment bank based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 46: Cross-validating LSTM using the MNIST corpus based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Fine-tuning ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Evaluation: (15 pts) Preprocessing LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 7: Cross-validating Vision Transformer using custom WVSU student data based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 43: Evaluating ResNet-50 using the MNIST corpus based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 24: Architecting ResNet-50 using custom WVSU student data based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 18: Cross-validating Vision Transformer using the Sarcasm Dataset based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (20 pts) Architecting Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (25 pts) Architecting LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 41: Hyperparameter optimization of ResNet-50 using the MNIST corpus based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Hyperparameter optimization of Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 29: Hyperparameter optimization of ResNet-50 using the Sarcasm Dataset based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+CRITICAL: (150 pts) Hyperparameter optimization of YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (75 pts) Preprocessing YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 25: Cross-validating Vision Transformer using custom WVSU student data based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 31: Cross-validating Vision Transformer using the MNIST corpus based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Preprocessing LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 13: Fine-tuning LSTM using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Fine-tuning Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 4: Cross-validating Logistic Regression using the MNIST corpus based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 28: Fine-tuning Logistic Regression using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 20: Cross-validating Vision Transformer using the CIFAR-10 image set based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Architecting Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Hyperparameter optimization of LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 39: Hyperparameter optimization of ResNet-50 using the Sarcasm Dataset based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+(REQUIRED) (25 pts) Hyperparameter optimization of YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (50 pts) Cross-validating Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 5: Fine-tuning DistilBERT using the Sarcasm Dataset based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (75 pts) Evaluating LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+(REQUIRED) (25 pts) Evaluating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 46: Hyperparameter optimization of Random Forest using the MNIST corpus based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 9: Evaluating ResNet-50 using custom WVSU student data based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 19: Preprocessing Vision Transformer using the MNIST corpus based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 18: Preprocessing YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 30% of your semester grade.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Evaluating LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Evaluating Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 7: Fine-tuning Vision Transformer using the IMDb sentiment bank based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 16: Fine-tuning Logistic Regression using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 9: Fine-tuning ResNet-50 using the IMDb sentiment bank based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 50% of your semester grade.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Architecting LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Architecting Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Architecting YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Cross-validating ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (50 pts) Evaluating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Hyperparameter optimization of ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 1: Hyperparameter optimization of Logistic Regression using custom WVSU student data based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Preprocessing Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 31: Fine-tuning DistilBERT using the MNIST corpus based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Architecting DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 20% of your semester grade.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Evaluating ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Preprocessing DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 43: Hyperparameter optimization of YOLOv8 using custom WVSU student data based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Fine-tuning DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 48: Evaluating Vision Transformer using custom WVSU student data based on F1-score. Worth 40 points.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Evaluating ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 10: Cross-validating Vision Transformer using custom WVSU student data based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 42: Fine-tuning Random Forest using custom WVSU student data based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 39: Evaluating DistilBERT using custom WVSU student data based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 31: Hyperparameter optimization of Random Forest using custom WVSU student data based on Precision-Recall tradeoff. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 47: Evaluating Logistic Regression using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 4: Architecting LSTM using custom WVSU student data based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Cross-validating Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Fine-tuning Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Hyperparameter optimization of YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Architecting Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 31: Evaluating Vision Transformer using the MNIST corpus based on Mean Squared Error. Worth 15 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (15 pts) Preprocessing Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 16: Evaluating Vision Transformer using custom WVSU student data based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 24: Evaluating Logistic Regression using the MNIST corpus based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Evaluation: (50 pts) Preprocessing Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Cross-validating DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 12: Cross-validating DistilBERT using the CIFAR-10 image set based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 28: Architecting Random Forest using custom WVSU student data based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Fine-tuning DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 48: Evaluating Logistic Regression using the Sarcasm Dataset based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 26: Hyperparameter optimization of ResNet-50 using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 8: Hyperparameter optimization of Vision Transformer using the IMDb sentiment bank based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 30: Fine-tuning YOLOv8 using the MNIST corpus based on AUC-ROC curve. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 44: Evaluating Logistic Regression using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (25 pts) Hyperparameter optimization of Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 40: Hyperparameter optimization of Random Forest using the CIFAR-10 image set based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Architecting DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Architecting ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 22: Fine-tuning LSTM using the Sarcasm Dataset based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Preprocessing Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Preprocessing Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Evaluating DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Preprocessing YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 19: Architecting Logistic Regression using custom WVSU student data based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Fine-tuning Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Fine-tuning LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 35: Evaluating DistilBERT using custom WVSU student data based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 37: Architecting Logistic Regression using the MNIST corpus based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Preprocessing Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 41: Evaluating DistilBERT using the MNIST corpus based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+CRITICAL: (150 pts) Evaluating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (20 pts) Preprocessing ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Hyperparameter optimization of YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (25 pts) Evaluating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Fine-tuning Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Architecting DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Cross-validating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 17: Architecting DistilBERT using the IMDb sentiment bank based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Evaluating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Cross-validating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Cross-validating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (30 pts) Fine-tuning DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (75 pts) Fine-tuning YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 44: Cross-validating ResNet-50 using custom WVSU student data based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 26: Evaluating DistilBERT using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 19: Evaluating YOLOv8 using the MNIST corpus based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 9: Preprocessing Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 10: Cross-validating Vision Transformer using the MNIST corpus based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Evaluation: (75 pts) Architecting Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Hyperparameter optimization of Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 9: Cross-validating YOLOv8 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 45: Fine-tuning YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Fine-tuning Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Cross-validating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 16: Fine-tuning Logistic Regression using the IMDb sentiment bank based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Fine-tuning YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 46: Architecting Random Forest using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Evaluating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Evaluating Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 12: Evaluating DistilBERT using custom WVSU student data based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 46: Cross-validating DistilBERT using custom WVSU student data based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+(REQUIRED) (20 pts) Fine-tuning Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 10: Hyperparameter optimization of LSTM using custom WVSU student data based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Cross-validating Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 3: Hyperparameter optimization of ResNet-50 using the CIFAR-10 image set based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 22: Hyperparameter optimization of Logistic Regression using custom WVSU student data based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Preprocessing YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 16: Cross-validating Random Forest using the IMDb sentiment bank based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Architecting Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Hyperparameter optimization of Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Evaluating ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 27: Fine-tuning Random Forest using custom WVSU student data based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 19: Cross-validating ResNet-50 using custom WVSU student data based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Hyperparameter optimization of YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 50: Cross-validating Logistic Regression using the MNIST corpus based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 32: Architecting ResNet-50 using the MNIST corpus based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Hyperparameter optimization of LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 37: Hyperparameter optimization of LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 47: Architecting Vision Transformer using the MNIST corpus based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 16: Architecting Vision Transformer using custom WVSU student data based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 17: Fine-tuning YOLOv8 using the MNIST corpus based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 20: Hyperparameter optimization of Random Forest using the MNIST corpus based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 40: Evaluating LSTM using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Preprocessing LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Fine-tuning YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (15 pts) Fine-tuning Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Fine-tuning ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Evaluating YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 44: Evaluating YOLOv8 using the CIFAR-10 image set based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 50: Hyperparameter optimization of DistilBERT using the Sarcasm Dataset based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 24: Architecting LSTM using the Sarcasm Dataset based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Architecting ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Evaluating Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Architecting YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Evaluating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 29: Evaluating Vision Transformer using the MNIST corpus based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 15: Architecting Vision Transformer using custom WVSU student data based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Architecting LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 50: Preprocessing LSTM using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 15 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Fine-tuning YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (10 pts) Cross-validating Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 41: Hyperparameter optimization of ResNet-50 using the Sarcasm Dataset based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Evaluating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 44: Evaluating Logistic Regression using the IMDb sentiment bank based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 23: Fine-tuning Random Forest using the MNIST corpus based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 40: Fine-tuning ResNet-50 using the Sarcasm Dataset based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Fine-tuning ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 50: Preprocessing Logistic Regression using the MNIST corpus based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (75 pts) Architecting LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Evaluating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Architecting Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 46: Preprocessing ResNet-50 using the CIFAR-10 image set based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 20: Fine-tuning LSTM using custom WVSU student data based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Evaluating YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Fine-tuning Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Architecting Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Architecting Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 6: Preprocessing DistilBERT using the IMDb sentiment bank based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 8: Evaluating LSTM using custom WVSU student data based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 27: Cross-validating YOLOv8 using custom WVSU student data based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Architecting Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Preprocessing ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 5: Cross-validating ResNet-50 using the Sarcasm Dataset based on F1-score. Worth 40 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Evaluating YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 40: Architecting LSTM using custom WVSU student data based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Evaluating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Architecting LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 43: Cross-validating Random Forest using the MNIST corpus based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 24: Hyperparameter optimization of LSTM using the CIFAR-10 image set based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Preprocessing DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Evaluating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 47: Evaluating YOLOv8 using the CIFAR-10 image set based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Fine-tuning Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MAJOR TASK: (50 pts) Preprocessing LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Evaluating Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 33: Cross-validating Logistic Regression using the Sarcasm Dataset based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 15: Evaluating Random Forest using the MNIST corpus based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 45: Hyperparameter optimization of LSTM using custom WVSU student data based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 20: Cross-validating ResNet-50 using the IMDb sentiment bank based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Hyperparameter optimization of Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Evaluating Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 40: Evaluating LSTM using the Sarcasm Dataset based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 6: Architecting ResNet-50 using the MNIST corpus based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Fine-tuning ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 13: Evaluating LSTM using custom WVSU student data based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 33: Fine-tuning LSTM using the CIFAR-10 image set based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Architecting Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 30: Fine-tuning Logistic Regression using custom WVSU student data based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 21: Fine-tuning Logistic Regression using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Cross-validating Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Fine-tuning Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Evaluating Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (150 pts) Preprocessing Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 33: Hyperparameter optimization of ResNet-50 using custom WVSU student data based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 41: Preprocessing LSTM using the IMDb sentiment bank based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Architecting Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 15: Fine-tuning Random Forest using the Sarcasm Dataset based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 10: Fine-tuning DistilBERT using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Evaluation: (10 pts) Preprocessing Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (20 pts) Preprocessing YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 49: Cross-validating Logistic Regression using custom WVSU student data based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 4: Hyperparameter optimization of Random Forest using custom WVSU student data based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 30: Preprocessing YOLOv8 using the MNIST corpus based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+Evaluation: (30 pts) Preprocessing Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (10 pts) Hyperparameter optimization of LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Fine-tuning LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 50: Evaluating DistilBERT using custom WVSU student data based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 42: Preprocessing Logistic Regression using custom WVSU student data based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 49: Fine-tuning YOLOv8 using the CIFAR-10 image set based on F1-score. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 37: Preprocessing Vision Transformer using custom WVSU student data based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 45: Hyperparameter optimization of ResNet-50 using the MNIST corpus based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 42: Fine-tuning DistilBERT using custom WVSU student data based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Cross-validating DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Evaluating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 19: Preprocessing Vision Transformer using the MNIST corpus based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 35: Preprocessing Vision Transformer using the Sarcasm Dataset based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 41: Evaluating ResNet-50 using the MNIST corpus based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Evaluating ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 36: Preprocessing Vision Transformer using the MNIST corpus based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 24: Hyperparameter optimization of DistilBERT using the Sarcasm Dataset based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 22: Fine-tuning Logistic Regression using the Sarcasm Dataset based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Architecting ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Architecting ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 36: Fine-tuning ResNet-50 using the CIFAR-10 image set based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 46: Preprocessing Logistic Regression using the MNIST corpus based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 39: Fine-tuning DistilBERT using the MNIST corpus based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 3: Preprocessing Vision Transformer using the Sarcasm Dataset based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+MANDATORY: (10 pts) Architecting Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 10: Hyperparameter optimization of DistilBERT using the CIFAR-10 image set based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Architecting Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 14: Fine-tuning DistilBERT using the Sarcasm Dataset based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 32: Cross-validating Vision Transformer using the MNIST corpus based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 45: Architecting Random Forest using the CIFAR-10 image set based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+CRITICAL: (25 pts) Preprocessing YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (100 pts) Evaluating ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 19: Cross-validating Random Forest using the IMDb sentiment bank based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Evaluating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Hyperparameter optimization of ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Fine-tuning ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 39: Architecting DistilBERT using the MNIST corpus based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Fine-tuning Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 35: Evaluating Random Forest using the IMDb sentiment bank based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Architecting Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Fine-tuning LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 30: Architecting Random Forest using the CIFAR-10 image set based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 31: Hyperparameter optimization of DistilBERT using the IMDb sentiment bank based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Evaluating Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 26: Evaluating YOLOv8 using the Sarcasm Dataset based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 33: Fine-tuning LSTM using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Evaluating YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 41: Preprocessing DistilBERT using the MNIST corpus based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (50 pts) Hyperparameter optimization of DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Cross-validating Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 7: Cross-validating Random Forest using the IMDb sentiment bank based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Architecting LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 9: Fine-tuning Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Evaluating DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 30: Preprocessing DistilBERT using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Architecting DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 34: Cross-validating ResNet-50 using the MNIST corpus based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Fine-tuning Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 40: Fine-tuning DistilBERT using the MNIST corpus based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 16: Preprocessing Vision Transformer using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Evaluation: (15 pts) Fine-tuning LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 33: Architecting Vision Transformer using custom WVSU student data based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 37: Cross-validating YOLOv8 using custom WVSU student data based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Preprocessing DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Cross-validating ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 16: Fine-tuning Logistic Regression using the MNIST corpus based on AUC-ROC curve. Worth 10 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Cross-validating DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 43: Fine-tuning YOLOv8 using the MNIST corpus based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 17: Preprocessing ResNet-50 using the MNIST corpus based on F1-score. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 39: Cross-validating ResNet-50 using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Preprocessing DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Preprocessing Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (75 pts) Evaluating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 33: Fine-tuning Logistic Regression using custom WVSU student data based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Evaluating Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Fine-tuning LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 42: Cross-validating LSTM using the IMDb sentiment bank based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 43: Architecting YOLOv8 using the IMDb sentiment bank based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 20: Architecting LSTM using the IMDb sentiment bank based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Evaluating Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 25: Fine-tuning DistilBERT using the CIFAR-10 image set based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 17: Evaluating Random Forest using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Hyperparameter optimization of Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Preprocessing Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 25: Cross-validating ResNet-50 using custom WVSU student data based on Mean Squared Error. Worth 15 points.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Architecting YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 38: Preprocessing LSTM using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 4: Evaluating YOLOv8 using custom WVSU student data based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Hyperparameter optimization of Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Architecting ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 10: Fine-tuning DistilBERT using the IMDb sentiment bank based on AUC-ROC curve. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 36: Preprocessing LSTM using custom WVSU student data based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 2: Hyperparameter optimization of DistilBERT using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 10: Evaluating Random Forest using the MNIST corpus based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Evaluating ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 30: Evaluating Logistic Regression using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 15 points.,WEIGHTED_PRIORITY
+MANDATORY: (10 pts) Evaluating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 10: Fine-tuning ResNet-50 using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 25: Preprocessing Vision Transformer using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 33: Fine-tuning YOLOv8 using the IMDb sentiment bank based on F1-score. Worth 50 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Evaluating YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Hyperparameter optimization of LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Architecting DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Fine-tuning LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 17: Architecting Vision Transformer using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 43: Evaluating LSTM using the CIFAR-10 image set based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Architecting LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Preprocessing LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Preprocessing YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 41: Cross-validating YOLOv8 using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Fine-tuning YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (25 pts) Evaluating DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 38: Evaluating Vision Transformer using the MNIST corpus based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 28: Fine-tuning LSTM using the Sarcasm Dataset based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 23: Hyperparameter optimization of YOLOv8 using custom WVSU student data based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 32: Evaluating DistilBERT using the Sarcasm Dataset based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Preprocessing LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 8: Evaluating ResNet-50 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 11: Preprocessing Vision Transformer using the CIFAR-10 image set based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 38: Cross-validating LSTM using the IMDb sentiment bank based on Accuracy. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 7: Evaluating ResNet-50 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 48: Preprocessing Random Forest using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 31: Architecting Logistic Regression using the IMDb sentiment bank based on Accuracy. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 9: Architecting YOLOv8 using custom WVSU student data based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Cross-validating DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 32: Fine-tuning Random Forest using custom WVSU student data based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Cross-validating ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Architecting Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Fine-tuning Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 28: Architecting LSTM using custom WVSU student data based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Preprocessing YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (10 pts) Fine-tuning Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Architecting Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Evaluation: (10 pts) Cross-validating Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 8: Cross-validating DistilBERT using the MNIST corpus based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Cross-validating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 48: Cross-validating Logistic Regression using custom WVSU student data based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Cross-validating Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Preprocessing Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 27: Cross-validating LSTM using the CIFAR-10 image set based on AUC-ROC curve. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 32: Fine-tuning LSTM using the MNIST corpus based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Hyperparameter optimization of LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Preprocessing DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Architecting DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 36: Cross-validating LSTM using the IMDb sentiment bank based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 16: Architecting YOLOv8 using the Sarcasm Dataset based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 11: Cross-validating DistilBERT using the MNIST corpus based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Evaluating DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Fine-tuning DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 6: Preprocessing Random Forest using the MNIST corpus based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Evaluating Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Evaluating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Architecting Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Architecting Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (150 pts) Hyperparameter optimization of Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Fine-tuning Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Evaluating LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Preprocessing DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 23: Evaluating Vision Transformer using the CIFAR-10 image set based on Accuracy. Worth 25 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Architecting Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 24: Hyperparameter optimization of LSTM using the Sarcasm Dataset based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+CRITICAL: (25 pts) Cross-validating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Evaluating Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+CRITICAL: (20 pts) Preprocessing Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 32: Cross-validating Vision Transformer using the Sarcasm Dataset based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Fine-tuning DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 9: Evaluating LSTM using the CIFAR-10 image set based on AUC-ROC curve. Worth 10 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (100 pts) Cross-validating Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (50 pts) Fine-tuning Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 18: Preprocessing ResNet-50 using custom WVSU student data based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 31: Cross-validating YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 4: Evaluating DistilBERT using custom WVSU student data based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 45: Architecting Random Forest using the Sarcasm Dataset based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Fine-tuning YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 7: Evaluating LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 1: Cross-validating Vision Transformer using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 49: Evaluating ResNet-50 using custom WVSU student data based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Cross-validating DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Cross-validating Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 40: Evaluating LSTM using custom WVSU student data based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 6: Hyperparameter optimization of Vision Transformer using the IMDb sentiment bank based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 32: Evaluating Vision Transformer using custom WVSU student data based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 22: Hyperparameter optimization of ResNet-50 using the IMDb sentiment bank based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+CRITICAL: (75 pts) Hyperparameter optimization of LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (15 pts) Architecting DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Preprocessing Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Architecting ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Hyperparameter optimization of Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 24: Evaluating Logistic Regression using the CIFAR-10 image set based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 35: Architecting LSTM using the IMDb sentiment bank based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 22: Architecting DistilBERT using the CIFAR-10 image set based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 17: Architecting ResNet-50 using the Sarcasm Dataset based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 20: Architecting Logistic Regression using the CIFAR-10 image set based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Fine-tuning YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 31: Cross-validating YOLOv8 using the CIFAR-10 image set based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 12: Architecting DistilBERT using the Sarcasm Dataset based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 29: Fine-tuning Random Forest using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 6: Preprocessing Random Forest using custom WVSU student data based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 34: Hyperparameter optimization of LSTM using the MNIST corpus based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 25: Cross-validating Vision Transformer using the MNIST corpus based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 31: Architecting Random Forest using custom WVSU student data based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Evaluating DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 31: Preprocessing ResNet-50 using the MNIST corpus based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 13: Architecting ResNet-50 using the MNIST corpus based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 25: Evaluating Vision Transformer using the Sarcasm Dataset based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Evaluating ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Preprocessing Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (25 pts) Cross-validating Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 14: Architecting YOLOv8 using the IMDb sentiment bank based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 13: Fine-tuning Vision Transformer using custom WVSU student data based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Architecting ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 18: Hyperparameter optimization of ResNet-50 using custom WVSU student data based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Architecting ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Evaluating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Hyperparameter optimization of LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 20: Evaluating YOLOv8 using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Cross-validating Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Fine-tuning Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (15 pts) Cross-validating Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Preprocessing DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Cross-validating Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Preprocessing LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Architecting ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 36: Cross-validating Random Forest using custom WVSU student data based on F1-score. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 12: Preprocessing Logistic Regression using the IMDb sentiment bank based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 35: Preprocessing ResNet-50 using the IMDb sentiment bank based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+Evaluation: (30 pts) Fine-tuning Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 3: Hyperparameter optimization of Random Forest using custom WVSU student data based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 30: Architecting DistilBERT using the MNIST corpus based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Preprocessing Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 2: Architecting LSTM using custom WVSU student data based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 31: Cross-validating Vision Transformer using the MNIST corpus based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 20: Architecting Logistic Regression using the MNIST corpus based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 35: Preprocessing LSTM using the CIFAR-10 image set based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 14: Cross-validating Logistic Regression using custom WVSU student data based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 41: Preprocessing ResNet-50 using the MNIST corpus based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 4: Evaluating Vision Transformer using the MNIST corpus based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Fine-tuning Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Preprocessing Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (20 pts) Evaluating Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 5: Hyperparameter optimization of ResNet-50 using the IMDb sentiment bank based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 41: Hyperparameter optimization of ResNet-50 using the Sarcasm Dataset based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Evaluating DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MAJOR TASK: (25 pts) Fine-tuning YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Architecting LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Hyperparameter optimization of Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Cross-validating Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Evaluating DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Hyperparameter optimization of YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 40: Preprocessing LSTM using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 6: Architecting ResNet-50 using custom WVSU student data based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Fine-tuning Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 1: Architecting ResNet-50 using the Sarcasm Dataset based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 29: Preprocessing YOLOv8 using the CIFAR-10 image set based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 43: Fine-tuning Logistic Regression using custom WVSU student data based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Hyperparameter optimization of YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 48: Hyperparameter optimization of Logistic Regression using the Sarcasm Dataset based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Cross-validating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 23: Hyperparameter optimization of DistilBERT using the MNIST corpus based on Accuracy. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 25: Cross-validating DistilBERT using the Sarcasm Dataset based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 13: Preprocessing LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 12: Fine-tuning DistilBERT using the Sarcasm Dataset based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 50: Preprocessing Logistic Regression using the Sarcasm Dataset based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Preprocessing Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 7: Architecting LSTM using the CIFAR-10 image set based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 29: Fine-tuning LSTM using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 6: Hyperparameter optimization of ResNet-50 using the MNIST corpus based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+CRITICAL: (20 pts) Evaluating Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Evaluating ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 46: Preprocessing ResNet-50 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 28: Preprocessing Vision Transformer using custom WVSU student data based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Fine-tuning DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 40: Fine-tuning Vision Transformer using the CIFAR-10 image set based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Cross-validating ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 13: Cross-validating DistilBERT using the MNIST corpus based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (50 pts) Fine-tuning LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 18: Evaluating YOLOv8 using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Cross-validating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (150 pts) Evaluating LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Architecting ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Fine-tuning LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 12: Preprocessing Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (25 pts) Architecting LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Preprocessing LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 19: Evaluating Random Forest using the MNIST corpus based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Cross-validating Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Architecting ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Hyperparameter optimization of LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 46: Fine-tuning LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 2: Architecting YOLOv8 using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 12: Fine-tuning Logistic Regression using the MNIST corpus based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Cross-validating Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 16: Hyperparameter optimization of DistilBERT using the CIFAR-10 image set based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 19: Hyperparameter optimization of LSTM using the IMDb sentiment bank based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Evaluation: (10 pts) Evaluating Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Cross-validating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Preprocessing Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Evaluating ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Architecting DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 8: Cross-validating ResNet-50 using the IMDb sentiment bank based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Architecting Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MAJOR TASK: (100 pts) Evaluating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Hyperparameter optimization of LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 10: Evaluating YOLOv8 using the IMDb sentiment bank based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 47: Evaluating ResNet-50 using the CIFAR-10 image set based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Fine-tuning LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Hyperparameter optimization of Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 1: Architecting Random Forest using custom WVSU student data based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Hyperparameter optimization of YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 10: Preprocessing ResNet-50 using the MNIST corpus based on AUC-ROC curve. Worth 40 points.,WEIGHTED_PRIORITY
+CRITICAL: (75 pts) Hyperparameter optimization of ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (30 pts) Architecting DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 50: Preprocessing YOLOv8 using the CIFAR-10 image set based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Evaluating LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Cross-validating LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (30 pts) Cross-validating LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Hyperparameter optimization of ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Cross-validating DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 5: Cross-validating DistilBERT using the IMDb sentiment bank based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 47: Fine-tuning Logistic Regression using the IMDb sentiment bank based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Architecting Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Cross-validating ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Hyperparameter optimization of Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 2: Architecting Vision Transformer using the Sarcasm Dataset based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 32: Hyperparameter optimization of DistilBERT using the CIFAR-10 image set based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 40: Hyperparameter optimization of Vision Transformer using the IMDb sentiment bank based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 11: Cross-validating Vision Transformer using the IMDb sentiment bank based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Architecting DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Fine-tuning LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (75 pts) Fine-tuning Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Preprocessing Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 5: Preprocessing Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 34: Evaluating YOLOv8 using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Architecting DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 22: Preprocessing Logistic Regression using the IMDb sentiment bank based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (15 pts) Fine-tuning DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Evaluating LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Hyperparameter optimization of Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Cross-validating Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Preprocessing LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 22: Cross-validating Random Forest using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 33: Preprocessing Random Forest using the IMDb sentiment bank based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Cross-validating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Preprocessing Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 44: Cross-validating YOLOv8 using the Sarcasm Dataset based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 36: Fine-tuning YOLOv8 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 32: Cross-validating Random Forest using custom WVSU student data based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 35: Hyperparameter optimization of DistilBERT using custom WVSU student data based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Fine-tuning YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Cross-validating DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 40: Architecting YOLOv8 using the CIFAR-10 image set based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Cross-validating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Evaluation: (50 pts) Preprocessing LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 1: Evaluating Random Forest using the MNIST corpus based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Preprocessing Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 50: Cross-validating Vision Transformer using custom WVSU student data based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 9: Hyperparameter optimization of DistilBERT using custom WVSU student data based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Hyperparameter optimization of Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Evaluating DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Fine-tuning DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Preprocessing Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 21: Cross-validating Logistic Regression using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (75 pts) Cross-validating LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Preprocessing Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 5: Cross-validating DistilBERT using the CIFAR-10 image set based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 10: Architecting ResNet-50 using the Sarcasm Dataset based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 39: Hyperparameter optimization of DistilBERT using the Sarcasm Dataset based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+CRITICAL: (25 pts) Fine-tuning Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Architecting DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Preprocessing DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 50: Hyperparameter optimization of Vision Transformer using the CIFAR-10 image set based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+CRITICAL: (20 pts) Architecting Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 13: Cross-validating YOLOv8 using custom WVSU student data based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 16: Fine-tuning LSTM using the CIFAR-10 image set based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 32: Evaluating YOLOv8 using the IMDb sentiment bank based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+CRITICAL: (15 pts) Preprocessing DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Hyperparameter optimization of ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Preprocessing Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (100 pts) Architecting YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Evaluating ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Cross-validating Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 37: Preprocessing ResNet-50 using the IMDb sentiment bank based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 27: Hyperparameter optimization of Vision Transformer using the Sarcasm Dataset based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Fine-tuning LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 7: Cross-validating ResNet-50 using the MNIST corpus based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Cross-validating Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Evaluation: (75 pts) Cross-validating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Architecting YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 8: Fine-tuning Vision Transformer using the CIFAR-10 image set based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Evaluation: (30 pts) Preprocessing Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Fine-tuning YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 42: Cross-validating Logistic Regression using custom WVSU student data based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Architecting Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 22: Hyperparameter optimization of ResNet-50 using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Architecting DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 34: Evaluating YOLOv8 using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Fine-tuning Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Preprocessing Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Architecting Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Architecting ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 14: Evaluating Vision Transformer using the MNIST corpus based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 38: Cross-validating YOLOv8 using the MNIST corpus based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 37: Fine-tuning LSTM using the CIFAR-10 image set based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Cross-validating ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Preprocessing LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 24: Preprocessing LSTM using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 32: Evaluating ResNet-50 using the MNIST corpus based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Architecting Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Fine-tuning Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Evaluating DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 12: Fine-tuning ResNet-50 using the Sarcasm Dataset based on Mean Squared Error. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 42: Hyperparameter optimization of YOLOv8 using the Sarcasm Dataset based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 18: Evaluating DistilBERT using custom WVSU student data based on F1-score. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 30: Evaluating LSTM using the CIFAR-10 image set based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+(REQUIRED) (25 pts) Hyperparameter optimization of LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 49: Hyperparameter optimization of DistilBERT using the MNIST corpus based on Mean Squared Error. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 48: Preprocessing Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 11: Fine-tuning Logistic Regression using the IMDb sentiment bank based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Cross-validating ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Preprocessing LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 13: Preprocessing YOLOv8 using custom WVSU student data based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+(REQUIRED) (75 pts) Preprocessing Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 25: Hyperparameter optimization of Random Forest using custom WVSU student data based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 32: Cross-validating LSTM using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 10: Fine-tuning Logistic Regression using custom WVSU student data based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Hyperparameter optimization of YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 3: Cross-validating ResNet-50 using the MNIST corpus based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Hyperparameter optimization of Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Hyperparameter optimization of LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (25 pts) Hyperparameter optimization of ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Cross-validating Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 27: Hyperparameter optimization of Logistic Regression using the IMDb sentiment bank based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Cross-validating Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 17: Architecting Random Forest using the Sarcasm Dataset based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 26: Architecting Logistic Regression using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (25 pts) Fine-tuning ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 20: Hyperparameter optimization of Vision Transformer using the MNIST corpus based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Cross-validating Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Preprocessing ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Cross-validating ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 15: Fine-tuning Vision Transformer using the MNIST corpus based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 16: Architecting Vision Transformer using custom WVSU student data based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Architecting YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 34: Cross-validating DistilBERT using custom WVSU student data based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Architecting LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Architecting Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 40: Cross-validating DistilBERT using the CIFAR-10 image set based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Evaluating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 32: Cross-validating DistilBERT using the IMDb sentiment bank based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 8: Preprocessing Random Forest using custom WVSU student data based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 27: Preprocessing Random Forest using the MNIST corpus based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 40: Fine-tuning Random Forest using the IMDb sentiment bank based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 40: Evaluating Vision Transformer using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 34: Preprocessing ResNet-50 using the IMDb sentiment bank based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+(REQUIRED) (10 pts) Fine-tuning Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 44: Fine-tuning ResNet-50 using the MNIST corpus based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+CRITICAL: (75 pts) Cross-validating Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 49: Hyperparameter optimization of Vision Transformer using the CIFAR-10 image set based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+(REQUIRED) (25 pts) Cross-validating LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 7: Evaluating LSTM using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 31: Preprocessing DistilBERT using the MNIST corpus based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Fine-tuning Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Cross-validating Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 47: Cross-validating Vision Transformer using the CIFAR-10 image set based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 23: Preprocessing ResNet-50 using custom WVSU student data based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 2: Evaluating DistilBERT using the Sarcasm Dataset based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 33: Fine-tuning Random Forest using the MNIST corpus based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (50 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 40: Architecting YOLOv8 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Architecting LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Fine-tuning Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Architecting Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 8: Architecting DistilBERT using the Sarcasm Dataset based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 29: Architecting ResNet-50 using the Sarcasm Dataset based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 12: Evaluating Vision Transformer using the Sarcasm Dataset based on Accuracy. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 45: Evaluating LSTM using the MNIST corpus based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 14: Fine-tuning Logistic Regression using custom WVSU student data based on Accuracy. Worth 100 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Evaluating Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 24: Hyperparameter optimization of YOLOv8 using the CIFAR-10 image set based on AUC-ROC curve. Worth 25 points.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Preprocessing LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Evaluating Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 27: Evaluating ResNet-50 using the MNIST corpus based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (25 pts) Fine-tuning YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 7: Architecting LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 34: Hyperparameter optimization of Logistic Regression using the MNIST corpus based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 49: Evaluating LSTM using the Sarcasm Dataset based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Preprocessing Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 40: Architecting Logistic Regression using custom WVSU student data based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 41: Evaluating ResNet-50 using custom WVSU student data based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 23: Preprocessing Random Forest using the IMDb sentiment bank based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 8: Fine-tuning ResNet-50 using the Sarcasm Dataset based on Mean Squared Error. Worth 25 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Fine-tuning Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Fine-tuning Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Hyperparameter optimization of Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Fine-tuning Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 14: Preprocessing ResNet-50 using the IMDb sentiment bank based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Hyperparameter optimization of Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 9: Evaluating Vision Transformer using the MNIST corpus based on Mean Squared Error. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 10: Cross-validating YOLOv8 using the Sarcasm Dataset based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 24: Cross-validating ResNet-50 using the Sarcasm Dataset based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Evaluating Vision Transformer using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 31: Preprocessing DistilBERT using the MNIST corpus based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 29: Fine-tuning DistilBERT using custom WVSU student data based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 37: Fine-tuning ResNet-50 using the MNIST corpus based on Precision-Recall tradeoff. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 11: Architecting LSTM using the IMDb sentiment bank based on Accuracy. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 17: Cross-validating ResNet-50 using the IMDb sentiment bank based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 24: Evaluating YOLOv8 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Architecting Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 40: Architecting YOLOv8 using the MNIST corpus based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
