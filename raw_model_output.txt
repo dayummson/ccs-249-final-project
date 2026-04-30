@@ -1,0 +1,18 @@
+ADMIN_TRAP:
+ - Note: Use this file as your answer sheet.
+ - TF-IDF Calculation: Given the following documents and query, determine what documents are similar to the query. Complete the table for the Query and Doc 1, and generate the tables for Doc 2 and 3. Use cosine similarity.
+ - D1: cat sat on mat
+ - D2: dog sat on rug
+ - D3: cat and dog played
+ - Fill up the table for the Query and all of the Documents.
+
+TECHNICAL_TASK:
+
+WEIGHTED_PRIORITY:
+ - (20 points) Query:
+ - (25 points) Doc 1 (cat sat on mat):
+ - (25 points) Doc 2 (dog sat on rug):
+ - (25 points) Doc 3 (cat and dog played):
+ - (5 points) Ranked Documents relevant to the Query:
+
+OPTIONAL_BONUS:
