@@ -19,7 +19,7 @@ pipe = pipeline("text-classification", model="./final_requirement_model")
 #     return " ".join([para.text for para in doc.paragraphs])
 
 
-raw_text = extract_smart_blocks("./samples/unit-7-activity.docx")
+raw_text = extract_smart_blocks("./samples/unit-2-activity.docx")
 
 id_2_label = {
     "LABEL_0": "ADMIN_TRAP",
