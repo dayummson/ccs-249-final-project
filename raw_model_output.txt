@@ -1,18 +1,25 @@
 ADMIN_TRAP:
- - Note: Use this file as your answer sheet.
- - TF-IDF Calculation: Given the following documents and query, determine what documents are similar to the query. Complete the table for the Query and Doc 1, and generate the tables for Doc 2 and 3. Use cosine similarity.
- - D1: cat sat on mat
- - D2: dog sat on rug
- - D3: cat and dog played
- - Fill up the table for the Query and all of the Documents.
+ - Exercise for Unit 4.1 Naïve Bayes
+ - Name:									Date:
+ - Year and Section:
+ - Performing it manually. In manually developing a Naïve Bayes model, create methods that will do the following:
+ - Generate a Bag of Words (for word frequency)
+ - Calculate the prior for the class HAM and SPAM
+ - Calculate the likelihood of the tokens in the vocabulary with respect to the class.
+ - Determine the class of the following test sentence:
+ - Limited offer, click here!
+ - Meeting at 2 PM with the manager.
+ - Using Scikit-Learn. Use the scikit-learn package to train and test a Multinomial Naïve Bayes classifer.
+ - Determine the class of the following test sentence:
+ - Limited offer, click here!
+ - Meeting at 2 PM with the manager.
 
 TECHNICAL_TASK:
+ - Note: Note: Save your Python source codes into a single .ipynb file OR multiple python files, representing each number, with the proper naming convention (see Readme on the repository), upload it to your assigned folder in the GitHub organization.
+
+Naïve Bayes Implementation. Given a small dataset of documents with the class label, do the following tasks.
 
 WEIGHTED_PRIORITY:
- - (20 points) Query:
- - (25 points) Doc 1 (cat sat on mat):
- - (25 points) Doc 2 (dog sat on rug):
- - (25 points) Doc 3 (cat and dog played):
- - (5 points) Ranked Documents relevant to the Query:
 
 OPTIONAL_BONUS:
+

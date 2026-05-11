@@ -57,7 +57,6 @@ tokenized_test = test_dataset.map(tokenize_func, batched=True)
 tokenized_train = tokenized_train.remove_columns(["text", "label"])
 tokenized_test = tokenized_test.remove_columns(["text", "label"])
 
-tokenized_train.set_format("torch")
 tokenized_test.set_format("torch")
 
 model = AutoModelForSequenceClassification.from_pretrained(

@@ -1,32 +1,24 @@
-import docx
-from transformers import pipeline
-import re
-import docx
 from pypdf import PdfReader
+from transformers import pipeline
 
 reader = PdfReader("./samples/final-project.pdf")
 
-MODEL = "distilbert-base-uncased"
-
 
 def extract_smart_blocks(file_path):
-    doc = docx.Document(file_path)
+    doc = reader.pages
     # Filter out empty lines and headers that are too short to be tasks
-    blocks = [p.text.strip() for p in doc.paragraphs if len(p.text.strip()) > 15]
+
+    blocks = [
+        p.extract_text().strip() for p in doc if len(p.extract_text().strip()) > 15
+    ]
     return blocks
 
 
-pipe = pipeline("text-classification", model=MODEL)
+pipe = pipeline("text-classification", model="./final_requirement_model")
 
 
-# def extract_text_from_docx(file):
-#     doc = docx.Document(file)
-#     return " ".join([para.text for para in doc.paragraphs])
+raw_text = extract_smart_blocks("./samples/final-project.pdf")
 
-
-raw_text = extract_smart_blocks("./samples/unit-4-activity.docx")
-
-print(raw_text)
 
 id_2_label = {
     "LABEL_0": "ADMIN_TRAP",
@@ -40,8 +32,6 @@ id_2_label = {
 
 def process_to_briefing(blocks):
     results = pipe(blocks)
-
-    print("[RESULTS]: ", results)
 
     briefing = {
         "ADMIN_TRAP": [],
@@ -81,8 +71,6 @@ def write_to_txt(briefing, filename="briefing.txt"):
             f.write("\n")
 
 
-OUTPUT_FILE = "raw_model_output.txt"
-
 briefing = process_to_briefing(raw_text)
-write_to_txt(briefing, filename=OUTPUT_FILE)
-print(f"Briefing generated and saved to {OUTPUT_FILE}")
+write_to_txt(briefing)
+print("Briefing generated and saved to briefing.txt")
