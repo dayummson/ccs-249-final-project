@@ -7,4 +7,11 @@ analyzer_results/
 briefing.txt
 
 final_requirement_model/
+
+# training artifacts
 results/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
