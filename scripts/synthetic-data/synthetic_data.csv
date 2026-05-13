@@ -1,0 +1,1801 @@
+text,label
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Page 15 of 25,IGNORE
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Submit your Jupyter notebook as a .py file with proper naming convention.,TECHNICAL_TASK
+"Using scikit-learn, train a model that classifies named entities.",TECHNICAL_TASK
+This section is worth 20 points.,WEIGHTED_PRIORITY
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+This activity assumes knowledge of probability.,PRE_REQUISITE
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+NER pipeline — 10 pts,WEIGHTED_PRIORITY
+Code a NER pipeline and test it with the provided sample corpus.,TECHNICAL_TASK
+© 2024 West Visayas State University,IGNORE
+"Using scikit-learn, train a model that classifies intent.",TECHNICAL_TASK
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+CCS 249 — 2nd Semester,IGNORE
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+© 2025 West Visayas State University,IGNORE
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Bonus: sentiment analysis module for 20 extra points.,OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+source code — 5/25,WEIGHTED_PRIORITY
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+WVSU College of Computing,IGNORE
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Create a Flask endpoint that accepts CSV file and returns embedding vector.,TECHNICAL_TASK
+Create a REST API that accepts CSV file and returns probability distribution.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+Create a REST API that accepts raw text and returns embedding vector.,TECHNICAL_TASK
+© 2025 West Visayas State University,IGNORE
+Modify the model to support batch inference.,TECHNICAL_TASK
+Modify the frontend to support multi-label classification.,TECHNICAL_TASK
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+"Using HuggingFace Transformers, train a model that classifies named entities.",TECHNICAL_TASK
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+Modify the backend to support GPU acceleration.,TECHNICAL_TASK
+Extract TF-IDF scores from the corpus using TF-IDF.,TECHNICAL_TASK
+CCS 249 — 2nd Semester,IGNORE
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Submit your Flask endpoint as a .zip archive with proper naming convention.,TECHNICAL_TASK
+The model will be graded out of 5 points.,WEIGHTED_PRIORITY
+report — 10/50,WEIGHTED_PRIORITY
+Rubric: documentation (15/50 points),WEIGHTED_PRIORITY
+The model will be graded out of 5 points.,WEIGHTED_PRIORITY
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Code a text classification and test it with the provided activity dataset.,TECHNICAL_TASK
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+Meeting at 9 AM with the instructor.,ADMIN_TRAP
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+WVSU College of Information and Communications Technology,IGNORE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+Page 5 of 25,IGNORE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+The backend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
+Prerequisite: Install Git and configure your GitHub SSH key.,PRE_REQUISITE
+Meeting at 2 PM with the instructor.,ADMIN_TRAP
+"Using spaCy, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+source code — 5/25,WEIGHTED_PRIORITY
+This section is worth 15 points.,WEIGHTED_PRIORITY
+Implement tokenizer using scikit-learn and ensure it handles empty strings.,TECHNICAL_TASK
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+The frontend will be graded out of 20 points.,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+sentiment analysis module — 10 pts,WEIGHTED_PRIORITY
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Page 5 of 50,IGNORE
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Extra credit: sentiment analysis module (+25 pts),OPTIONAL_BONUS
+Bonus: NER pipeline for 5 extra points.,OPTIONAL_BONUS
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Extract POS tags from the corpus using BERT embeddings.,TECHNICAL_TASK
+"Using scikit-learn, train a model that classifies named entities.",TECHNICAL_TASK
+Write a function that classifies the corpus.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+sentiment analysis module — 20 pts,WEIGHTED_PRIORITY
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Submit your REST API as a .py file with proper naming convention.,TECHNICAL_TASK
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+report — 25/25,WEIGHTED_PRIORITY
+GitHub submission — 5/50,WEIGHTED_PRIORITY
+The frontend will be graded out of 20 points.,WEIGHTED_PRIORITY
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Write a function that embeds the corpus.,TECHNICAL_TASK
+West Visayas State University College of Information and Communications Technology,IGNORE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Page 15 of 50,IGNORE
+Meeting at 2 PM with your group leader.,ADMIN_TRAP
+© 2025 West Visayas State University,IGNORE
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+This section is worth 10 points.,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+Rubric: model accuracy (25/50 points),WEIGHTED_PRIORITY
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+GitHub submission — 20/100,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Rubric: documentation (25/25 points),WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Prerequisite: Install Git and configure .env file.,PRE_REQUISITE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Extract TF-IDF scores from the corpus using BERT embeddings.,TECHNICAL_TASK
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+GitHub submission — 10/100,WEIGHTED_PRIORITY
+CCS 235 — 2nd Semester,IGNORE
+Write a function that tokenizes the feature matrix.,TECHNICAL_TASK
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+Modify the backend to support multi-label classification.,TECHNICAL_TASK
+Bonus: text classification for 5 extra points.,OPTIONAL_BONUS
+"For inquiries, contact instructor@example.edu",IGNORE
+Meeting at 9 AM with your group leader.,ADMIN_TRAP
+Implement NER tagger using Keras and ensure it handles unseen tokens.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+Prerequisite: Install Node.js and configure your GitHub SSH key.,PRE_REQUISITE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+CCS 221 — 2nd Semester,IGNORE
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+Modify the frontend to support batch inference.,TECHNICAL_TASK
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+© 2024 West Visayas State University,IGNORE
+This activity assumes knowledge of probability.,PRE_REQUISITE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Write a function that vectorizes the dataset.,TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+The model will be graded out of 15 points.,WEIGHTED_PRIORITY
+Bonus: NER pipeline for 25 extra points.,OPTIONAL_BONUS
+Bonus: sentiment analysis module for 25 extra points.,OPTIONAL_BONUS
+Extra credit: NER pipeline (+20 pts),OPTIONAL_BONUS
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Extract POS tags from the corpus using BERT embeddings.,TECHNICAL_TASK
+Rubric: model accuracy (25/25 points),WEIGHTED_PRIORITY
+The model will be graded out of 5 points.,WEIGHTED_PRIORITY
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+This document is confidential.,IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Attendance is required for the final presentation.,ADMIN_TRAP
+Meeting at 3:30 PM with the department head.,ADMIN_TRAP
+Modify the model to support batch inference.,TECHNICAL_TASK
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+text classification — 20 pts,WEIGHTED_PRIORITY
+Implement TF-IDF vectorizer using PyTorch and ensure it handles unseen tokens.,TECHNICAL_TASK
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+© 2025 West Visayas State University,IGNORE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+This document is confidential.,IGNORE
+CCS 235 — 2nd Semester,IGNORE
+Write your name and section on the document.,ADMIN_TRAP
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+"For inquiries, contact instructor@example.edu",IGNORE
+sentiment analysis module — 25 pts,WEIGHTED_PRIORITY
+CCS 235 — 1st Semester AY 2024-2025,IGNORE
+Code a text classification and test it with the provided sample corpus.,TECHNICAL_TASK
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+NER pipeline — 15 pts,WEIGHTED_PRIORITY
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+Rubric: model accuracy (5/100 points),WEIGHTED_PRIORITY
+Submit your Flask endpoint as a .py file with proper naming convention.,TECHNICAL_TASK
+WVSU College of Computing,IGNORE
+Attendance is required for the lab session.,ADMIN_TRAP
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+WVSU College of Computing,IGNORE
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Code a text classification and test it with the provided activity dataset.,TECHNICAL_TASK
+Page 10 of 25,IGNORE
+sentiment analysis module — 15 pts,WEIGHTED_PRIORITY
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Write a function that tokenizes the dataset.,TECHNICAL_TASK
+The backend will be graded out of 15 points.,WEIGHTED_PRIORITY
+Bonus: sentiment analysis module for 15 extra points.,OPTIONAL_BONUS
+This section is worth 25 points.,WEIGHTED_PRIORITY
+West Visayas State University College of Computing,IGNORE
+Prerequisite: Install Python 3.10 and configure .env file.,PRE_REQUISITE
+Submit via the LMS by next Monday.,ADMIN_TRAP
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Rubric: presentation (5/100 points),WEIGHTED_PRIORITY
+West Visayas State University College of Information and Communications Technology,IGNORE
+This section is worth 25 points.,WEIGHTED_PRIORITY
+Rubric: presentation (5/25 points),WEIGHTED_PRIORITY
+Bonus: text classification for 10 extra points.,OPTIONAL_BONUS
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+This document is confidential.,IGNORE
+Page 5 of 100,IGNORE
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Write your name and section on the document.,ADMIN_TRAP
+This section is worth 10 points.,WEIGHTED_PRIORITY
+Prerequisite: Install Python 3.10 and configure your GitHub SSH key.,PRE_REQUISITE
+Modify the model to support multi-label classification.,TECHNICAL_TASK
+Prerequisite: Install Python 3.10 and configure your virtual environment.,PRE_REQUISITE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Extra credit: text classification (+10 pts),OPTIONAL_BONUS
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+© 2024 West Visayas State University,IGNORE
+Prerequisite: Install Git and configure .env file.,PRE_REQUISITE
+source code — 5/50,WEIGHTED_PRIORITY
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Extract word embeddings from the corpus using BERT embeddings.,TECHNICAL_TASK
+Meeting at 3:30 PM with the instructor.,ADMIN_TRAP
+© 2024 West Visayas State University,IGNORE
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Rubric: code quality (25/25 points),WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Implement LSTM model using Keras and ensure it handles empty strings.,TECHNICAL_TASK
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+West Visayas State University College of Information and Communications Technology,IGNORE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Prerequisite: Install Git and configure .env file.,PRE_REQUISITE
+GitHub submission — 10/100,WEIGHTED_PRIORITY
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+Prerequisite: Install Git and configure .env file.,PRE_REQUISITE
+Attendance is required for the final presentation.,ADMIN_TRAP
+Meeting at 9 AM with your group leader.,ADMIN_TRAP
+This section is worth 15 points.,WEIGHTED_PRIORITY
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+source code — 15/25,WEIGHTED_PRIORITY
+"For inquiries, contact instructor@example.edu",IGNORE
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+This section is worth 15 points.,WEIGHTED_PRIORITY
+Code a text classification and test it with the provided provided training data.,TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Create a REST API that accepts raw text and returns labeled class.,TECHNICAL_TASK
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Rubric: documentation (15/25 points),WEIGHTED_PRIORITY
+Implement TF-IDF vectorizer using spaCy and ensure it handles long sequences.,TECHNICAL_TASK
+Extra credit: sentiment analysis module (+20 pts),OPTIONAL_BONUS
+Implement tokenizer using scikit-learn and ensure it handles empty strings.,TECHNICAL_TASK
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Submit your Jupyter notebook as a .py file with proper naming convention.,TECHNICAL_TASK
+Page 15 of 100,IGNORE
+© 2025 West Visayas State University,IGNORE
+Write your name and section on the document.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+Extra credit: text classification (+25 pts),OPTIONAL_BONUS
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Bonus: NER pipeline for 10 extra points.,OPTIONAL_BONUS
+© 2025 West Visayas State University,IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Page 15 of 100,IGNORE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Create a Flask endpoint that accepts raw text and returns embedding vector.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+Prerequisite: Install Python 3.10 and configure .env file.,PRE_REQUISITE
+Bonus: NER pipeline for 20 extra points.,OPTIONAL_BONUS
+Rubric: code quality (25/50 points),WEIGHTED_PRIORITY
+This section is worth 10 points.,WEIGHTED_PRIORITY
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Create a REST API that accepts CSV file and returns labeled class.,TECHNICAL_TASK
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Code a sentiment analysis module and test it with the provided activity dataset.,TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Implement LSTM model using NLTK and ensure it handles long sequences.,TECHNICAL_TASK
+NER pipeline — 5 pts,WEIGHTED_PRIORITY
+Bonus: sentiment analysis module for 15 extra points.,OPTIONAL_BONUS
+The backend will be graded out of 25 points.,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+Page 5 of 100,IGNORE
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Meeting at 3:30 PM with the department head.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Bonus: NER pipeline for 25 extra points.,OPTIONAL_BONUS
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Meeting at 3:30 PM with your group leader.,ADMIN_TRAP
+Bonus: sentiment analysis module for 25 extra points.,OPTIONAL_BONUS
+Extra credit: text classification (+25 pts),OPTIONAL_BONUS
+Submit your Python script as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Meeting at 2 PM with the department head.,ADMIN_TRAP
+Implement sentiment analyzer using scikit-learn and ensure it handles special characters.,TECHNICAL_TASK
+WVSU College of Information and Communications Technology,IGNORE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+West Visayas State University College of Information and Communications Technology,IGNORE
+source code — 15/100,WEIGHTED_PRIORITY
+West Visayas State University College of Computing,IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Write your name and section on the document.,ADMIN_TRAP
+Bonus: sentiment analysis module for 20 extra points.,OPTIONAL_BONUS
+Submit your Python script as a .py file with proper naming convention.,TECHNICAL_TASK
+The backend will be graded out of 15 points.,WEIGHTED_PRIORITY
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Submit your Jupyter notebook as a .py file with proper naming convention.,TECHNICAL_TASK
+source code — 5/25,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+"Using NLTK, train a model that classifies intent.",TECHNICAL_TASK
+Bonus: text classification for 5 extra points.,OPTIONAL_BONUS
+Write your name and section on the document.,ADMIN_TRAP
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+This section is worth 25 points.,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+20 pts),OPTIONAL_BONUS
+Modify the frontend to support GPU acceleration.,TECHNICAL_TASK
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+sentiment analysis module — 25 pts,WEIGHTED_PRIORITY
+Code a NER pipeline and test it with the provided activity dataset.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+Create a Python script that accepts CSV file and returns embedding vector.,TECHNICAL_TASK
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Prerequisite: Install Python 3.10 and configure your virtual environment.,PRE_REQUISITE
+Page 15 of 50,IGNORE
+source code — 20/100,WEIGHTED_PRIORITY
+"Using NLTK, train a model that classifies spam vs ham.",TECHNICAL_TASK
+© 2025 West Visayas State University,IGNORE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+CCS 235 — 2nd Semester,IGNORE
+This section is worth 5 points.,WEIGHTED_PRIORITY
+"Using Keras, train a model that classifies named entities.",TECHNICAL_TASK
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Code a NER pipeline and test it with the provided activity dataset.,TECHNICAL_TASK
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+Rubric: documentation (20/100 points),WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+This section is worth 5 points.,WEIGHTED_PRIORITY
+West Visayas State University College of Computing,IGNORE
+Bonus: sentiment analysis module for 20 extra points.,OPTIONAL_BONUS
+Modify the model to support batch inference.,TECHNICAL_TASK
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Meeting at 2 PM with the department head.,ADMIN_TRAP
+Page 20 of 50,IGNORE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+The backend will be graded out of 10 points.,WEIGHTED_PRIORITY
+© 2025 West Visayas State University,IGNORE
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+Prerequisite: Install Node.js and configure .env file.,PRE_REQUISITE
+Implement Naive Bayes classifier using Gensim and ensure it handles long sequences.,TECHNICAL_TASK
+source code — 15/25,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+Code a NER pipeline and test it with the provided sample corpus.,TECHNICAL_TASK
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Write a function that tokenizes the dataset.,TECHNICAL_TASK
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+"Using scikit-learn, train a model that classifies sentiment.",TECHNICAL_TASK
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Submit your REST API as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+Write a function that tokenizes the corpus.,TECHNICAL_TASK
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Attendance is required for the lab session.,ADMIN_TRAP
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Bonus: NER pipeline for 5 extra points.,OPTIONAL_BONUS
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+Bonus: NER pipeline for 20 extra points.,OPTIONAL_BONUS
+The frontend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Rubric: documentation (10/25 points),WEIGHTED_PRIORITY
+Extract POS tags from the corpus using word2vec.,TECHNICAL_TASK
+Code a NER pipeline and test it with the provided sample corpus.,TECHNICAL_TASK
+Extract n-grams from the corpus using BERT embeddings.,TECHNICAL_TASK
+This section is worth 5 points.,WEIGHTED_PRIORITY
+The backend will be graded out of 10 points.,WEIGHTED_PRIORITY
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+The backend will be graded out of 20 points.,WEIGHTED_PRIORITY
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+The model will be graded out of 25 points.,WEIGHTED_PRIORITY
+Create a Jupyter notebook that accepts CSV file and returns probability distribution.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+"Using PyTorch, train a model that classifies sentiment.",TECHNICAL_TASK
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
+Bonus: sentiment analysis module for 20 extra points.,OPTIONAL_BONUS
+text classification — 15 pts,WEIGHTED_PRIORITY
+Extract word embeddings from the corpus using BERT embeddings.,TECHNICAL_TASK
+Page 5 of 50,IGNORE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+"Using PyTorch, train a model that classifies spam vs ham.",TECHNICAL_TASK
+The model will be graded out of 10 points.,WEIGHTED_PRIORITY
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+Extract n-grams from the corpus using bag of words.,TECHNICAL_TASK
+© 2025 West Visayas State University,IGNORE
+Write a function that vectorizes the corpus.,TECHNICAL_TASK
+Extra credit: text classification (+5 pts),OPTIONAL_BONUS
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Code a text classification and test it with the provided provided training data.,TECHNICAL_TASK
+© 2024 West Visayas State University,IGNORE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+WVSU College of Computing,IGNORE
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Write a function that preprocesses the corpus.,TECHNICAL_TASK
+This section is worth 5 points.,WEIGHTED_PRIORITY
+Submit via the LMS by next Monday.,ADMIN_TRAP
+The backend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Submit your Python script as a .zip archive with proper naming convention.,TECHNICAL_TASK
+The frontend will be graded out of 15 points.,WEIGHTED_PRIORITY
+© 2024 West Visayas State University,IGNORE
+Bonus: NER pipeline for 5 extra points.,OPTIONAL_BONUS
+This document is confidential.,IGNORE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Modify the model to support GPU acceleration.,TECHNICAL_TASK
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+Prerequisite: Install Git and configure your GitHub SSH key.,PRE_REQUISITE
+report — 5/50,WEIGHTED_PRIORITY
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Rubric: model accuracy (20/50 points),WEIGHTED_PRIORITY
+CCS 221 — 2nd Semester,IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+CCS 249 — 1st Semester AY 2024-2025,IGNORE
+© 2024 West Visayas State University,IGNORE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+This section is worth 5 points.,WEIGHTED_PRIORITY
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+CCS 235 — 2nd Semester,IGNORE
+Create a Flask endpoint that accepts raw text and returns probability distribution.,TECHNICAL_TASK
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+© 2024 West Visayas State University,IGNORE
+Extra credit: NER pipeline (+5 pts),OPTIONAL_BONUS
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Write a function that embeds the vocabulary.,TECHNICAL_TASK
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+The backend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Extra credit: sentiment analysis module (+15 pts),OPTIONAL_BONUS
+This document is confidential.,IGNORE
+Bonus: text classification for 25 extra points.,OPTIONAL_BONUS
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+"For inquiries, contact instructor@example.edu",IGNORE
+Extract TF-IDF scores from the corpus using word2vec.,TECHNICAL_TASK
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Page 20 of 25,IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+CCS 235 — 2nd Semester,IGNORE
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Extra credit: sentiment analysis module (+20 pts),OPTIONAL_BONUS
+© 2024 West Visayas State University,IGNORE
+Meeting at 9 AM with your group leader.,ADMIN_TRAP
+Modify the backend to support batch inference.,TECHNICAL_TASK
+GitHub submission — 10/100,WEIGHTED_PRIORITY
+Write a function that classifies the dataset.,TECHNICAL_TASK
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+© 2025 West Visayas State University,IGNORE
+Submit your Python script as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+NER pipeline — 5 pts,WEIGHTED_PRIORITY
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+"Using HuggingFace Transformers, train a model that classifies spam vs ham.",TECHNICAL_TASK
+The model will be graded out of 20 points.,WEIGHTED_PRIORITY
+Write a function that preprocesses the corpus.,TECHNICAL_TASK
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Attendance is required for the lab session.,ADMIN_TRAP
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Code a sentiment analysis module and test it with the provided activity dataset.,TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+Page 5 of 50,IGNORE
+Bonus: text classification for 5 extra points.,OPTIONAL_BONUS
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Page 10 of 50,IGNORE
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Extra credit: text classification (+15 pts),OPTIONAL_BONUS
+CCS 249 — 1st Semester AY 2024-2025,IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+West Visayas State University College of Information and Communications Technology,IGNORE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Extra credit: NER pipeline (+5 pts),OPTIONAL_BONUS
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+Extra credit: NER pipeline (+20 pts),OPTIONAL_BONUS
+Modify the backend to support GPU acceleration.,TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+report — 5/50,WEIGHTED_PRIORITY
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+text classification — 10 pts,WEIGHTED_PRIORITY
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Code a text classification and test it with the provided sample corpus.,TECHNICAL_TASK
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+sentiment analysis module — 20 pts,WEIGHTED_PRIORITY
+Submit your Flask endpoint as a .py file with proper naming convention.,TECHNICAL_TASK
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+The frontend will be graded out of 20 points.,WEIGHTED_PRIORITY
+"For inquiries, contact instructor@example.edu",IGNORE
+"Using HuggingFace Transformers, train a model that classifies intent.",TECHNICAL_TASK
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Write your name and section on the document.,ADMIN_TRAP
+Modify the frontend to support GPU acceleration.,TECHNICAL_TASK
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+"For inquiries, contact instructor@example.edu",IGNORE
+CCS 249 — 1st Semester AY 2024-2025,IGNORE
+Write your name and section on the document.,ADMIN_TRAP
+This section is worth 15 points.,WEIGHTED_PRIORITY
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Extra credit: NER pipeline (+5 pts),OPTIONAL_BONUS
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+CCS 235 — 1st Semester AY 2024-2025,IGNORE
+Implement TF-IDF vectorizer using spaCy and ensure it handles special characters.,TECHNICAL_TASK
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Write your name and section on the document.,ADMIN_TRAP
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Modify the backend to support multi-label classification.,TECHNICAL_TASK
+"Using NLTK, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+Bonus: NER pipeline for 5 extra points.,OPTIONAL_BONUS
+© 2024 West Visayas State University,IGNORE
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+This document is confidential.,IGNORE
+WVSU College of Information and Communications Technology,IGNORE
+Implement NER tagger using Gensim and ensure it handles long sequences.,TECHNICAL_TASK
+Submit your Flask endpoint as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Rubric: code quality (20/25 points),WEIGHTED_PRIORITY
+Meeting at 9 AM with the department head.,ADMIN_TRAP
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+Rubric: presentation (5/25 points),WEIGHTED_PRIORITY
+Bonus: sentiment analysis module for 20 extra points.,OPTIONAL_BONUS
+Attendance is required for the lab session.,ADMIN_TRAP
+Create a Flask endpoint that accepts raw text and returns embedding vector.,TECHNICAL_TASK
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Write a function that embeds the corpus.,TECHNICAL_TASK
+Create a Flask endpoint that accepts raw text and returns embedding vector.,TECHNICAL_TASK
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+report — 15/25,WEIGHTED_PRIORITY
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Page 5 of 50,IGNORE
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+Extract POS tags from the corpus using word2vec.,TECHNICAL_TASK
+Submit your Flask endpoint as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Extract named entities from the corpus using BERT embeddings.,TECHNICAL_TASK
+Rubric: documentation (20/25 points),WEIGHTED_PRIORITY
+Page 20 of 100,IGNORE
+Implement sentiment analyzer using HuggingFace Transformers and ensure it handles empty strings.,TECHNICAL_TASK
+Bonus: text classification for 10 extra points.,OPTIONAL_BONUS
+report — 10/100,WEIGHTED_PRIORITY
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Create a Python script that accepts JSON payload and returns embedding vector.,TECHNICAL_TASK
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+West Visayas State University College of Computing,IGNORE
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Write a function that embeds the feature matrix.,TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+© 2025 West Visayas State University,IGNORE
+The frontend will be graded out of 15 points.,WEIGHTED_PRIORITY
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Implement Naive Bayes classifier using scikit-learn and ensure it handles special characters.,TECHNICAL_TASK
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+© 2025 West Visayas State University,IGNORE
+Write your name and section on the document.,ADMIN_TRAP
+CCS 221 — 2nd Semester,IGNORE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Page 5 of 25,IGNORE
+Create a REST API that accepts CSV file and returns labeled class.,TECHNICAL_TASK
+text classification — 5 pts,WEIGHTED_PRIORITY
+NER pipeline — 10 pts,WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+source code — 15/25,WEIGHTED_PRIORITY
+Create a Flask endpoint that accepts CSV file and returns embedding vector.,TECHNICAL_TASK
+This section is worth 5 points.,WEIGHTED_PRIORITY
+The backend will be graded out of 20 points.,WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+report — 5/50,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+"For inquiries, contact instructor@example.edu",IGNORE
+Bonus: sentiment analysis module for 20 extra points.,OPTIONAL_BONUS
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Page 20 of 100,IGNORE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+"Using PyTorch, train a model that classifies named entities.",TECHNICAL_TASK
+Prerequisite: Install Git and configure your GitHub SSH key.,PRE_REQUISITE
+GitHub submission — 25/50,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+Extra credit: sentiment analysis module (+15 pts),OPTIONAL_BONUS
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+© 2025 West Visayas State University,IGNORE
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+This document is confidential.,IGNORE
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Page 15 of 25,IGNORE
+Meeting at 2 PM with the instructor.,ADMIN_TRAP
+sentiment analysis module — 20 pts,WEIGHTED_PRIORITY
+NER pipeline — 10 pts,WEIGHTED_PRIORITY
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+© 2025 West Visayas State University,IGNORE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+CCS 221 — 2nd Semester,IGNORE
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+Extra credit: NER pipeline (+20 pts),OPTIONAL_BONUS
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Implement TF-IDF vectorizer using scikit-learn and ensure it handles unseen tokens.,TECHNICAL_TASK
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Bonus: NER pipeline for 25 extra points.,OPTIONAL_BONUS
+This document is confidential.,IGNORE
+© 2025 West Visayas State University,IGNORE
+Bonus: NER pipeline for 20 extra points.,OPTIONAL_BONUS
+GitHub submission — 10/25,WEIGHTED_PRIORITY
+© 2024 West Visayas State University,IGNORE
+Bonus: NER pipeline for 20 extra points.,OPTIONAL_BONUS
+"Using scikit-learn, train a model that classifies sentiment.",TECHNICAL_TASK
+CCS 235 — 2nd Semester,IGNORE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Write a function that tokenizes the dataset.,TECHNICAL_TASK
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Prerequisite: Install Node.js and configure your GitHub SSH key.,PRE_REQUISITE
+West Visayas State University College of Information and Communications Technology,IGNORE
+Page 5 of 50,IGNORE
+GitHub submission — 25/25,WEIGHTED_PRIORITY
+Rubric: presentation (15/100 points),WEIGHTED_PRIORITY
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Extract POS tags from the corpus using TF-IDF.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+Page 10 of 50,IGNORE
+Create a Jupyter notebook that accepts user query and returns probability distribution.,TECHNICAL_TASK
+Rubric: documentation (10/100 points),WEIGHTED_PRIORITY
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+© 2025 West Visayas State University,IGNORE
+"Using HuggingFace Transformers, train a model that classifies named entities.",TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Modify the frontend to support multi-label classification.,TECHNICAL_TASK
+Submit your Flask endpoint as a .zip archive with proper naming convention.,TECHNICAL_TASK
+GitHub submission — 5/25,WEIGHTED_PRIORITY
+Bonus: NER pipeline for 25 extra points.,OPTIONAL_BONUS
+CCS 235 — 2nd Semester,IGNORE
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Page 5 of 100,IGNORE
+Extra credit: text classification (+10 pts),OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+Extra credit: sentiment analysis module (+5 pts),OPTIONAL_BONUS
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Modify the backend to support GPU acceleration.,TECHNICAL_TASK
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+WVSU College of Computing,IGNORE
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Submit your Jupyter notebook as a .py file with proper naming convention.,TECHNICAL_TASK
+Extract POS tags from the corpus using TF-IDF.,TECHNICAL_TASK
+Modify the model to support batch inference.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Bonus: sentiment analysis module for 20 extra points.,OPTIONAL_BONUS
+"Using spaCy, train a model that classifies intent.",TECHNICAL_TASK
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
+Attendance is required for the lab session.,ADMIN_TRAP
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+This section is worth 25 points.,WEIGHTED_PRIORITY
+Code a sentiment analysis module and test it with the provided provided training data.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+Implement TF-IDF vectorizer using HuggingFace Transformers and ensure it handles empty strings.,TECHNICAL_TASK
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+NER pipeline — 10 pts,WEIGHTED_PRIORITY
+WVSU College of Computing,IGNORE
+The model will be graded out of 25 points.,WEIGHTED_PRIORITY
+Meeting at 3:30 PM with the instructor.,ADMIN_TRAP
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+Create a Jupyter notebook that accepts CSV file and returns probability distribution.,TECHNICAL_TASK
+This section is worth 20 points.,WEIGHTED_PRIORITY
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Page 15 of 100,IGNORE
+"Using spaCy, train a model that classifies intent.",TECHNICAL_TASK
+This document is confidential.,IGNORE
+This document is confidential.,IGNORE
+This document is confidential.,IGNORE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Bonus: sentiment analysis module for 15 extra points.,OPTIONAL_BONUS
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+This document is confidential.,IGNORE
+Submit your Python script as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+Submit your Jupyter notebook as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Page 5 of 50,IGNORE
+West Visayas State University College of Computing,IGNORE
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+© 2024 West Visayas State University,IGNORE
+Rubric: model accuracy (10/25 points),WEIGHTED_PRIORITY
+Extra credit: text classification (+15 pts),OPTIONAL_BONUS
+Page 25 of 50,IGNORE
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Modify the model to support multi-label classification.,TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+source code — 25/25,WEIGHTED_PRIORITY
+Meeting at 9 AM with the department head.,ADMIN_TRAP
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Submit your Flask endpoint as a .py file with proper naming convention.,TECHNICAL_TASK
+Extra credit: text classification (+5 pts),OPTIONAL_BONUS
+This document is confidential.,IGNORE
+source code — 15/100,WEIGHTED_PRIORITY
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Create a Flask endpoint that accepts CSV file and returns probability distribution.,TECHNICAL_TASK
+The frontend will be graded out of 20 points.,WEIGHTED_PRIORITY
+Bonus: NER pipeline for 15 extra points.,OPTIONAL_BONUS
+NER pipeline — 15 pts,WEIGHTED_PRIORITY
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
+Implement sentiment analyzer using HuggingFace Transformers and ensure it handles special characters.,TECHNICAL_TASK
+Submit your REST API as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+text classification — 10 pts,WEIGHTED_PRIORITY
+Submit via the LMS by next Monday.,ADMIN_TRAP
+© 2024 West Visayas State University,IGNORE
+Extra credit: NER pipeline (+5 pts),OPTIONAL_BONUS
+Attendance is required for the lab session.,ADMIN_TRAP
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Meeting at 9 AM with your group leader.,ADMIN_TRAP
+Extract TF-IDF scores from the corpus using bag of words.,TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+The backend will be graded out of 20 points.,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+Rubric: code quality (25/50 points),WEIGHTED_PRIORITY
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Create a Jupyter notebook that accepts JSON payload and returns labeled class.,TECHNICAL_TASK
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Attendance is required for the lab session.,ADMIN_TRAP
+Page 25 of 50,IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Implement LSTM model using Keras and ensure it handles unseen tokens.,TECHNICAL_TASK
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Write a function that embeds the feature matrix.,TECHNICAL_TASK
+Code a NER pipeline and test it with the provided activity dataset.,TECHNICAL_TASK
+Attendance is required for the final presentation.,ADMIN_TRAP
+Create a Jupyter notebook that accepts CSV file and returns embedding vector.,TECHNICAL_TASK
+Extract named entities from the corpus using word2vec.,TECHNICAL_TASK
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+This document is confidential.,IGNORE
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Page 10 of 50,IGNORE
+Write a function that tokenizes the feature matrix.,TECHNICAL_TASK
+© 2024 West Visayas State University,IGNORE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+CCS 221 — 2nd Semester,IGNORE
+© 2025 West Visayas State University,IGNORE
+Meeting at 9 AM with the department head.,ADMIN_TRAP
+Extract named entities from the corpus using BERT embeddings.,TECHNICAL_TASK
+Extra credit: text classification (+10 pts),OPTIONAL_BONUS
+NER pipeline — 15 pts,WEIGHTED_PRIORITY
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+CCS 221 — 2nd Semester,IGNORE
+This section is worth 15 points.,WEIGHTED_PRIORITY
+Prerequisite: Install Node.js and configure your GitHub SSH key.,PRE_REQUISITE
+sentiment analysis module — 5 pts,WEIGHTED_PRIORITY
+"Using Gensim, train a model that classifies named entities.",TECHNICAL_TASK
+Extract TF-IDF scores from the corpus using TF-IDF.,TECHNICAL_TASK
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Extract n-grams from the corpus using bag of words.,TECHNICAL_TASK
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Write a function that tokenizes the corpus.,TECHNICAL_TASK
+Extra credit: sentiment analysis module (+20 pts),OPTIONAL_BONUS
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+Submit your Jupyter notebook as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+This section is worth 5 points.,WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+source code — 20/50,WEIGHTED_PRIORITY
+Create a REST API that accepts user query and returns embedding vector.,TECHNICAL_TASK
+"Using Keras, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+© 2025 West Visayas State University,IGNORE
+Page 25 of 50,IGNORE
+Rubric: model accuracy (25/50 points),WEIGHTED_PRIORITY
+This section is worth 10 points.,WEIGHTED_PRIORITY
+© 2024 West Visayas State University,IGNORE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Page 5 of 50,IGNORE
+This document is confidential.,IGNORE
+Prerequisite: Install Python 3.10 and configure your virtual environment.,PRE_REQUISITE
+Prerequisite: Install Git and configure .env file.,PRE_REQUISITE
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+"Using PyTorch, train a model that classifies intent.",TECHNICAL_TASK
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Extract word embeddings from the corpus using bag of words.,TECHNICAL_TASK
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Extra credit: sentiment analysis module (+5 pts),OPTIONAL_BONUS
+Meeting at 9 AM with your group leader.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+NER pipeline — 15 pts,WEIGHTED_PRIORITY
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Write a function that vectorizes the corpus.,TECHNICAL_TASK
+Bonus: NER pipeline for 15 extra points.,OPTIONAL_BONUS
+Write your name and section on the document.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+Write a function that vectorizes the feature matrix.,TECHNICAL_TASK
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Rubric: model accuracy (15/100 points),WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Meeting at 3:30 PM with the instructor.,ADMIN_TRAP
+"Using scikit-learn, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+Write a function that classifies the feature matrix.,TECHNICAL_TASK
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+This document is confidential.,IGNORE
+GitHub submission — 25/25,WEIGHTED_PRIORITY
+CCS 249 — 2nd Semester,IGNORE
+Bonus: text classification for 5 extra points.,OPTIONAL_BONUS
+Rubric: documentation (15/25 points),WEIGHTED_PRIORITY
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+This document is confidential.,IGNORE
+Write your name and section on the document.,ADMIN_TRAP
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+NER pipeline — 25 pts,WEIGHTED_PRIORITY
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Modify the model to support GPU acceleration.,TECHNICAL_TASK
+Write a function that preprocesses the corpus.,TECHNICAL_TASK
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Modify the backend to support GPU acceleration.,TECHNICAL_TASK
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+Submit your Jupyter notebook as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+CCS 249 — 2nd Semester,IGNORE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Attendance is required for the final presentation.,ADMIN_TRAP
+source code — 5/50,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+report — 15/50,WEIGHTED_PRIORITY
+Submit your Python script as a .py file with proper naming convention.,TECHNICAL_TASK
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Extract n-grams from the corpus using TF-IDF.,TECHNICAL_TASK
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Bonus: sentiment analysis module for 5 extra points.,OPTIONAL_BONUS
+Bonus: NER pipeline for 10 extra points.,OPTIONAL_BONUS
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+"Using spaCy, train a model that classifies named entities.",TECHNICAL_TASK
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Attendance is required for the lab session.,ADMIN_TRAP
+Page 10 of 100,IGNORE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+This document is confidential.,IGNORE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+"Using HuggingFace Transformers, train a model that classifies spam vs ham.",TECHNICAL_TASK
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+sentiment analysis module — 15 pts,WEIGHTED_PRIORITY
+CCS 235 — 1st Semester AY 2024-2025,IGNORE
+This section is worth 15 points.,WEIGHTED_PRIORITY
+Create a Flask endpoint that accepts CSV file and returns probability distribution.,TECHNICAL_TASK
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Extract named entities from the corpus using TF-IDF.,TECHNICAL_TASK
+Extra credit: text classification (+25 pts),OPTIONAL_BONUS
+The model will be graded out of 10 points.,WEIGHTED_PRIORITY
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Extract POS tags from the corpus using word2vec.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+Implement stemmer using spaCy and ensure it handles special characters.,TECHNICAL_TASK
+Rubric: model accuracy (20/50 points),WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Prerequisite: Install Python 3.10 and configure .env file.,PRE_REQUISITE
+Page 15 of 25,IGNORE
+Write your name and section on the document.,ADMIN_TRAP
+Write a function that embeds the dataset.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+"For inquiries, contact instructor@example.edu",IGNORE
+report — 5/100,WEIGHTED_PRIORITY
+CCS 235 — 2nd Semester,IGNORE
+text classification — 10 pts,WEIGHTED_PRIORITY
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Rubric: model accuracy (5/25 points),WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+CCS 221 — 2nd Semester,IGNORE
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Page 20 of 50,IGNORE
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Page 5 of 100,IGNORE
+Submit your Flask endpoint as a .py file with proper naming convention.,TECHNICAL_TASK
+Code a sentiment analysis module and test it with the provided sample corpus.,TECHNICAL_TASK
+West Visayas State University College of Computing,IGNORE
+Create a REST API that accepts user query and returns embedding vector.,TECHNICAL_TASK
+Meeting at 2 PM with the instructor.,ADMIN_TRAP
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Bonus: sentiment analysis module for 10 extra points.,OPTIONAL_BONUS
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Attendance is required for the lab session.,ADMIN_TRAP
+Modify the frontend to support GPU acceleration.,TECHNICAL_TASK
+West Visayas State University College of Computing,IGNORE
+text classification — 10 pts,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+20 pts),OPTIONAL_BONUS
+Meeting at 9 AM with the instructor.,ADMIN_TRAP
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+© 2024 West Visayas State University,IGNORE
+WVSU College of Computing,IGNORE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Extract named entities from the corpus using bag of words.,TECHNICAL_TASK
+Page 15 of 25,IGNORE
+Prerequisite: Install Node.js and configure your GitHub SSH key.,PRE_REQUISITE
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Implement LSTM model using NLTK and ensure it handles special characters.,TECHNICAL_TASK
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+© 2024 West Visayas State University,IGNORE
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Extra credit: text classification (+5 pts),OPTIONAL_BONUS
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Rubric: presentation (15/50 points),WEIGHTED_PRIORITY
+Create a Flask endpoint that accepts CSV file and returns embedding vector.,TECHNICAL_TASK
+Rubric: presentation (20/100 points),WEIGHTED_PRIORITY
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+Rubric: model accuracy (20/25 points),WEIGHTED_PRIORITY
+"Using Keras, train a model that classifies spam vs ham.",TECHNICAL_TASK
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Bonus: sentiment analysis module for 10 extra points.,OPTIONAL_BONUS
+The model will be graded out of 5 points.,WEIGHTED_PRIORITY
+Create a Flask endpoint that accepts CSV file and returns embedding vector.,TECHNICAL_TASK
+West Visayas State University College of Computing,IGNORE
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+© 2025 West Visayas State University,IGNORE
+Implement sentiment analyzer using Gensim and ensure it handles unseen tokens.,TECHNICAL_TASK
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+WVSU College of Computing,IGNORE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+The model will be graded out of 20 points.,WEIGHTED_PRIORITY
+The model will be graded out of 20 points.,WEIGHTED_PRIORITY
+© 2024 West Visayas State University,IGNORE
+This document is confidential.,IGNORE
+Extract n-grams from the corpus using BERT embeddings.,TECHNICAL_TASK
+Submit your Jupyter notebook as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+This section is worth 10 points.,WEIGHTED_PRIORITY
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Modify the model to support multi-label classification.,TECHNICAL_TASK
+Page 10 of 50,IGNORE
+Rubric: presentation (10/50 points),WEIGHTED_PRIORITY
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+"Using scikit-learn, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Bonus: sentiment analysis module for 10 extra points.,OPTIONAL_BONUS
+Write your name and section on the document.,ADMIN_TRAP
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+The model will be graded out of 10 points.,WEIGHTED_PRIORITY
+Create a Flask endpoint that accepts CSV file and returns labeled class.,TECHNICAL_TASK
+Rubric: model accuracy (20/100 points),WEIGHTED_PRIORITY
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+Write a function that preprocesses the vocabulary.,TECHNICAL_TASK
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Extra credit: sentiment analysis module (+25 pts),OPTIONAL_BONUS
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Bonus: text classification for 25 extra points.,OPTIONAL_BONUS
+NER pipeline — 5 pts,WEIGHTED_PRIORITY
+"Using spaCy, train a model that classifies sentiment.",TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Write a function that preprocesses the vocabulary.,TECHNICAL_TASK
+Extract n-grams from the corpus using BERT embeddings.,TECHNICAL_TASK
+Attendance is required for the final presentation.,ADMIN_TRAP
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Create a Jupyter notebook that accepts raw text and returns labeled class.,TECHNICAL_TASK
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Implement Naive Bayes classifier using spaCy and ensure it handles special characters.,TECHNICAL_TASK
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+WVSU College of Information and Communications Technology,IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+West Visayas State University College of Computing,IGNORE
+Write a function that vectorizes the feature matrix.,TECHNICAL_TASK
+Submit your Python script as a .py file with proper naming convention.,TECHNICAL_TASK
+The backend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Extra credit: sentiment analysis module (+25 pts),OPTIONAL_BONUS
+Write your name and section on the document.,ADMIN_TRAP
+Prerequisite: Install Flask and configure your virtual environment.,PRE_REQUISITE
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+source code — 10/50,WEIGHTED_PRIORITY
+Prerequisite: Install Node.js and configure .env file.,PRE_REQUISITE
+source code — 10/100,WEIGHTED_PRIORITY
+Prerequisite: Install Node.js and configure .env file.,PRE_REQUISITE
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+CCS 235 — 2nd Semester,IGNORE
+Page 25 of 100,IGNORE
+"For inquiries, contact instructor@example.edu",IGNORE
+Meeting at 3:30 PM with your group leader.,ADMIN_TRAP
+Modify the backend to support batch inference.,TECHNICAL_TASK
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Create a Flask endpoint that accepts raw text and returns probability distribution.,TECHNICAL_TASK
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Implement tokenizer using PyTorch and ensure it handles long sequences.,TECHNICAL_TASK
+CCS 221 — 2nd Semester,IGNORE
+Extract TF-IDF scores from the corpus using bag of words.,TECHNICAL_TASK
+Bonus: sentiment analysis module for 5 extra points.,OPTIONAL_BONUS
+This section is worth 25 points.,WEIGHTED_PRIORITY
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Submit your Jupyter notebook as a .py file with proper naming convention.,TECHNICAL_TASK
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Bonus: text classification for 10 extra points.,OPTIONAL_BONUS
+WVSU College of Information and Communications Technology,IGNORE
+West Visayas State University College of Information and Communications Technology,IGNORE
+Implement stemmer using spaCy and ensure it handles long sequences.,TECHNICAL_TASK
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Prerequisite: Install Python 3.10 and configure your GitHub SSH key.,PRE_REQUISITE
+The backend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Prerequisite: Install Git and configure your GitHub SSH key.,PRE_REQUISITE
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+"For inquiries, contact instructor@example.edu",IGNORE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+West Visayas State University College of Computing,IGNORE
+The frontend will be graded out of 10 points.,WEIGHTED_PRIORITY
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+"Using NLTK, train a model that classifies named entities.",TECHNICAL_TASK
+Prerequisite: Install Git and configure your GitHub SSH key.,PRE_REQUISITE
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Meeting at 2 PM with your group leader.,ADMIN_TRAP
+Implement tokenizer using HuggingFace Transformers and ensure it handles empty strings.,TECHNICAL_TASK
+WVSU College of Information and Communications Technology,IGNORE
+© 2025 West Visayas State University,IGNORE
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Create a Jupyter notebook that accepts JSON payload and returns probability distribution.,TECHNICAL_TASK
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+This document is confidential.,IGNORE
+Write a function that tokenizes the feature matrix.,TECHNICAL_TASK
+Submit via the LMS by next Monday.,ADMIN_TRAP
+CCS 235 — 1st Semester AY 2024-2025,IGNORE
+"Using NLTK, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Code a NER pipeline and test it with the provided sample corpus.,TECHNICAL_TASK
+source code — 5/100,WEIGHTED_PRIORITY
+CCS 235 — 2nd Semester,IGNORE
+This section is worth 5 points.,WEIGHTED_PRIORITY
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+Extra credit: NER pipeline (+15 pts),OPTIONAL_BONUS
+report — 15/25,WEIGHTED_PRIORITY
+Meeting at 3:30 PM with the instructor.,ADMIN_TRAP
+Create a Python script that accepts raw text and returns probability distribution.,TECHNICAL_TASK
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+Create a Flask endpoint that accepts JSON payload and returns probability distribution.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Meeting at 9 AM with the instructor.,ADMIN_TRAP
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+Extra credit: NER pipeline (+5 pts),OPTIONAL_BONUS
+Submit via the LMS by next Monday.,ADMIN_TRAP
+This document is confidential.,IGNORE
+Extra credit: sentiment analysis module (+25 pts),OPTIONAL_BONUS
+This section is worth 10 points.,WEIGHTED_PRIORITY
+Modify the model to support multi-label classification.,TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+West Visayas State University College of Computing,IGNORE
+Meeting at 2 PM with the department head.,ADMIN_TRAP
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+This section is worth 15 points.,WEIGHTED_PRIORITY
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+"Using Gensim, train a model that classifies intent.",TECHNICAL_TASK
+Prerequisite: Install Python 3.10 and configure .env file.,PRE_REQUISITE
+"Using Gensim, train a model that classifies named entities.",TECHNICAL_TASK
+"Using spaCy, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Modify the frontend to support GPU acceleration.,TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Prerequisite: Install Python 3.10 and configure .env file.,PRE_REQUISITE
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+source code — 15/100,WEIGHTED_PRIORITY
+Implement stemmer using Gensim and ensure it handles special characters.,TECHNICAL_TASK
+Attendance is required for the lab session.,ADMIN_TRAP
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Modify the backend to support multi-label classification.,TECHNICAL_TASK
+Create a REST API that accepts CSV file and returns labeled class.,TECHNICAL_TASK
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+Meeting at 9 AM with your group leader.,ADMIN_TRAP
+Meeting at 9 AM with the department head.,ADMIN_TRAP
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Code a sentiment analysis module and test it with the provided sample corpus.,TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Meeting at 2 PM with the instructor.,ADMIN_TRAP
+Bonus: text classification for 10 extra points.,OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+The model will be graded out of 25 points.,WEIGHTED_PRIORITY
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Implement tokenizer using Gensim and ensure it handles special characters.,TECHNICAL_TASK
+Prerequisite: Install Node.js and configure your GitHub SSH key.,PRE_REQUISITE
+Bonus: text classification for 25 extra points.,OPTIONAL_BONUS
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+source code — 15/100,WEIGHTED_PRIORITY
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Create a Jupyter notebook that accepts user query and returns probability distribution.,TECHNICAL_TASK
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+West Visayas State University College of Information and Communications Technology,IGNORE
+GitHub submission — 25/50,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+Extract n-grams from the corpus using TF-IDF.,TECHNICAL_TASK
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+WVSU College of Computing,IGNORE
+Submit your Python script as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+Page 20 of 25,IGNORE
+Rubric: documentation (15/100 points),WEIGHTED_PRIORITY
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+This document is confidential.,IGNORE
+This document is confidential.,IGNORE
+This document is confidential.,IGNORE
+report — 10/100,WEIGHTED_PRIORITY
+Create a Python script that accepts user query and returns probability distribution.,TECHNICAL_TASK
+"Using spaCy, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Prerequisite: Install Node.js and configure .env file.,PRE_REQUISITE
+CCS 235 — 2nd Semester,IGNORE
+Page 25 of 25,IGNORE
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+This document is confidential.,IGNORE
+Write a function that tokenizes the corpus.,TECHNICAL_TASK
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+The model will be graded out of 15 points.,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+Extra credit: sentiment analysis module (+15 pts),OPTIONAL_BONUS
+Implement tokenizer using scikit-learn and ensure it handles special characters.,TECHNICAL_TASK
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Extra credit: NER pipeline (+5 pts),OPTIONAL_BONUS
+This document is confidential.,IGNORE
+Submit your Jupyter notebook as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+Write a function that vectorizes the corpus.,TECHNICAL_TASK
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+Write a function that classifies the dataset.,TECHNICAL_TASK
+Prerequisite: Install Python 3.10 and configure your virtual environment.,PRE_REQUISITE
+Meeting at 2 PM with your group leader.,ADMIN_TRAP
+Extra credit: text classification (+15 pts),OPTIONAL_BONUS
+Page 25 of 100,IGNORE
+Page 5 of 50,IGNORE
+Rubric: code quality (25/50 points),WEIGHTED_PRIORITY
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+report — 5/50,WEIGHTED_PRIORITY
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Optional: Implement named entities for additional credit.,OPTIONAL_BONUS
+"Using PyTorch, train a model that classifies intent.",TECHNICAL_TASK
+Submit your Python script as a .py file with proper naming convention.,TECHNICAL_TASK
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Page 20 of 100,IGNORE
+Extract TF-IDF scores from the corpus using word2vec.,TECHNICAL_TASK
+Submit your Flask endpoint as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Extra credit: text classification (+25 pts),OPTIONAL_BONUS
+GitHub submission — 10/25,WEIGHTED_PRIORITY
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+The model will be graded out of 15 points.,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+15 pts),OPTIONAL_BONUS
+West Visayas State University College of Information and Communications Technology,IGNORE
+Create a Python script that accepts raw text and returns labeled class.,TECHNICAL_TASK
+This section is worth 5 points.,WEIGHTED_PRIORITY
+Extract POS tags from the corpus using TF-IDF.,TECHNICAL_TASK
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+text classification — 10 pts,WEIGHTED_PRIORITY
+WVSU College of Information and Communications Technology,IGNORE
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Page 5 of 50,IGNORE
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Prerequisite: Install Node.js and configure .env file.,PRE_REQUISITE
+Prerequisite: Install Python 3.10 and configure your GitHub SSH key.,PRE_REQUISITE
+© 2024 West Visayas State University,IGNORE
+Meeting at 3:30 PM with your group leader.,ADMIN_TRAP
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+This section is worth 20 points.,WEIGHTED_PRIORITY
+GitHub submission — 15/25,WEIGHTED_PRIORITY
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+source code — 5/50,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+10 pts),OPTIONAL_BONUS
+© 2024 West Visayas State University,IGNORE
+WVSU College of Information and Communications Technology,IGNORE
+West Visayas State University College of Computing,IGNORE
+Extract word embeddings from the corpus using bag of words.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+Submit your Flask endpoint as a .py file with proper naming convention.,TECHNICAL_TASK
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Meeting at 2 PM with your group leader.,ADMIN_TRAP
+The model will be graded out of 20 points.,WEIGHTED_PRIORITY
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Write a function that classifies the vocabulary.,TECHNICAL_TASK
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Write your name and section on the document.,ADMIN_TRAP
+Prerequisite: Install Git and configure .env file.,PRE_REQUISITE
+The model will be graded out of 25 points.,WEIGHTED_PRIORITY
+CCS 235 — 1st Semester AY 2024-2025,IGNORE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Implement Naive Bayes classifier using spaCy and ensure it handles special characters.,TECHNICAL_TASK
+This section is worth 25 points.,WEIGHTED_PRIORITY
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Write a function that preprocesses the corpus.,TECHNICAL_TASK
+"For inquiries, contact instructor@example.edu",IGNORE
+Extract TF-IDF scores from the corpus using BERT embeddings.,TECHNICAL_TASK
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+Write a function that classifies the dataset.,TECHNICAL_TASK
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+© 2025 West Visayas State University,IGNORE
+West Visayas State University College of Information and Communications Technology,IGNORE
+This section is worth 5 points.,WEIGHTED_PRIORITY
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Code a sentiment analysis module and test it with the provided provided training data.,TECHNICAL_TASK
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+Write your name and section on the document.,ADMIN_TRAP
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+Submit your Python script as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+Bonus: sentiment analysis module for 5 extra points.,OPTIONAL_BONUS
+Page 15 of 50,IGNORE
+"Using Keras, train a model that classifies spam vs ham.",TECHNICAL_TASK
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+report — 25/100,WEIGHTED_PRIORITY
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+WVSU College of Computing,IGNORE
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Meeting at 9 AM with the instructor.,ADMIN_TRAP
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+Meeting at 9 AM with your group leader.,ADMIN_TRAP
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Write a function that classifies the corpus.,TECHNICAL_TASK
+© 2025 West Visayas State University,IGNORE
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+West Visayas State University College of Computing,IGNORE
+sentiment analysis module — 20 pts,WEIGHTED_PRIORITY
+source code — 25/25,WEIGHTED_PRIORITY
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Meeting at 2 PM with the department head.,ADMIN_TRAP
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Bonus: text classification for 25 extra points.,OPTIONAL_BONUS
+The backend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Meeting at 2 PM with your group leader.,ADMIN_TRAP
+WVSU College of Computing,IGNORE
+"Using PyTorch, train a model that classifies sentiment.",TECHNICAL_TASK
+Prerequisite: Install Flask and configure your virtual environment.,PRE_REQUISITE
+"For inquiries, contact instructor@example.edu",IGNORE
+Create a Jupyter notebook that accepts user query and returns probability distribution.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+Prerequisite: Install Flask and configure your virtual environment.,PRE_REQUISITE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Page 5 of 100,IGNORE
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Write a function that embeds the corpus.,TECHNICAL_TASK
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+Rubric: documentation (15/50 points),WEIGHTED_PRIORITY
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Extra credit: sentiment analysis module (+10 pts),OPTIONAL_BONUS
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Submit your REST API as a .zip archive with proper naming convention.,TECHNICAL_TASK
+NER pipeline — 20 pts,WEIGHTED_PRIORITY
+Extract POS tags from the corpus using TF-IDF.,TECHNICAL_TASK
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Write a function that vectorizes the vocabulary.,TECHNICAL_TASK
+The backend will be graded out of 20 points.,WEIGHTED_PRIORITY
+Attendance is required for the final presentation.,ADMIN_TRAP
+Code a text classification and test it with the provided provided training data.,TECHNICAL_TASK
+Prerequisite: Install Git and configure .env file.,PRE_REQUISITE
+CCS 249 — 2nd Semester,IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+"For inquiries, contact instructor@example.edu",IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+© 2024 West Visayas State University,IGNORE
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+WVSU College of Computing,IGNORE
+"Using NLTK, train a model that classifies named entities.",TECHNICAL_TASK
+CCS 235 — 2nd Semester,IGNORE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+WVSU College of Computing,IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Rubric: code quality (20/25 points),WEIGHTED_PRIORITY
+sentiment analysis module — 25 pts,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+© 2024 West Visayas State University,IGNORE
+Page 15 of 100,IGNORE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Submit your Python script as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+CCS 235 — 2nd Semester,IGNORE
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+Extra credit: text classification (+5 pts),OPTIONAL_BONUS
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Modify the frontend to support GPU acceleration.,TECHNICAL_TASK
+Code a text classification and test it with the provided provided training data.,TECHNICAL_TASK
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+NER pipeline — 25 pts,WEIGHTED_PRIORITY
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Create a REST API that accepts user query and returns embedding vector.,TECHNICAL_TASK
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+"Using Gensim, train a model that classifies spam vs ham.",TECHNICAL_TASK
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+Create a Python script that accepts CSV file and returns embedding vector.,TECHNICAL_TASK
+Extract named entities from the corpus using word2vec.,TECHNICAL_TASK
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Implement stemmer using PyTorch and ensure it handles long sequences.,TECHNICAL_TASK
+This document is confidential.,IGNORE
+report — 15/50,WEIGHTED_PRIORITY
+Rubric: code quality (20/50 points),WEIGHTED_PRIORITY
+Page 15 of 100,IGNORE
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+"For inquiries, contact instructor@example.edu",IGNORE
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+West Visayas State University College of Information and Communications Technology,IGNORE
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+This document is confidential.,IGNORE
+Submit your Python script as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Meeting at 3:30 PM with the instructor.,ADMIN_TRAP
+CCS 249 — 1st Semester AY 2024-2025,IGNORE
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Prerequisite: Install Node.js and configure your GitHub SSH key.,PRE_REQUISITE
+Implement NER tagger using HuggingFace Transformers and ensure it handles long sequences.,TECHNICAL_TASK
+GitHub submission — 5/50,WEIGHTED_PRIORITY
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Extra credit: text classification (+5 pts),OPTIONAL_BONUS
+Code a NER pipeline and test it with the provided activity dataset.,TECHNICAL_TASK
+Prerequisite: Install Node.js and configure .env file.,PRE_REQUISITE
+This section is worth 20 points.,WEIGHTED_PRIORITY
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+The frontend will be graded out of 10 points.,WEIGHTED_PRIORITY
+Page 5 of 50,IGNORE
+West Visayas State University College of Information and Communications Technology,IGNORE
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+source code — 10/100,WEIGHTED_PRIORITY
+Extract word embeddings from the corpus using bag of words.,TECHNICAL_TASK
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Bonus: sentiment analysis module for 10 extra points.,OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Create a Flask endpoint that accepts user query and returns embedding vector.,TECHNICAL_TASK
+Rubric: model accuracy (15/50 points),WEIGHTED_PRIORITY
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Late submissions will not be accepted after the end of the week.,ADMIN_TRAP
+WVSU College of Information and Communications Technology,IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+GitHub submission — 25/25,WEIGHTED_PRIORITY
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+This section is worth 25 points.,WEIGHTED_PRIORITY
+"Using Gensim, train a model that classifies sentiment.",TECHNICAL_TASK
+Bonus: text classification for 25 extra points.,OPTIONAL_BONUS
+Attendance is required for the final presentation.,ADMIN_TRAP
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+Attendance is required for the lab session.,ADMIN_TRAP
+Implement LSTM model using NLTK and ensure it handles long sequences.,TECHNICAL_TASK
+The backend will be graded out of 15 points.,WEIGHTED_PRIORITY
+Late submissions will not be accepted after Friday 11:59 PM.,ADMIN_TRAP
+CCS 249 — 2nd Semester,IGNORE
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+GitHub submission — 10/25,WEIGHTED_PRIORITY
+© 2025 West Visayas State University,IGNORE
+"Using spaCy, train a model that classifies spam vs ham.",TECHNICAL_TASK
+The frontend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Implement LSTM model using scikit-learn and ensure it handles long sequences.,TECHNICAL_TASK
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Extra credit: sentiment analysis module (+5 pts),OPTIONAL_BONUS
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Rubric: code quality (5/100 points),WEIGHTED_PRIORITY
+Meeting at 2 PM with the department head.,ADMIN_TRAP
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+This section is worth 25 points.,WEIGHTED_PRIORITY
+Meeting at 9 AM with the department head.,ADMIN_TRAP
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+Extra credit: text classification (+5 pts),OPTIONAL_BONUS
+Bonus: sentiment analysis module for 25 extra points.,OPTIONAL_BONUS
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+The model will be graded out of 25 points.,WEIGHTED_PRIORITY
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+GitHub submission — 10/100,WEIGHTED_PRIORITY
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+"For inquiries, contact instructor@example.edu",IGNORE
+Rubric: presentation (25/100 points),WEIGHTED_PRIORITY
+Create a Flask endpoint that accepts user query and returns embedding vector.,TECHNICAL_TASK
+report — 20/50,WEIGHTED_PRIORITY
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+This document is confidential.,IGNORE
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+Bonus: text classification for 10 extra points.,OPTIONAL_BONUS
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Total: 25 points. Partial credit given.,WEIGHTED_PRIORITY
+Attendance is required for the lab session.,ADMIN_TRAP
+Page 15 of 100,IGNORE
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+Submit your Jupyter notebook as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Bonus: text classification for 10 extra points.,OPTIONAL_BONUS
+text classification — 15 pts,WEIGHTED_PRIORITY
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+text classification — 20 pts,WEIGHTED_PRIORITY
+© 2024 West Visayas State University,IGNORE
+The frontend will be graded out of 15 points.,WEIGHTED_PRIORITY
+Bonus: text classification for 25 extra points.,OPTIONAL_BONUS
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+CCS 221 — 2nd Semester,IGNORE
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Attendance is required for the lab session.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+CCS 235 — 1st Semester AY 2024-2025,IGNORE
+"Using PyTorch, train a model that classifies sentiment.",TECHNICAL_TASK
+Extra credit: text classification (+10 pts),OPTIONAL_BONUS
+Bonus: text classification for 10 extra points.,OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+The model will be graded out of 10 points.,WEIGHTED_PRIORITY
+This activity assumes knowledge of linear algebra.,PRE_REQUISITE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Total: 10 points. Partial credit given.,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+"Using HuggingFace Transformers, train a model that classifies sentiment.",TECHNICAL_TASK
+Bonus: text classification for 15 extra points.,OPTIONAL_BONUS
+"Using Gensim, train a model that classifies named entities.",TECHNICAL_TASK
+Late submissions will not be accepted after next Monday.,ADMIN_TRAP
+Write your name and section on the document.,ADMIN_TRAP
+The model will be graded out of 10 points.,WEIGHTED_PRIORITY
+Submit via the LMS by next Monday.,ADMIN_TRAP
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+"Using PyTorch, train a model that classifies intent.",TECHNICAL_TASK
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+West Visayas State University College of Information and Communications Technology,IGNORE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Prerequisite: Install Git and configure your GitHub SSH key.,PRE_REQUISITE
+© 2024 West Visayas State University,IGNORE
+Modify the frontend to support multi-label classification.,TECHNICAL_TASK
+This activity assumes knowledge of probability.,PRE_REQUISITE
+text classification — 5 pts,WEIGHTED_PRIORITY
+CCS 249 — 1st Semester AY 2024-2025,IGNORE
+Implement LSTM model using Keras and ensure it handles empty strings.,TECHNICAL_TASK
+© 2025 West Visayas State University,IGNORE
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+Submit your Flask endpoint as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+CCS 249 — 1st Semester AY 2024-2025,IGNORE
+Code a NER pipeline and test it with the provided sample corpus.,TECHNICAL_TASK
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+Extract TF-IDF scores from the corpus using word2vec.,TECHNICAL_TASK
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Implement tokenizer using PyTorch and ensure it handles unseen tokens.,TECHNICAL_TASK
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Submit your REST API as a .py file with proper naming convention.,TECHNICAL_TASK
+WVSU College of Information and Communications Technology,IGNORE
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+This document is confidential.,IGNORE
+The model will be graded out of 20 points.,WEIGHTED_PRIORITY
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+Page 20 of 100,IGNORE
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+The backend will be graded out of 5 points.,WEIGHTED_PRIORITY
+West Visayas State University College of Information and Communications Technology,IGNORE
+Attendance is required for the lab session.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+Meeting at 3:30 PM with the instructor.,ADMIN_TRAP
+Attendance is required for the final presentation.,ADMIN_TRAP
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+GitHub submission — 10/100,WEIGHTED_PRIORITY
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Prerequisite: Install Node.js and configure .env file.,PRE_REQUISITE
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+Create a Flask endpoint that accepts raw text and returns probability distribution.,TECHNICAL_TASK
+source code — 5/50,WEIGHTED_PRIORITY
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+Page 25 of 25,IGNORE
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Extra credit: NER pipeline (+20 pts),OPTIONAL_BONUS
+Attendance is required for the final presentation.,ADMIN_TRAP
+This document is confidential.,IGNORE
+Submit via the LMS by next Monday.,ADMIN_TRAP
+This section is worth 20 points.,WEIGHTED_PRIORITY
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Rubric: documentation (15/25 points),WEIGHTED_PRIORITY
+You should have completed Unit 5 before attempting this.,PRE_REQUISITE
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+Meeting at 3:30 PM with your group leader.,ADMIN_TRAP
+You should have completed the preprocessing lab before attempting this.,PRE_REQUISITE
+Optional: Implement POS tags for additional credit.,OPTIONAL_BONUS
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Total: 5 points. Partial credit given.,WEIGHTED_PRIORITY
+Write a function that tokenizes the feature matrix.,TECHNICAL_TASK
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+text classification — 5 pts,WEIGHTED_PRIORITY
+Submit your REST API as a .zip archive with proper naming convention.,TECHNICAL_TASK
+Rubric: presentation (25/50 points),WEIGHTED_PRIORITY
+Page 25 of 50,IGNORE
+Optional: Implement n-grams for additional credit.,OPTIONAL_BONUS
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Attendance is required for the final presentation.,ADMIN_TRAP
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Create a REST API that accepts JSON payload and returns labeled class.,TECHNICAL_TASK
+Extra credit: NER pipeline (+25 pts),OPTIONAL_BONUS
+source code — 5/100,WEIGHTED_PRIORITY
+Extract n-grams from the corpus using BERT embeddings.,TECHNICAL_TASK
+Extra credit: text classification (+20 pts),OPTIONAL_BONUS
+This activity assumes knowledge of probability.,PRE_REQUISITE
+Code a sentiment analysis module and test it with the provided sample corpus.,TECHNICAL_TASK
+Bonus: text classification for 20 extra points.,OPTIONAL_BONUS
+Code a NER pipeline and test it with the provided activity dataset.,TECHNICAL_TASK
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+"Using PyTorch, train a model that classifies intent.",TECHNICAL_TASK
+Write your name and section on the document.,ADMIN_TRAP
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+CCS 235 — 2nd Semester,IGNORE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+The frontend will be graded out of 25 points.,WEIGHTED_PRIORITY
+Write a function that embeds the dataset.,TECHNICAL_TASK
+Submit your Jupyter notebook as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+Create a Python script that accepts user query and returns embedding vector.,TECHNICAL_TASK
+Code a NER pipeline and test it with the provided sample corpus.,TECHNICAL_TASK
+CCS 221 — 1st Semester AY 2024-2025,IGNORE
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+"Before starting, make sure the repository is cloned is set up.",PRE_REQUISITE
+This section is worth 25 points.,WEIGHTED_PRIORITY
+Meeting at 3:30 PM with your group leader.,ADMIN_TRAP
+© 2025 West Visayas State University,IGNORE
+report — 5/50,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Prerequisite: Install Python 3.10 and configure your virtual environment.,PRE_REQUISITE
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+Submit via the LMS by next Monday.,ADMIN_TRAP
+Submit via the LMS by Friday 11:59 PM.,ADMIN_TRAP
+source code — 10/25,WEIGHTED_PRIORITY
+Optional: Implement TF-IDF scores for additional credit.,OPTIONAL_BONUS
+Prerequisite: Install Flask and configure your GitHub SSH key.,PRE_REQUISITE
+Prerequisite: Install Node.js and configure your GitHub SSH key.,PRE_REQUISITE
+Extract n-grams from the corpus using BERT embeddings.,TECHNICAL_TASK
+Rubric: model accuracy (25/50 points),WEIGHTED_PRIORITY
+Bonus: NER pipeline for 5 extra points.,OPTIONAL_BONUS
+Write a function that tokenizes the corpus.,TECHNICAL_TASK
+This activity assumes knowledge of REST APIs.,PRE_REQUISITE
+You should have completed Activity 1 before attempting this.,PRE_REQUISITE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Page 10 of 25,IGNORE
+Total: 15 points. Partial credit given.,WEIGHTED_PRIORITY
+"For inquiries, contact cict@wvsu.edu.ph",IGNORE
+Page 20 of 25,IGNORE
+Bonus: NER pipeline for 20 extra points.,OPTIONAL_BONUS
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Prerequisite: Install Flask and configure .env file.,PRE_REQUISITE
+report — 5/25,WEIGHTED_PRIORITY
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Attendance is required for the peer evaluation.,ADMIN_TRAP
+Rubric: presentation (10/50 points),WEIGHTED_PRIORITY
+The backend will be graded out of 10 points.,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+Submit your Python script as a .ipynb file with proper naming convention.,TECHNICAL_TASK
+CCS 221 — 2nd Semester,IGNORE
+Name: ____  Date: ____  Section: ____,ADMIN_TRAP
+GitHub submission — 15/50,WEIGHTED_PRIORITY
+Prerequisite: Install Git and configure your virtual environment.,PRE_REQUISITE
+The model will be graded out of 25 points.,WEIGHTED_PRIORITY
+This document is confidential.,IGNORE
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Challenge: sentiment analysis module — bonus points awarded.,OPTIONAL_BONUS
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Submit via the LMS by the end of the week.,ADMIN_TRAP
+"Using scikit-learn, train a model that classifies intent.",TECHNICAL_TASK
+Challenge: NER pipeline — bonus points awarded.,OPTIONAL_BONUS
+text classification — 20 pts,WEIGHTED_PRIORITY
+Email your submission to cict@wvsu.edu.ph.,ADMIN_TRAP
+"Before starting, make sure Python is installed is set up.",PRE_REQUISITE
+Email your submission to instructor@example.edu.,ADMIN_TRAP
+Optional: Implement word embeddings for additional credit.,OPTIONAL_BONUS
+Code a text classification and test it with the provided provided training data.,TECHNICAL_TASK
+The backend will be graded out of 10 points.,WEIGHTED_PRIORITY
+Write your name and section on the document.,ADMIN_TRAP
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+This activity assumes knowledge of Python OOP.,PRE_REQUISITE
+Total: 20 points. Partial credit given.,WEIGHTED_PRIORITY
+Extra credit: NER pipeline (+20 pts),OPTIONAL_BONUS
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+"Before starting, make sure the dataset is downloaded is set up.",PRE_REQUISITE
+Code a NER pipeline and test it with the provided activity dataset.,TECHNICAL_TASK
+Challenge: text classification — bonus points awarded.,OPTIONAL_BONUS
+Code a text classification and test it with the provided activity dataset.,TECHNICAL_TASK
+Implement Naive Bayes classifier using PyTorch and ensure it handles special characters.,TECHNICAL_TASK
+Prerequisite: Install Node.js and configure your virtual environment.,PRE_REQUISITE
