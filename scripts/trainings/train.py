@@ -39,7 +39,7 @@ print("Class distribution:\n", df["label"].value_counts())
 train_df = df.sample(frac=0.8, random_state=42)
 test_df = df.drop(train_df.index)
 
-# ── Class Weights ────────────────────────────────────────────────────────────
+# Class Weights
 #
 # The synthetic data has 300 samples per class (balanced).
 # But real activity sheets are NOT balanced:
@@ -62,7 +62,7 @@ raw_weights = compute_class_weight(
 class_weights = torch.tensor(raw_weights, dtype=torch.float)
 print("Class weights:", dict(zip(label_map.keys(), raw_weights.round(2))))
 
-# ── Tokenization ─────────────────────────────────────────────────────────────
+# Tokenization
 
 
 def prepare_dataset(df):
@@ -92,7 +92,7 @@ tokenized_test = tokenized_test.remove_columns(["text"])
 tokenized_train.set_format("torch")
 tokenized_test.set_format("torch")
 
-# ── Model ─────────────────────────────────────────────────────────────────────
+# Model
 
 model = AutoModelForSequenceClassification.from_pretrained(
     model_name,
@@ -101,7 +101,7 @@ model = AutoModelForSequenceClassification.from_pretrained(
     label2id=label_map,
 )
 
-# ── Weighted Trainer ──────────────────────────────────────────────────────────
+# Weighted Trainer
 #
 # The default Trainer uses plain cross-entropy with no weights.
 # We subclass it and override compute_loss to inject our class weights.
@@ -122,7 +122,7 @@ class WeightedTrainer(Trainer):
         return (loss, outputs) if return_outputs else loss
 
 
-# ── Training Args ─────────────────────────────────────────────────────────────
+# Training Args
 #
 # warmup_steps=500 is too high for 1800 samples × 0.8 = 1440 train samples
 # At batch_size=8 → 180 steps per epoch → 540 steps total (3 epochs)
