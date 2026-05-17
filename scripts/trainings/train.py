@@ -134,13 +134,13 @@ warmup = max(50, total_steps // 10)
 print(f"Total steps: {total_steps}, Warmup steps: {warmup}")
 
 args = TrainingArguments(
-    output_dir="./results",
+    output_dir="./training_results",
     num_train_epochs=5,  # bumped from 3 — small dataset benefits from more
     per_device_train_batch_size=8,
     per_device_eval_batch_size=8,
     warmup_steps=warmup,  # fixed — was 500 which is too high
     weight_decay=0.01,
-    logging_dir="./logs",
+    logging_dir="./training_logs",
     logging_steps=10,
     eval_strategy="epoch",
     save_strategy="epoch",

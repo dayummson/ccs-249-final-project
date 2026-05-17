@@ -12,16 +12,10 @@ from sklearn.metrics import (
     confusion_matrix,
 )
 
-sys.path.append("../../")
-
-
-from constants.label import LABELS as LABEL_DICT
-
-# Config
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TUNED_MODEL = os.path.abspath(os.path.join(BASE_DIR, "../models/alpha"))
+TUNED_MODEL = os.path.abspath(os.path.join(BASE_DIR, "../../models/alpha"))
 GROUND_TRUTH = os.path.join(BASE_DIR, "../../datasets/evaluations/eval.csv")
-OUTPUT_DIR = os.path.join(BASE_DIR, "results")
+OUTPUT_DIR = os.path.join(BASE_DIR, "eval_results")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 LABELS = [
@@ -33,8 +27,26 @@ LABELS = [
     "WEIGHTED_PRIORITY",
 ]
 
+# Raw DistilBERT has no id2label config so it returns LABEL_0 style
+# Fine-tuned model has id2label saved so it returns human-readable labels
+# This handles both cases
+RAW_ID2LABEL = {
+    "LABEL_0": "ADMIN_TRAP",
+    "LABEL_1": "IGNORE",
+    "LABEL_2": "OPTIONAL_BONUS",
+    "LABEL_3": "PRE_REQUISITE",
+    "LABEL_4": "TECHNICAL_TASK",
+    "LABEL_5": "WEIGHTED_PRIORITY",
+}
 
-# Load ground truth
+
+def resolve_label(raw_label):
+    if raw_label in LABELS:
+        return raw_label  # fine-tuned: already readable
+    return RAW_ID2LABEL.get(raw_label, "IGNORE")  # raw: map LABEL_N → name
+
+
+# ── Load ground truth ─────────────────────────────────────────────────────────
 
 df = pd.read_csv(GROUND_TRUTH)
 print(f"Ground truth loaded: {len(df)} samples")
@@ -45,7 +57,7 @@ texts = df["text"].tolist()
 true_labels = df["true_label"].tolist()
 
 
-# Evaluate the model
+# ── Evaluate ──────────────────────────────────────────────────────────────────
 
 
 def evaluate_model(model_path, model_name, texts, true_labels):
@@ -55,10 +67,13 @@ def evaluate_model(model_path, model_name, texts, true_labels):
 
     pipe = pipeline("text-classification", model=model_path)
     results = pipe(texts)
-    predicted = [LABEL_DICT.get(r["label"], "IGNORE") for r in results]
+
+    # Show sample output so you can confirm label format
+    print(f"  Sample output: {results[0]}")
+
+    predicted = [resolve_label(r["label"]) for r in results]
     confidence = [r["score"] for r in results]
 
-    # Overall metrics
     accuracy = accuracy_score(true_labels, predicted)
     precision, recall, f1, _ = precision_recall_fscore_support(
         true_labels, predicted, average="weighted", zero_division=0
@@ -71,14 +86,12 @@ def evaluate_model(model_path, model_name, texts, true_labels):
     print(f"  F1 Score  : {f1:.4f}")
     print(f"  Avg Conf  : {np.mean(confidence):.4f}")
 
-    # Per-class metrics
     print(f"\nPer-Class Report:")
     report = classification_report(
         true_labels, predicted, labels=LABELS, zero_division=0
     )
     print(report)
 
-    # Save report to txt
     report_path = os.path.join(OUTPUT_DIR, f"{model_name}_report.txt")
     with open(report_path, "w") as f:
         f.write(f"Model: {model_name}\n")
@@ -101,12 +114,11 @@ def evaluate_model(model_path, model_name, texts, true_labels):
     }
 
 
-# Confusion matrix plot
+# ── Plots ─────────────────────────────────────────────────────────────────────
 
 
 def plot_confusion_matrix(true_labels, predicted, model_name):
     cm = confusion_matrix(true_labels, predicted, labels=LABELS)
-
     plt.figure(figsize=(9, 7))
     sns.heatmap(
         cm,
@@ -121,14 +133,10 @@ def plot_confusion_matrix(true_labels, predicted, model_name):
     plt.xlabel("Predicted Label")
     plt.xticks(rotation=35, ha="right")
     plt.tight_layout()
-
     path = os.path.join(OUTPUT_DIR, f"{model_name}_confusion_matrix.png")
     plt.savefig(path, dpi=150)
     plt.close()
     print(f"Confusion matrix saved: {path}")
-
-
-# Comparison bar chart
 
 
 def plot_comparison(raw_metrics, tuned_metrics):
@@ -155,7 +163,6 @@ def plot_comparison(raw_metrics, tuned_metrics):
     ax.set_title("Raw DistilBERT vs Fine-tuned Model")
     ax.legend()
 
-    # Value labels on bars
     for bar in bars1 + bars2:
         h = bar.get_height()
         ax.text(
@@ -172,9 +179,6 @@ def plot_comparison(raw_metrics, tuned_metrics):
     plt.savefig(path, dpi=150)
     plt.close()
     print(f"Comparison chart saved: {path}")
-
-
-# Confidence distribution plot
 
 
 def plot_confidence_distribution(tuned_metrics, true_labels):
@@ -206,39 +210,26 @@ def plot_confidence_distribution(tuned_metrics, true_labels):
     plt.title("Confidence Distribution: Correct vs Incorrect Predictions")
     plt.legend()
     plt.tight_layout()
-
     path = os.path.join(OUTPUT_DIR, "confidence_distribution.png")
     plt.savefig(path, dpi=150)
     plt.close()
     print(f"Confidence distribution saved: {path}")
 
 
-# Run everything
+# ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    # Evaluate raw baseline
     raw_metrics = evaluate_model(
-        "distilbert-base-uncased",
-        "Raw_DistilBERT",
-        texts,
-        true_labels,
+        "distilbert-base-uncased", "Raw_DistilBERT", texts, true_labels
     )
     plot_confusion_matrix(true_labels, raw_metrics["predicted"], "Raw_DistilBERT")
 
-    # Evaluate your fine-tuned model
-    tuned_metrics = evaluate_model(
-        TUNED_MODEL,
-        "Fine_Tuned",
-        texts,
-        true_labels,
-    )
+    tuned_metrics = evaluate_model(TUNED_MODEL, "Fine_Tuned", texts, true_labels)
     plot_confusion_matrix(true_labels, tuned_metrics["predicted"], "Fine_Tuned")
 
-    # Comparison charts
     plot_comparison(raw_metrics, tuned_metrics)
     plot_confidence_distribution(tuned_metrics, true_labels)
 
-    # Summary Table for the paper
     print("\n" + "=" * 60)
     print("SUMMARY TABLE (copy this into your paper)")
     print("=" * 60)

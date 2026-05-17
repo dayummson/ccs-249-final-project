@@ -12,7 +12,8 @@ raw_model_output.txt
 final_requirement_model/
 
 # training artifacts
-results/
+training_results/
+training_logs/
 checkpoints/
 *.pt
 *.pth

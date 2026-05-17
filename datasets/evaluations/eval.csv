@@ -1,27 +1,98 @@
 text,true_label
-"Perform the following tasks using Python and scikit-learn.",TECHNICAL_TASK
-"This activity is worth 50 points.",WEIGHTED_PRIORITY
+"Implement a linked list using Python classes and test all operations.",TECHNICAL_TASK
+"Write a recursive function that computes the nth Fibonacci number.",TECHNICAL_TASK
+"Create a REST API endpoint that accepts JSON and returns a prediction.",TECHNICAL_TASK
+"Using scikit-learn, train a decision tree classifier on the given dataset.",TECHNICAL_TASK
+"Build a simple frontend that displays the classification results.",TECHNICAL_TASK
+"Extract the TF-IDF features from the training corpus.",TECHNICAL_TASK
+"Develop a preprocessing pipeline that handles tokenization and stopword removal.",TECHNICAL_TASK
+"Submit your final output as a .ipynb file with proper naming convention.",ADMIN_TRAP
+"Upload your work to your assigned folder in the GitHub organization.",ADMIN_TRAP
 "Name: _______ Date: _______ Section: _______",ADMIN_TRAP
-"Make sure you name the file correctly.",ADMIN_TRAP
-"Name the file as Lastname_Firstname.pdf",ADMIN_TRAP
-"Name the file as Lastname_Firstname.txt",ADMIN_TRAP
-"Name the file as Lastname_Firstname.docx",ADMIN_TRAP
-"Name the file as Lastname_Firstname.png",ADMIN_TRAP
-"Make sure Python 3.10 is installed before starting.",PRE_REQUISITE
-"Make Sure you read the powerpoint slides for Unit 4 in the Google Classroom.", PRE_REQUISITE
-"Study the material covered in the previous lectures.", PRE_REQUISITE
-"Bonus: Add input validation for +5 extra points.",OPTIONAL_BONUS
-"Add input validation.",OPTIONAL_BONUS
-"Add UI for interactivity.",OPTIONAL_BONUS
-"Provide Demo.",OPTIONAL_BONUS
+"The team leaders will fork the repository and collaborate with members.",ADMIN_TRAP
+"An assignment on the LMS will be created for submitting the files.",ADMIN_TRAP
+"Late submissions will not be accepted after the deadline.",ADMIN_TRAP
+"A Self and Peer Assessment template will be distributed after presentation.",ADMIN_TRAP
+"This activity is worth 50 points.",WEIGHTED_PRIORITY
+"Rubric: Code correctness (30/50 points).",WEIGHTED_PRIORITY
+"Project Score = (RAW * 50%) + (SELF EVAL * 25%) + (PEER EVAL * 25%)",WEIGHTED_PRIORITY
+"This section accounts for 20% of your final grade.",WEIGHTED_PRIORITY
+"Total: 100 points. Partial credit will be given.",WEIGHTED_PRIORITY
+"Bonus: Implement input validation for +5 extra points.",OPTIONAL_BONUS
+"Optional: Add unit tests to your implementation for additional credit.",OPTIONAL_BONUS
+"Extra credit: Deploy your Flask app using Docker (+10 pts).",OPTIONAL_BONUS
+"Challenge: Extend the classifier to handle multi-label classification.",OPTIONAL_BONUS
+"Make sure Python 3.10 is installed before starting this activity.",PRE_REQUISITE
+"You should have completed Activity 1 before attempting this.",PRE_REQUISITE
+"Ensure your virtual environment is activated before running the scripts.",PRE_REQUISITE
+"This activity assumes knowledge of basic Python OOP concepts.",PRE_REQUISITE
+"Before starting, clone the repository and install all dependencies.",PRE_REQUISITE
 "West Visayas State University",IGNORE
-"Goodluck and Happy coding!",IGNORE
-"Submit your output via the LMS by Friday 11:59 PM.",ADMIN_TRAP
-"Implement a tokenizer that handles special characters.",TECHNICAL_TASK
+"College of Information and Communications Technology",IGNORE
+"CCS 249 — Natural Language Processing",IGNORE
 "Page 1 of 3",IGNORE
-"Generate a Bag of Words representation for the corpus.",TECHNICAL_TASK
-"Implement a simple linear regression model.",TECHNICAL_TASK
-"Implement a simple decision tree.",TECHNICAL_TASK
-"Evaluate the said models after training.",TECHNICAL_TASK
-"Perform confusion matrix on both models.",TECHNICAL_TASK
-"Select the best models.",TECHNICAL_TASK
+"Luna St., La Paz, Iloilo City 5000",IGNORE
+"Website: www.wvsu.edu.ph  Email: cict@wvsu.edu.ph",IGNORE
+"Trunkline: (063) (033) 320-0870 loc 1403",IGNORE
+text,true_label
+"Compared to Naïve Bayes which uses tokens as features/inputs, what are the advantages of using hand-made observations as features for Logistic Regression?",TECHNICAL_TASK
+"What are the disadvantages of using hand-made observations as features?",TECHNICAL_TASK
+"What is the loss function commonly used for Logistic Regression?",TECHNICAL_TASK
+"What are the common evaluation metrics used for Text Classification tasks?",TECHNICAL_TASK
+"Discuss elaborately the 3 different types of Harms present in Text Classification.",TECHNICAL_TASK
+"Select 1 Type of Harm in Text Classification and look for 1 research article that tries to solve said problem.",TECHNICAL_TASK
+"Create a word-context matrix with a context window of +-3/6 words.",TECHNICAL_TASK
+"Calculate the cosine similarity of the following vectors and describe how each word is similar linguistically.",TECHNICAL_TASK
+"Train a word embedding model using the skip-gram architecture with negative sampling.",TECHNICAL_TASK
+"Preprocess the text coming from the selected corpus.",TECHNICAL_TASK
+"Evaluate the embeddings using a small test set.",TECHNICAL_TASK
+"Report nearest neighbors, similarity scores, and test-set performance.",TECHNICAL_TASK
+"Retrain the Word2Vec model with the following configuration:",TECHNICAL_TASK
+"Visualize the vectors using PCA.",TECHNICAL_TASK
+"In manually developing a Naïve Bayes model, create methods that will do the following:",TECHNICAL_TASK
+"Update the code to:",TECHNICAL_TASK
+"Determine which part of the code this part is:",TECHNICAL_TASK
+"Given a small dataset of documents with the class label, do the following tasks.",TECHNICAL_TASK
+"Given a small corpus, perform the following:",TECHNICAL_TASK
+"Given sample corpus, answer the following questions:",TECHNICAL_TASK
+"(10 points)",WEIGHTED_PRIORITY
+"(30 points)",WEIGHTED_PRIORITY
+"(50 points)",WEIGHTED_PRIORITY
+"(15 points)",WEIGHTED_PRIORITY
+"(20 points)",WEIGHTED_PRIORITY
+"(25 points)",WEIGHTED_PRIORITY
+"(5 points)",WEIGHTED_PRIORITY
+"(10 points each)",WEIGHTED_PRIORITY
+"*Note: Use this file as your answer sheet.*",ADMIN_TRAP
+"*Note: Save your Python source codes into a single .ipynb file OR multiple python files with the proper naming convention, upload it to your assigned folder in the GitHub organization.*",ADMIN_TRAP
+"*Note: Write your answers in a one whole sheet of paper.*",ADMIN_TRAP
+"*Note: This is not a coding activity. Put your answers directly in the answer sheet.*",ADMIN_TRAP
+"Post screenshots of the actual implementation and evaluation results of the fine-tuned model below:",ADMIN_TRAP
+"Name:",ADMIN_TRAP
+"Date:",ADMIN_TRAP
+"Year and Section:",ADMIN_TRAP
+"BONUS! (10 points)",OPTIONAL_BONUS
+"Modify the code so that if the user tries to repeat the same question, ELIZA will answer sarcastically.",OPTIONAL_BONUS
+"Based on the discussions found on the provided resource materials, answer the following questions:",PRE_REQUISITE
+"Download the source code here and perform the following steps:",PRE_REQUISITE
+"The article should be reasonably long (at least a few thousand words) for good results.",PRE_REQUISITE
+"Take note of the following properties with Word2Vec: vector size and window.",PRE_REQUISITE
+"Clone the repository and run the application on your mobile device.",PRE_REQUISITE
+"You can use the sample source codes shared in the LMS and update it to your needs.",PRE_REQUISITE
+"Make sure to follow the following steps:",PRE_REQUISITE
+"Download the NLTK package into your local environment and import webtext.",PRE_REQUISITE
+"Select a Wikipedia article of your choice as the corpora for this exercise.",PRE_REQUISITE
+"**Activity for Unit 4 Part 2**",IGNORE
+"**Assignment for Unit 5**",IGNORE
+"**Exercise for Unit 5**",IGNORE
+"**Assignment for Unit 6**",IGNORE
+"**Exercise for Unit 6**",IGNORE
+"**Activity for Unit 7 Part 1**",IGNORE
+"**Exercise for Unit 4.1 Naïve Bayes**",IGNORE
+"https://poki.com/en/g/4-pics-1-word",IGNORE
+"https://github.com/CS-3RD-YEAR-25-26/CCS-249-Sample-Codes",IGNORE
+"Article Name:",IGNORE
+"Article Link:",IGNORE
+"Answer:",IGNORE
+"Paste the graph below.",IGNORE
+"Once done, paste the 10 longest vectors below:",IGNORE
