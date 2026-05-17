@@ -4,22 +4,16 @@ import sys
 
 sys.path.append("../../")
 
-from utils.extract_blocks import extract_blocks_from_pdf, extract_blocks_from_docx
+from constants.label import LABELS
+from utils.extractors.docx_extractor import extract_blocks_from_docx
 
-MODEL_PATH = "../final_requirement_model"
+MODEL_PATH = "../../models/alpha"
 
 pipe = pipeline("text-classification", model=MODEL_PATH)
 
 CONFIDENCE_THRESHOLD = 0.75
 
-id_2_label = {
-    "LABEL_0": "ADMIN_TRAP",
-    "LABEL_1": "IGNORE",
-    "LABEL_2": "OPTIONAL_BONUS",
-    "LABEL_3": "PRE_REQUISITE",
-    "LABEL_4": "TECHNICAL_TASK",
-    "LABEL_5": "WEIGHTED_PRIORITY",
-}
+BRIEFING_OUTPUT_PATH = "../../outputs/briefing.txt"
 
 
 def heuristic_classify(text, block_meta=None):
@@ -74,7 +68,7 @@ def classify_blocks(blocks):
 
     classified = []
     for block, result in zip(blocks, model_results):
-        model_label = id_2_label.get(result["label"], "IGNORE")
+        model_label = LABELS.get(result["label"], "IGNORE")
         confidence = result["score"]
 
         # Try heuristic first for structural cues (always wins for these)
@@ -127,14 +121,12 @@ def write_to_txt(briefing, filename="briefing.txt"):
             f.write("\n")
 
 
-blocks = extract_blocks_from_pdf("../../samples/unit-2-activity.docx")
+blocks = extract_blocks_from_docx("../../samples/unit-2-activity.docx")
 
 classified = classify_blocks(blocks)
 
 briefing = group_to_briefing(classified)
 
-# print(briefing)
+write_to_txt(briefing, filename=BRIEFING_OUTPUT_PATH)
 
-write_to_txt(briefing)
-
-print("Briefing generated and saved to briefing.txt")
+print(f"Briefing generated and saved to {BRIEFING_OUTPUT_PATH}")

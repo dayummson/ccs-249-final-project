@@ -1,6 +1,6 @@
 from transformers import pipeline
 
-MODELS = {"TUNED": "../final_requirement_model", "RAW": "distilbert-base-uncased"}
+MODELS = {"TUNED": "../../models/alpha", "RAW": "distilbert-base-uncased"}
 
 # Label map only applies to YOUR trained model
 # Raw model outputs generic LABEL_0, LABEL_1 etc. with no meaning
