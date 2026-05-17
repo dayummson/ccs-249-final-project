@@ -21,10 +21,13 @@ df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 df["label"] = df["label"].astype("category")
 
 label_map = {cat: i for i, cat in enumerate(df["label"].cat.categories)}
+
 id_2_label = {v: k for k, v in label_map.items()}  # reverse map — useful later
+
 df["label_id"] = df["label"].map(label_map)
 
 print("Label map:", label_map)
+
 print("Class distribution:\n", df["label"].value_counts())
 
 train_df = df.sample(frac=0.8, random_state=42)
