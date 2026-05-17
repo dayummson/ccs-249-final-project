@@ -121,7 +121,7 @@ def write_to_txt(briefing, filename):
             f.write("\n")
 
 
-blocks = extract_blocks_from_docx("../../samples/unit-2-activity.docx")
+blocks = extract_blocks_from_docx("../../samples/unit-4-activity.docx")
 
 classified = classify_blocks(blocks)
 
