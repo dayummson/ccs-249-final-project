@@ -26,7 +26,7 @@ def health():
 
 @app.route("/analyze", methods=["POST"])
 def analyze():
-    # ── 1. Check file is present ──────────────────────────────────────────────
+    # FIRST: we check if the file is present
     if "file" not in request.files:
         return jsonify({"error": "No file provided. Send a .docx or .pdf."}), 400
 
@@ -34,19 +34,19 @@ def analyze():
     if not file.filename:
         return jsonify({"error": "Empty filename."}), 400
 
-    # ── 2. Save to temp path with unique name (avoids collisions) ─────────────
+    # NEXT: Save to temp path with unique name (avoids collisions)
     ext = file.filename.rsplit(".", 1)[-1].lower()
     tmp_name = f"{uuid.uuid4().hex}.{ext}"
     tmp_path = os.path.join(UPLOAD_FOLDER, tmp_name)
     file.save(tmp_path)
 
     try:
-        # ── 3. Validate ───────────────────────────────────────────────────────
+        # Next: Validate the file (type, size, etc.)
         is_valid, error, warnings = validate_upload(tmp_path, file.filename)
         if not is_valid:
             return jsonify({"error": error}), 422
 
-        # ── 4. Extract blocks ─────────────────────────────────────────────────
+        # Next: Extract blocks
         if ext == "pdf":
             blocks = extract_blocks_from_pdf(tmp_path)
         else:
@@ -60,11 +60,11 @@ def analyze():
                 422,
             )
 
-        # ── 5. Classify ───────────────────────────────────────────────────────
+        # Next: Classify blocks
         classified = classify_blocks(blocks)
         briefing = group_to_briefing(classified)
 
-        # ── 6. Quality signal for the frontend ────────────────────────────────
+        # Next: Calculate quality metrics for the frontend
         total = len(classified)
         low_conf = sum(1 for b in classified if b["source"] == "low_confidence")
         heuristic = sum(1 for b in classified if b["source"] == "heuristic")
