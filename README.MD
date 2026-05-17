@@ -75,6 +75,16 @@ Expected artifacts:
 - models/alpha/ (final model + tokenizer)
 - results/ (checkpoint folders)
 
+## Model comparison (branch)
+
+On the `model-versions-comparison` branch, you can run the evaluation script at [scripts/evaluations/evaluate.py](scripts/evaluations/evaluate.py) to compare model quality. It shows that the initial model trained on the 5000-item dataset is outperformed by the model trained on the 1800-item quality dataset. Check that branch to see the metric gap and reports.
+
+From the repo root on that branch:
+
+```bash
+python scripts/evaluations/evaluate.py
+```
+
 ## Run the Flask backend
 
 From the repo root:
