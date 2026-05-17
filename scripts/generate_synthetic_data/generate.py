@@ -1,6 +1,10 @@
-# generate_data.py  —  run once, save to datasets/synthetic_data.csv
 import random
 import csv
+
+# =============================================
+# CONFIG                                       |
+# =============================================
+OUTPUT_PATH = "../../datasets/synthetic_data/synthetic_data.csv"
 
 TEMPLATES = {
     "TECHNICAL_TASK": [
@@ -145,7 +149,7 @@ for label, templates in TEMPLATES.items():
 
 random.shuffle(rows)
 
-with open("synthetic_data.csv", "w", newline="") as f:
+with open(OUTPUT_PATH, "w", newline="") as f:
     writer = csv.DictWriter(f, fieldnames=["text", "label"])
     writer.writeheader()
     writer.writerows(rows)
