@@ -139,22 +139,24 @@ def plot_confusion_matrix(true_labels, predicted, model_name):
     print(f"Confusion matrix saved: {path}")
 
 
-def plot_comparison(raw_metrics, tuned_metrics):
+def plot_comparison(raw_model, alpha_model, beta_model):
     metrics = ["accuracy", "precision", "recall", "f1"]
     labels = ["Accuracy", "Precision", "Recall", "F1"]
     x = np.arange(len(metrics))
     width = 0.35
 
-    raw_vals = [raw_metrics[m] for m in metrics]
-    tuned_vals = [tuned_metrics[m] for m in metrics]
+    raw_vals = [raw_model[m] for m in metrics]
+    alpha_vals = [alpha_model[m] for m in metrics]
+    beta_vals = [beta_model[m] for m in metrics]
 
     fig, ax = plt.subplots(figsize=(9, 5))
     bars1 = ax.bar(
         x - width / 2, raw_vals, width, label="Raw DistilBERT", color="#ef4444"
     )
     bars2 = ax.bar(
-        x + width / 2, tuned_vals, width, label="Fine-tuned (Ours)", color="#22c55e"
+        x + width / 2, alpha_vals, width, label="Fine-tuned (Ours)", color="#22c55e"
     )
+    bars3 = ax.bar(x, beta_vals, width, label="Initial Fine-tuned", color="#f59e0b")
 
     ax.set_ylim(0, 1.15)
     ax.set_xticks(x)
@@ -163,7 +165,7 @@ def plot_comparison(raw_metrics, tuned_metrics):
     ax.set_title("Raw DistilBERT vs Fine-tuned Model")
     ax.legend()
 
-    for bar in bars1 + bars2:
+    for bar in bars1 + bars2 + bars3:
         h = bar.get_height()
         ax.text(
             bar.get_x() + bar.get_width() / 2,
@@ -219,16 +221,24 @@ def plot_confidence_distribution(tuned_metrics, true_labels):
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    raw_metrics = evaluate_model(
+    raw_model = evaluate_model(
         "distilbert-base-uncased", "Raw_DistilBERT", texts, true_labels
     )
-    plot_confusion_matrix(true_labels, raw_metrics["predicted"], "Raw_DistilBERT")
+    plot_confusion_matrix(true_labels, raw_model["predicted"], "Raw_DistilBERT")
 
-    tuned_metrics = evaluate_model(TUNED_MODEL, "Fine_Tuned", texts, true_labels)
-    plot_confusion_matrix(true_labels, tuned_metrics["predicted"], "Fine_Tuned")
+    beta_model = evaluate_model(
+        "../../final_requirement_model", "beta_model", texts, true_labels
+    )
 
-    plot_comparison(raw_metrics, tuned_metrics)
-    plot_confidence_distribution(tuned_metrics, true_labels)
+    plot_confusion_matrix(true_labels, beta_model["predicted"], "beta_model")
+
+    alpha_model = evaluate_model(TUNED_MODEL, "alpha_model", texts, true_labels)
+
+    plot_confusion_matrix(true_labels, alpha_model["predicted"], "alpha_model")
+
+    plot_comparison(raw_model, alpha_model, beta_model)
+    plot_confidence_distribution(alpha_model, true_labels)
+    plot_confidence_distribution(beta_model, true_labels)
 
     print("\n" + "=" * 60)
     print("SUMMARY TABLE (copy this into your paper)")
@@ -238,8 +248,15 @@ if __name__ == "__main__":
     )
     print("-" * 60)
     for metric in ["accuracy", "precision", "recall", "f1"]:
-        raw = raw_metrics[metric]
-        tuned = tuned_metrics[metric]
-        diff = tuned - raw
-        print(f"{metric.capitalize():<15} {raw:>15.4f} {tuned:>15.4f} {diff:>+15.4f}")
+        raw = raw_model[metric]
+        alpha = alpha_model[metric]
+        beta = beta_model[metric]
+        alpha_diff = alpha - raw
+        beta_diff = beta - raw
+        print(
+            f"{metric.capitalize():<15} Raw: {raw:>15.4f} Alpha: {alpha:>15.4f} {alpha_diff:>+15.4f}"
+        )
+        print(
+            f"{metric.capitalize():<15} Raw: {raw:>15.4f} Beta: {beta:>15.4f} {beta_diff:>+15.4f}"
+        )
     print("=" * 60)
