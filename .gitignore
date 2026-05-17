@@ -9,8 +9,6 @@ briefing.txt
 fine_tuned_output.txt
 raw_model_output.txt
 
-final_requirement_model/
-
 # training artifacts
 training_results/
 training_logs/
