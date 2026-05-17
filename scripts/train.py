@@ -1,3 +1,10 @@
+import sys
+
+# since this is located at the root level and this
+# script is in a subfolder, we need to add
+# the parent folder to sys.path
+sys.path.append("../")
+
 import pandas as pd
 import torch
 from torch import nn
@@ -9,10 +16,8 @@ from transformers import (
     Trainer,
 )
 import numpy as np
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from sklearn.utils.class_weight import compute_class_weight
-
-# ── Data ────────────────────────────────────────────────────────────────────
+from utils.metrics.metric import compute_metrics
 
 DATASET = "./synthetic-data/synthetic_data.csv"
 
@@ -114,23 +119,6 @@ class WeightedTrainer(Trainer):
             weight=class_weights.to(logits.device),  # must be on same device as model
         )
         return (loss, outputs) if return_outputs else loss
-
-
-# ── Metrics ───────────────────────────────────────────────────────────────────
-
-
-def compute_metrics(eval_pred):
-    logits, labels = eval_pred
-    predictions = np.argmax(logits, axis=-1)
-    precision, recall, f1, _ = precision_recall_fscore_support(
-        labels, predictions, average="weighted"
-    )
-    return {
-        "accuracy": accuracy_score(labels, predictions),
-        "f1": f1,
-        "precision": precision,
-        "recall": recall,
-    }
 
 
 # ── Training Args ─────────────────────────────────────────────────────────────
