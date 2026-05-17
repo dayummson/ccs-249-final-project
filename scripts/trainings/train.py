@@ -126,7 +126,7 @@ class WeightedTrainer(Trainer):
 #
 # warmup_steps=500 is too high for 1800 samples × 0.8 = 1440 train samples
 # At batch_size=8 → 180 steps per epoch → 540 steps total (3 epochs)
-# 500 warmup steps means you're warming up for almost the entire training!
+# 500 warmup steps means, warming up for almost the entire training! ( woah )
 # Rule of thumb: warmup = 10% of total steps
 
 total_steps = (len(train_df) // 8) * 3  # (samples / batch_size) * epochs
