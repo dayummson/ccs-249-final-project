@@ -41,7 +41,7 @@ test_df = df.drop(train_df.index)
 
 # ── Class Weights ────────────────────────────────────────────────────────────
 #
-# Your synthetic data has 300 samples per class (balanced).
+# The synthetic data has 300 samples per class (balanced).
 # But real activity sheets are NOT balanced:
 #   - TECHNICAL_TASK appears 20+ times per sheet
 #   - OPTIONAL_BONUS appears maybe once or twice
