@@ -7,13 +7,13 @@ sys.path.append("../../")
 from constants.label import LABELS
 from utils.extractors.docx_extractor import extract_blocks_from_docx
 
-MODEL_PATH = "../../models/alpha"
+MODEL = "distilbert-base-uncased"
 
-pipe = pipeline("text-classification", model=MODEL_PATH)
+pipe = pipeline("text-classification", model=MODEL)
 
 CONFIDENCE_THRESHOLD = 0.75
 
-BRIEFING_OUTPUT_PATH = "../../outputs/fine_tuned_output.txt"
+BRIEFING_OUTPUT_PATH = "../../outputs/raw_model_output.txt"
 
 
 def heuristic_classify(text, block_meta=None):
@@ -112,7 +112,7 @@ def group(classified_blocks):
     return categories
 
 
-def write_to_txt(briefing, filename="briefing.txt"):
+def write_to_txt(briefing, filename):
     with open(filename, "w") as f:
         for category, items in briefing.items():
             f.write(f"{category}:\n")
