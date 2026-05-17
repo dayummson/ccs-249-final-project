@@ -5,6 +5,8 @@ analyzer_results/
 # we want this to be generated 
 # only when ran
 briefing.txt
+fine_tuned_output.txt
+raw_model_output.txt
 
 final_requirement_model/
 
