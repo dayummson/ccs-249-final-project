@@ -1,0 +1,27 @@
+text,true_label
+"Perform the following tasks using Python and scikit-learn.",TECHNICAL_TASK
+"This activity is worth 50 points.",WEIGHTED_PRIORITY
+"Name: _______ Date: _______ Section: _______",ADMIN_TRAP
+"Make sure you name the file correctly.",ADMIN_TRAP
+"Name the file as Lastname_Firstname.pdf",ADMIN_TRAP
+"Name the file as Lastname_Firstname.txt",ADMIN_TRAP
+"Name the file as Lastname_Firstname.docx",ADMIN_TRAP
+"Name the file as Lastname_Firstname.png",ADMIN_TRAP
+"Make sure Python 3.10 is installed before starting.",PRE_REQUISITE
+"Make Sure you read the powerpoint slides for Unit 4 in the Google Classroom.", PRE_REQUISITE
+"Study the material covered in the previous lectures.", PRE_REQUISITE
+"Bonus: Add input validation for +5 extra points.",OPTIONAL_BONUS
+"Add input validation.",OPTIONAL_BONUS
+"Add UI for interactivity.",OPTIONAL_BONUS
+"Provide Demo.",OPTIONAL_BONUS
+"West Visayas State University",IGNORE
+"Goodluck and Happy coding!",IGNORE
+"Submit your output via the LMS by Friday 11:59 PM.",ADMIN_TRAP
+"Implement a tokenizer that handles special characters.",TECHNICAL_TASK
+"Page 1 of 3",IGNORE
+"Generate a Bag of Words representation for the corpus.",TECHNICAL_TASK
+"Implement a simple linear regression model.",TECHNICAL_TASK
+"Implement a simple decision tree.",TECHNICAL_TASK
+"Evaluate the said models after training.",TECHNICAL_TASK
+"Perform confusion matrix on both models.",TECHNICAL_TASK
+"Select the best models.",TECHNICAL_TASK
