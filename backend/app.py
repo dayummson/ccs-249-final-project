@@ -4,33 +4,29 @@ sys.path.append("../")
 
 import os
 import uuid
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 from utils.validators.validator import validate_upload
 from utils.extractors.docx_extractor import extract_blocks_from_docx
 from utils.extractors.pdf_extractor import extract_blocks_from_pdf
 from services.classifier import classify_blocks, group_to_briefing
-from flask import Flask, render_template
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path="env.local")
+load_dotenv(dotenv_path=".env.local")
 
 # Connecting flask to hmlt
 # since we have our frontend ( ui )
 # on a seperate folder we have to do this
 backend_dir = os.path.dirname(os.path.abspath(__file__))
-
-# Go up one level and into the frontend folder
 frontend_dir = os.path.abspath(os.path.join(backend_dir, "..", "frontend"))
+templates_dir = os.path.join(frontend_dir, "templates")
+static_dir = os.path.join(frontend_dir, "static")
 
 
 app = Flask(
     __name__,
-    template_folder=frontend_dir,
-    # the static folder is not prefixed
-    # on the html ( index.html ) side, since we
-    # already done it here
-    static_folder=os.path.join(frontend_dir, "static"),
+    template_folder=templates_dir,
+    static_folder=static_dir,
 )
 
 # we need to do this to force the reload everytime
