@@ -4,29 +4,86 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script>
+            (() => {
+                const storedTheme = localStorage.getItem("theme");
+                if (storedTheme === "dark") {
+                    document.documentElement.classList.add("dark");
+                }
+            })();
+        </script>
         <title>Project Analyzer</title>
         <link
             rel="stylesheet"
             href="{{ url_for('static', filename='dist/output.css') }}"
         />
     </head>
-    <body class="bg-zinc-50 text-[13px] text-zinc-700 font-sans">
+    <body
+        class="bg-zinc-50 text-[13px] text-zinc-700 font-sans dark:bg-zinc-900 dark:text-zinc-300"
+    >
         <main class="min-h-screen">
-            <div class="px-6 pt-6">
-                <div class="text-[12px] text-zinc-400">Project Analyzer</div>
-                <div class="text-[11px] text-zinc-400">
-                    Upload an activity sheet to generate your task list.
+            <div class="px-6 pt-6 flex items-start justify-between">
+                <div>
+                    <div class="text-[12px] text-zinc-400 dark:text-zinc-500">
+                        Project Analyzer
+                    </div>
+                    <div class="text-[11px] text-zinc-400 dark:text-zinc-500">
+                        Upload an activity sheet to generate your task list.
+                    </div>
                 </div>
+                <button
+                    id="themeToggle"
+                    type="button"
+                    class="flex h-6 w-6 items-center justify-center text-zinc-400 hover:opacity-80"
+                    aria-label="Toggle theme"
+                >
+                    <svg
+                        id="themeIconMoon"
+                        class="h-3.5 w-3.5"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        aria-hidden="true"
+                    >
+                        <path
+                            d="M21 12.5A8.5 8.5 0 0 1 11.5 3a7 7 0 1 0 9.5 9.5z"
+                        />
+                    </svg>
+                    <svg
+                        id="themeIconSun"
+                        class="h-3.5 w-3.5 hidden"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        aria-hidden="true"
+                    >
+                        <circle cx="12" cy="12" r="4" />
+                        <path d="M12 2v2" />
+                        <path d="M12 20v2" />
+                        <path d="M4.93 4.93l1.41 1.41" />
+                        <path d="M17.66 17.66l1.41 1.41" />
+                        <path d="M2 12h2" />
+                        <path d="M20 12h2" />
+                        <path d="M4.93 19.07l1.41-1.41" />
+                        <path d="M17.66 6.34l1.41-1.41" />
+                    </svg>
+                </button>
             </div>
 
             <div class="px-6 mt-10">
                 <div class="mx-auto w-full max-w-2xl">
                     <div
                         id="uploadCard"
-                        class="flex flex-col items-center justify-center gap-2 rounded-lg border border-dashed border-zinc-200 bg-white px-8 py-10 text-center hover:border-zinc-300"
+                        class="flex flex-col items-center justify-center gap-2 rounded-lg border border-dashed border-zinc-200 bg-white px-8 py-10 text-center hover:border-zinc-300 dark:border-zinc-700 dark:bg-zinc-800 dark:hover:border-zinc-600"
                     >
                         <svg
-                            class="h-4 w-4 text-zinc-400"
+                            class="h-4 w-4 text-zinc-400 dark:text-zinc-500"
                             viewBox="0 0 24 24"
                             fill="none"
                             stroke="currentColor"
@@ -41,10 +98,14 @@
                                 d="M20 16.5a4.5 4.5 0 0 0-4.5-4.5h-7A4.5 4.5 0 0 0 4 16.5"
                             />
                         </svg>
-                        <div class="text-[13px] text-zinc-500">
+                        <div
+                            class="text-[13px] text-zinc-500 dark:text-zinc-400"
+                        >
                             Drag and drop a file, or click to browse
                         </div>
-                        <div class="text-[11px] text-zinc-400">
+                        <div
+                            class="text-[11px] text-zinc-400 dark:text-zinc-500"
+                        >
                             Accepts .docx and .pdf only
                         </div>
                     </div>
@@ -56,10 +117,15 @@
                         accept=".docx,.pdf"
                     />
 
+                    <div
+                        id="fileName"
+                        class="mt-3 hidden text-center text-[11px] text-zinc-400 dark:text-zinc-500"
+                    ></div>
+
                     <div id="loadingState" class="mt-4 hidden">
-                        <div class="h-1 w-full bg-zinc-200">
+                        <div class="h-1 w-full bg-zinc-200 dark:bg-zinc-700">
                             <div
-                                class="h-1 w-1/3 bg-zinc-400 animate-pulse"
+                                class="h-1 w-1/3 bg-zinc-400 animate-pulse dark:bg-zinc-500"
                             ></div>
                         </div>
                     </div>
@@ -69,8 +135,19 @@
                         class="mt-3 hidden text-[11px] text-amber-700"
                     ></div>
 
+                    <div id="legendTriggerWrap" class="mt-3 hidden text-center">
+                        <button
+                            id="legendTrigger"
+                            type="button"
+                            class="text-[11px] text-zinc-400 hover:opacity-80 dark:text-zinc-500"
+                        >
+                            what are these?
+                        </button>
+                        <div id="warnings" class="mt-2 space-y-1"></div>
+                    </div>
+
                     <section id="resultsSection" class="mt-8 hidden">
-                        <div class="h-0.5 w-full bg-zinc-200">
+                        <div class="h-0.5 w-full bg-zinc-200 dark:bg-zinc-700">
                             <div
                                 id="progressFill"
                                 class="h-0.5 w-0 bg-slate-500"
@@ -78,35 +155,136 @@
                         </div>
 
                         <div
-                            id="legend"
-                            class="mt-6 mb-6 flex flex-wrap items-center justify-center gap-6"
-                        ></div>
-
-                        <div
                             id="categories"
-                            class="divide-y divide-zinc-100 border-t border-zinc-100"
+                            class="divide-y divide-zinc-100 border-t border-zinc-100 dark:divide-zinc-700/50 dark:border-zinc-700/50"
                         ></div>
 
                         <div
                             id="completionSummary"
-                            class="mt-6 text-center text-[11px] text-zinc-400"
+                            class="mt-6 text-center text-[11px] text-zinc-400 dark:text-zinc-500"
                         ></div>
                     </section>
                 </div>
             </div>
         </main>
 
+        <div
+            id="legendModal"
+            class="fixed inset-0 z-50 hidden items-center justify-center bg-black/20 opacity-0 transition-opacity duration-150 dark:bg-black/40 flex"
+        >
+            <div
+                id="legendModalPanel"
+                class="w-full max-w-[380px] scale-95 transform rounded-lg bg-white opacity-0 shadow-md transition duration-150 ease-out dark:bg-zinc-800"
+            >
+                <div class="flex items-center justify-between px-4 py-3">
+                    <div
+                        class="text-[13px] font-medium text-zinc-700 dark:text-zinc-200"
+                    >
+                        Understanding your task list
+                    </div>
+                    <button
+                        id="legendModalClose"
+                        type="button"
+                        class="text-zinc-400"
+                        aria-label="Close"
+                    >
+                        ×
+                    </button>
+                </div>
+                <div class="h-px bg-zinc-100 dark:bg-zinc-700"></div>
+                <div class="space-y-2 px-4 py-3">
+                    <div class="flex items-center gap-2 text-[12px]">
+                        <span
+                            class="h-1.5 w-1.5 rounded-full bg-slate-500"
+                        ></span>
+                        <span
+                            class="font-medium text-zinc-700 dark:text-zinc-300"
+                        >
+                            Tasks
+                        </span>
+                        <span class="text-zinc-400 dark:text-zinc-500"
+                            >— Things you need to build or implement</span
+                        >
+                    </div>
+                    <div class="flex items-center gap-2 text-[12px]">
+                        <span
+                            class="h-1.5 w-1.5 rounded-full bg-amber-600"
+                        ></span>
+                        <span
+                            class="font-medium text-zinc-700 dark:text-zinc-300"
+                        >
+                            Graded
+                        </span>
+                        <span class="text-zinc-400 dark:text-zinc-500"
+                            >— Items that affect your score</span
+                        >
+                    </div>
+                    <div class="flex items-center gap-2 text-[12px]">
+                        <span
+                            class="h-1.5 w-1.5 rounded-full bg-blue-400"
+                        ></span>
+                        <span
+                            class="font-medium text-zinc-700 dark:text-zinc-300"
+                        >
+                            Do First
+                        </span>
+                        <span class="text-zinc-400 dark:text-zinc-500"
+                            >— Setup or conditions before you start</span
+                        >
+                    </div>
+                    <div class="flex items-center gap-2 text-[12px]">
+                        <span
+                            class="h-1.5 w-1.5 rounded-full bg-violet-400"
+                        ></span>
+                        <span
+                            class="font-medium text-zinc-700 dark:text-zinc-300"
+                        >
+                            Bonus
+                        </span>
+                        <span class="text-zinc-400 dark:text-zinc-500"
+                            >— Optional work for extra credit</span
+                        >
+                    </div>
+                    <div class="flex items-center gap-2 text-[12px]">
+                        <span
+                            class="h-1.5 w-1.5 rounded-full bg-zinc-400"
+                        ></span>
+                        <span
+                            class="font-medium text-zinc-700 dark:text-zinc-300"
+                        >
+                            Admin
+                        </span>
+                        <span class="text-zinc-400 dark:text-zinc-500"
+                            >— Submission and logistics details</span
+                        >
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <script>
             const uploadCard = document.getElementById("uploadCard");
             const fileInput = document.getElementById("fileInput");
+            const fileName = document.getElementById("fileName");
             const loadingState = document.getElementById("loadingState");
             const errorMessage = document.getElementById("errorMessage");
+            const legendTriggerWrap =
+                document.getElementById("legendTriggerWrap");
+            const legendTrigger = document.getElementById("legendTrigger");
+            const warnings = document.getElementById("warnings");
             const resultsSection = document.getElementById("resultsSection");
-            const legend = document.getElementById("legend");
             const categoriesEl = document.getElementById("categories");
             const progressFill = document.getElementById("progressFill");
             const completionSummary =
                 document.getElementById("completionSummary");
+            const themeToggle = document.getElementById("themeToggle");
+            const themeIconMoon = document.getElementById("themeIconMoon");
+            const themeIconSun = document.getElementById("themeIconSun");
+            const legendModal = document.getElementById("legendModal");
+            const legendModalPanel =
+                document.getElementById("legendModalPanel");
+            const legendModalClose =
+                document.getElementById("legendModalClose");
 
             const CATEGORY_CONFIG = [
                 {
@@ -157,15 +335,32 @@
                 localStorage.setItem(key, isChecked ? "1" : "0");
             };
 
+            const applyTheme = (theme) => {
+                const isDark = theme === "dark";
+                document.documentElement.classList.toggle("dark", isDark);
+                themeIconMoon.classList.toggle("hidden", isDark);
+                themeIconSun.classList.toggle("hidden", !isDark);
+                localStorage.setItem("theme", isDark ? "dark" : "light");
+            };
+
+            const initializeTheme = () => {
+                const isDark =
+                    document.documentElement.classList.contains("dark");
+                themeIconMoon.classList.toggle("hidden", isDark);
+                themeIconSun.classList.toggle("hidden", !isDark);
+            };
+
             const clearDisplay = () => {
                 errorMessage.classList.add("hidden");
                 errorMessage.textContent = "";
                 resultsSection.classList.add("hidden");
-                legend.classList.add("hidden");
-                legend.innerHTML = "";
+                legendTriggerWrap.classList.add("hidden");
+                warnings.innerHTML = "";
                 categoriesEl.innerHTML = "";
                 completionSummary.textContent = "";
                 progressFill.style.width = "0%";
+                fileName.classList.add("hidden");
+                fileName.textContent = "";
             };
 
             const showLoading = () => {
@@ -189,22 +384,17 @@
                 completionSummary.textContent = `${completed} of ${total} tasks completed`;
             };
 
-            const buildLegend = () => {
-                legend.innerHTML = "";
-                CATEGORY_CONFIG.forEach((category) => {
-                    const pill = document.createElement("div");
-                    pill.className =
-                        "inline-flex items-center gap-2 text-[11px] text-zinc-500";
-
-                    const dot = document.createElement("span");
-                    dot.className = `h-1 w-1 rounded-full ${category.dotClass}`;
-
-                    const label = document.createElement("span");
-                    label.textContent = category.label;
-
-                    pill.appendChild(dot);
-                    pill.appendChild(label);
-                    legend.appendChild(pill);
+            const renderWarnings = (items) => {
+                warnings.innerHTML = "";
+                if (!items || items.length === 0) {
+                    return;
+                }
+                items.forEach((warning) => {
+                    const line = document.createElement("div");
+                    line.className =
+                        "text-[11px] italic text-zinc-400 dark:text-zinc-500";
+                    line.textContent = warning;
+                    warnings.appendChild(line);
                 });
             };
 
@@ -219,7 +409,12 @@
                 chevron.setAttribute("stroke-width", "1.5");
                 chevron.setAttribute("stroke-linecap", "round");
                 chevron.setAttribute("stroke-linejoin", "round");
-                chevron.classList.add("h-3", "w-3", "text-zinc-400");
+                chevron.classList.add(
+                    "h-3",
+                    "w-3",
+                    "text-zinc-400",
+                    "dark:text-zinc-500",
+                );
 
                 const path = document.createElementNS(
                     "http://www.w3.org/2000/svg",
@@ -232,16 +427,52 @@
             };
 
             const setExpanded = (content, chevron, isExpanded) => {
+                const behavior = content.dataset.expandBehavior || "section";
                 if (isExpanded) {
                     content.classList.remove("opacity-0");
                     content.classList.add("opacity-100");
-                    content.style.maxHeight = `${content.scrollHeight}px`;
+                    if (behavior === "task") {
+                        content.classList.remove("overflow-hidden");
+                        content.classList.add(
+                            "overflow-y-auto",
+                            "max-h-40",
+                            "border-t",
+                            "border-zinc-100",
+                            "px-6",
+                            "py-2",
+                            "bg-zinc-50",
+                            "dark:border-zinc-700/50",
+                            "dark:bg-zinc-800",
+                        );
+                        content.style.maxHeight = "10rem";
+                    } else {
+                        content.classList.remove("overflow-hidden");
+                        content.classList.add("overflow-visible");
+                        content.style.maxHeight = `${content.scrollHeight}px`;
+                    }
                     if (chevron) {
                         chevron.classList.add("rotate-180");
                     }
                 } else {
                     content.classList.remove("opacity-100");
                     content.classList.add("opacity-0");
+                    if (behavior === "task") {
+                        content.classList.remove(
+                            "overflow-y-auto",
+                            "max-h-40",
+                            "border-t",
+                            "border-zinc-100",
+                            "px-6",
+                            "py-2",
+                            "bg-zinc-50",
+                            "dark:border-zinc-700/50",
+                            "dark:bg-zinc-800",
+                        );
+                        content.classList.add("overflow-hidden");
+                    } else {
+                        content.classList.remove("overflow-visible");
+                        content.classList.add("overflow-hidden");
+                    }
                     content.style.maxHeight = "0px";
                     if (chevron) {
                         chevron.classList.remove("rotate-180");
@@ -250,18 +481,20 @@
             };
 
             const renderTask = (text, itemsState) => {
-                const trimmedText = normalizeText(text);
+                const fullText = normalizeText(text);
+                const trimmedText = fullText;
                 const isLong = trimmedText.length > 72;
                 const wrapper = document.createElement("div");
                 wrapper.className = "";
 
                 const row = document.createElement("div");
                 row.className = "flex items-center gap-3";
+                row.dataset.fullText = fullText;
 
                 const checkbox = document.createElement("input");
                 checkbox.type = "checkbox";
                 checkbox.className =
-                    "h-3.5 w-3.5 rounded border-zinc-300 text-slate-600 focus:ring-0";
+                    "h-3.5 w-3.5 rounded border-zinc-300 text-slate-600 focus:ring-0 dark:border-zinc-600";
 
                 const preview = document.createElement("div");
                 preview.className = "flex-1 min-w-0";
@@ -279,7 +512,7 @@
                     expandButton = document.createElement("button");
                     expandButton.type = "button";
                     expandButton.className =
-                        "ml-2 flex h-5 w-5 items-center justify-center text-zinc-400";
+                        "ml-2 flex h-5 w-5 items-center justify-center text-zinc-400 dark:text-zinc-500";
 
                     const chevron = createChevron();
                     chevron.classList.add(
@@ -290,13 +523,14 @@
 
                     expandedBlock = document.createElement("div");
                     expandedBlock.className =
-                        "overflow-hidden text-[12px] text-zinc-400 transition-[max-height,opacity] duration-150 opacity-0";
-                    expandedBlock.textContent = trimmedText;
+                        "overflow-hidden text-[12px] text-zinc-400 transition-[max-height,opacity] duration-150 opacity-0 dark:text-zinc-500";
                     expandedBlock.style.maxHeight = "0px";
+                    expandedBlock.dataset.expandBehavior = "task";
 
                     let isExpanded = false;
                     expandButton.addEventListener("click", () => {
                         isExpanded = !isExpanded;
+                        expandedBlock.textContent = row.dataset.fullText;
                         setExpanded(expandedBlock, chevron, isExpanded);
                     });
                 }
@@ -304,7 +538,11 @@
                 const isChecked = getStoredCheck(trimmedText);
                 checkbox.checked = isChecked;
                 if (isChecked) {
-                    previewText.classList.add("line-through", "text-zinc-400");
+                    previewText.classList.add(
+                        "line-through",
+                        "text-zinc-400",
+                        "dark:text-zinc-500",
+                    );
                 }
 
                 checkbox.addEventListener("change", () => {
@@ -314,6 +552,10 @@
                     );
                     previewText.classList.toggle(
                         "text-zinc-400",
+                        checkbox.checked,
+                    );
+                    previewText.classList.toggle(
+                        "dark:text-zinc-500",
                         checkbox.checked,
                     );
                     setStoredCheck(trimmedText, checkbox.checked);
@@ -354,11 +596,12 @@
 
                 const label = document.createElement("span");
                 label.className =
-                    "text-[11px] uppercase tracking-wide text-zinc-500";
+                    "text-[11px] uppercase tracking-wide text-zinc-500 dark:text-zinc-400";
                 label.textContent = category.label;
 
                 const completion = document.createElement("span");
-                completion.className = "ml-auto text-[11px] text-zinc-400";
+                completion.className =
+                    "ml-auto text-[11px] text-zinc-400 dark:text-zinc-500";
                 const total = items.length;
                 const completed = items.filter((item) => item.checked).length;
                 completion.textContent = `${completed} / ${total}`;
@@ -373,12 +616,14 @@
 
                 const content = document.createElement("div");
                 content.className =
-                    "mt-3 overflow-hidden transition-[max-height,opacity] duration-150 opacity-0";
+                    "mt-3 transition-[max-height,opacity] duration-150 opacity-0";
                 content.style.maxHeight = "0px";
+                content.dataset.expandBehavior = "section";
 
                 if (items.length === 0) {
                     const empty = document.createElement("div");
-                    empty.className = "text-[12px] italic text-zinc-400";
+                    empty.className =
+                        "text-[12px] italic text-zinc-400 dark:text-zinc-500";
                     empty.textContent = "Nothing here";
                     content.appendChild(empty);
                 } else {
@@ -421,7 +666,7 @@
                 return section;
             };
 
-            const renderResults = (briefing) => {
+            const renderResults = (briefing, warningsList) => {
                 categoriesEl.innerHTML = "";
                 const itemsState = [];
 
@@ -440,11 +685,15 @@
                     categoriesEl.appendChild(section);
                 });
 
-                buildLegend();
-                legend.classList.remove("hidden");
+                renderWarnings(warningsList);
+                legendTriggerWrap.classList.remove("hidden");
                 resultsSection.classList.remove("hidden");
 
                 updateOverallProgress(itemsState);
+                resultsSection.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                });
             };
 
             const handleFile = async (file) => {
@@ -453,6 +702,8 @@
                 }
 
                 clearDisplay();
+                fileName.textContent = file.name;
+                fileName.classList.remove("hidden");
                 showLoading();
 
                 const formData = new FormData();
@@ -469,13 +720,48 @@
                         throw new Error(data.error || "Upload failed.");
                     }
 
-                    renderResults(data.briefing || {});
+                    renderResults(data.briefing || {}, data.warnings || []);
                 } catch (error) {
                     showError(error.message || "Upload failed.");
                 } finally {
                     hideLoading();
                 }
             };
+
+            const openLegendModal = () => {
+                legendModal.classList.remove("hidden", "opacity-0");
+                legendModal.classList.add("opacity-100");
+                requestAnimationFrame(() => {
+                    legendModalPanel.classList.add("opacity-100", "scale-100");
+                    legendModalPanel.classList.remove("opacity-0", "scale-95");
+                });
+            };
+
+            const closeLegendModal = () => {
+                legendModal.classList.remove("opacity-100");
+                legendModal.classList.add("opacity-0");
+                legendModalPanel.classList.remove("opacity-100", "scale-100");
+                legendModalPanel.classList.add("opacity-0", "scale-95");
+                setTimeout(() => {
+                    legendModal.classList.add("hidden");
+                }, 150);
+            };
+
+            initializeTheme();
+
+            themeToggle.addEventListener("click", () => {
+                const isDark =
+                    document.documentElement.classList.contains("dark");
+                applyTheme(isDark ? "light" : "dark");
+            });
+
+            legendTrigger.addEventListener("click", openLegendModal);
+            legendModalClose.addEventListener("click", closeLegendModal);
+            legendModal.addEventListener("click", (event) => {
+                if (event.target === legendModal) {
+                    closeLegendModal();
+                }
+            });
 
             uploadCard.addEventListener("click", () => fileInput.click());
 
