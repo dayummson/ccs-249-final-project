@@ -2,6 +2,17 @@
 
 A document analysis project that trains a DistilBERT classifier on synthetic rubric data and exposes a Flask API for extracting and classifying blocks from .docx or .pdf activity sheets.
 
+![UI preview](docs/screenshots/cool-ui.png)
+
+## Features
+
+- Fullstack Flask app with a minimal upload UI and results dashboard
+- Drag-and-drop upload for .docx and .pdf activity sheets
+- Block extraction from documents with heuristic and model-assisted classification
+- Category-based task lists with per-item completion tracking
+- Persisted checkbox state in the browser for quick progress follow-up
+- Model evaluation workflow on the model comparison branch
+
 ## Repository overview
 
 - backend/ - Flask API for document upload, extraction, and classification
@@ -84,6 +95,13 @@ From the repo root on that branch:
 ```bash
 python scripts/evaluations/evaluate.py
 ```
+
+## Evaluation graphs
+
+![Fine-tuned confusion matrix](scripts/evaluations/eval_results/Fine_Tuned_confusion_matrix.png)
+![Raw DistilBERT confusion matrix](scripts/evaluations/eval_results/Raw_DistilBERT_confusion_matrix.png)
+![Model comparison chart](scripts/evaluations/eval_results/comparison_chart.png)
+![Confidence distribution](scripts/evaluations/eval_results/confidence_distribution.png)
 
 ## Run the Flask backend
 
