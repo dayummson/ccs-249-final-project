@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CCS 249 Final Project</title>
+
+        <link
+            rel="stylesheet"
+            href="{{ url_for('static', filename='dist/output.css') }}"
+        />
+    </head>
+    <body>
+        <div class="h-lvh w-full">
+            <div
+                class="max-w-5xl mx-auto w-full flex flex-col items-center justify-center h-full"
+            >
+                <h1 class="text-blue-900 font-semibold text-5xl">
+                    Hello user, {{ name }}!
+                </h1>
+            </div>
+        </div>
+    </body>
+</html>
