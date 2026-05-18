@@ -19,3 +19,5 @@ checkpoints/
 *.pth
 *.bin
 *.safetensors
+bun.lock
+node_modules/
