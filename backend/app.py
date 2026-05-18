@@ -4,18 +4,46 @@ sys.path.append("../")
 
 import os
 import uuid
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 from utils.validators.validator import validate_upload
 from utils.extractors.docx_extractor import extract_blocks_from_docx
 from utils.extractors.pdf_extractor import extract_blocks_from_pdf
 from services.classifier import classify_blocks, group_to_briefing
+from dotenv import load_dotenv
 
-app = Flask(__name__)
+load_dotenv(dotenv_path=".env.local")
+
+# Connecting flask to hmlt
+# since we have our frontend ( ui )
+# on a seperate folder we have to do this
+backend_dir = os.path.dirname(os.path.abspath(__file__))
+frontend_dir = os.path.abspath(os.path.join(backend_dir, "..", "frontend"))
+templates_dir = os.path.join(frontend_dir, "templates")
+static_dir = os.path.join(frontend_dir, "static")
+
+
+app = Flask(
+    __name__,
+    template_folder=templates_dir,
+    static_folder=static_dir,
+)
+
+# we need to do this to force the reload everytime
+# we did change on the index.html and tailwindcss
+# but make sure to remove this on PROD
+app.config["TEMPLATES_AUTO_RELOAD"] = True
+app.config["SEND_FILE_MAX_AGE_DEFAULT"] = 0
+
 CORS(app)
 
 UPLOAD_FOLDER = "/tmp/activitybrief"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+
+@app.route("/")
+def home():
+    return render_template("index.html", name="User")
 
 
 @app.route("/health", methods=["GET"])
@@ -93,4 +121,15 @@ def analyze():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=5000)
+    from livereload import Server
+
+    HOST = os.getenv("HOST", "127.0.0.1")
+    PORT = int(os.getenv("PORT", 5500))
+
+    server = Server(app.wsgi_app)
+    server.watch(frontend_dir)
+
+    print(f"LiveReload server running on {HOST}:{PORT}")
+    server.serve(host=HOST, port=PORT, debug=True)
+
+    # app.run(debug=True, host="0.0.0.0", port=5000)
