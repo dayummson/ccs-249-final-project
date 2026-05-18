@@ -1,0 +1,23 @@
+text,predicted_label
+West Visayas State University,IGNORE
+COLLEGE OF INFORMATION AND COMMUNICATIONS TECHNOLOGY,IGNORE
+Luna St. La Paz Iloilo City 5000,IGNORE
+Iloilo Philippines,IGNORE
+Trunkline: (063) (033) 320-0870 loc 1403 Telefax No.: (033) 320-0879,IGNORE
+Website: www.wvsu.edu.ph Email Address: cict@wvsu.edu.ph,IGNORE
+Exercise for Unit 4.1 Naïve Bayes,IGNORE
+Name: Date:,ADMIN_TRAP
+Year and Section:,ADMIN_TRAP
+Save your Python source codes into a single .ipynb file OR multiple python files representing each number with the proper naming convention (see Readme on the repository) upload it to your assigned folder in the GitHub organization.,ADMIN_TRAP
+Naïve Bayes Implementation. Given a small dataset of documents with the class label do the following tasks.,TECHNICAL_TASK
+Performing it manually. In manually developing a Naïve Bayes model create methods that will do the following:,TECHNICAL_TASK
+Generate a Bag of Words (for word frequency),TECHNICAL_TASK
+Calculate the prior for the class HAM and SPAM,TECHNICAL_TASK
+Calculate the likelihood of the tokens in the vocabulary with respect to the class.,TECHNICAL_TASK
+Determine the class of the following test sentence:,TECHNICAL_TASK
+Limited offer click here!,TECHNICAL_TASK
+Meeting at 2 PM with the manager.,TECHNICAL_TASK
+Using Scikit-Learn. Use the scikit-learn package to train and test a Multinomial Naïve Bayes classifier.,TECHNICAL_TASK
+Determine the class of the following test sentence:,TECHNICAL_TASK
+Limited offer click here!,TECHNICAL_TASK
+Meeting at 2 PM with the manager.,TECHNICAL_TASK
