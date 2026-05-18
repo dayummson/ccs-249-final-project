@@ -123,8 +123,8 @@ def analyze():
 if __name__ == "__main__":
     from livereload import Server
 
-    HOST = os.getenv("HOST")
-    PORT = os.getenv("PORT")
+    HOST = os.getenv("HOST", "127.0.0.1")
+    PORT = int(os.getenv("PORT", 5500))
 
     server = Server(app.wsgi_app)
     server.watch(frontend_dir)
