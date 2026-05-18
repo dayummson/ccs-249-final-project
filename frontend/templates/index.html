@@ -448,7 +448,7 @@
                     } else {
                         content.classList.remove("overflow-hidden");
                         content.classList.add("overflow-visible");
-                        content.style.maxHeight = `${content.scrollHeight}px`;
+                        content.style.maxHeight = "none";
                     }
                     if (chevron) {
                         chevron.classList.add("rotate-180");
@@ -635,7 +635,7 @@
                     content.appendChild(list);
                 }
 
-                let expanded = items.length > 0;
+                let expanded = false;
                 setExpanded(content, chevron, expanded);
 
                 header.addEventListener("click", () => {
