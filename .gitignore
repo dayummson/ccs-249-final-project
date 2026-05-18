@@ -12,7 +12,9 @@ raw_model_output.txt
 final_requirement_model/
 
 # training artifacts
-results/
+training_results/
+node_modules/
+bun.lock
 checkpoints/
 *.pt
 *.pth
