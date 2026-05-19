@@ -12,41 +12,30 @@ from sklearn.metrics import (
     confusion_matrix,
 )
 
+sys.path.append("../../")
+
+from constants.label import LABELS, RAW_ID2LABEL
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TUNED_MODEL = os.path.abspath(os.path.join(BASE_DIR, "../../models/alpha"))
 GROUND_TRUTH = os.path.join(BASE_DIR, "../../datasets/evaluations/eval.csv")
 OUTPUT_DIR = os.path.join(BASE_DIR, "eval_results")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-LABELS = [
-    "ADMIN_TRAP",
-    "IGNORE",
-    "OPTIONAL_BONUS",
-    "PRE_REQUISITE",
-    "TECHNICAL_TASK",
-    "WEIGHTED_PRIORITY",
-]
-
-# Raw DistilBERT has no id2label config so it returns LABEL_0 style
-# Fine-tuned model has id2label saved so it returns human-readable labels
-# This handles both cases
-RAW_ID2LABEL = {
-    "LABEL_0": "ADMIN_TRAP",
-    "LABEL_1": "IGNORE",
-    "LABEL_2": "OPTIONAL_BONUS",
-    "LABEL_3": "PRE_REQUISITE",
-    "LABEL_4": "TECHNICAL_TASK",
-    "LABEL_5": "WEIGHTED_PRIORITY",
-}
-
 
 def resolve_label(raw_label):
     if raw_label in LABELS:
-        return raw_label  # fine-tuned: already readable
-    return RAW_ID2LABEL.get(raw_label, "IGNORE")  # raw: map LABEL_N → name
+        return raw_label
+
+    # Raw DistilBERT has no id2label config so it returns LABEL_0 style
+    # Fine-tuned model has id2label saved so it returns human-readable labels
+    # This handles both cases
+    return RAW_ID2LABEL.get(raw_label, "IGNORE")
 
 
-# ── Load ground truth ─────────────────────────────────────────────────────────
+# ================================================================
+#   LOAD DATA
+# ================================================================
 
 df = pd.read_csv(GROUND_TRUTH)
 print(f"Ground truth loaded: {len(df)} samples")
@@ -57,7 +46,9 @@ texts = df["text"].tolist()
 true_labels = df["true_label"].tolist()
 
 
-# ── Evaluate ──────────────────────────────────────────────────────────────────
+# ================================================================
+#   EVALUATE
+# ================================================================
 
 
 def evaluate_model(model_path, model_name, texts, true_labels):
@@ -114,7 +105,9 @@ def evaluate_model(model_path, model_name, texts, true_labels):
     }
 
 
-# ── Plots ─────────────────────────────────────────────────────────────────────
+# ================================================================
+#   PLOTS
+# ================================================================
 
 
 def plot_confusion_matrix(true_labels, predicted, model_name):
@@ -216,7 +209,9 @@ def plot_confidence_distribution(tuned_metrics, true_labels):
     print(f"Confidence distribution saved: {path}")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+# ================================================================
+#   MAIN
+# ================================================================
 
 if __name__ == "__main__":
     raw_metrics = evaluate_model(
