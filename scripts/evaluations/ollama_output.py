@@ -83,7 +83,7 @@ def evaluate(model_name, texts):
             print(f"  [X] Error on sample {i}: {e}")
             label = "IGNORE"
 
-        predicted.append({"text": text, "label": label})
+        predicted.append({"text": text, "predicted_label": label})
 
     return predicted
 
