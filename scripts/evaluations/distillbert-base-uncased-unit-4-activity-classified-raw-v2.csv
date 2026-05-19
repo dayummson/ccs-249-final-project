@@ -1,0 +1,18 @@
+text,predicted_label
+Exercise for Unit 4.1 Naïve Bayes,IGNORE
+Name:									Date:,IGNORE
+Year and Section:,ADMIN_TRAP
+"Note: Note: Save your Python source codes into a single .ipynb file OR multiple python files, representing each number, with the proper naming convention (see Readme on the repository), upload it to your assigned folder in the GitHub organization.
+
+Naïve Bayes Implementation. Given a small dataset of documents with the class label, do the following tasks.",ADMIN_TRAP
+"Performing it manually. In manually developing a Naïve Bayes model, create methods that will do the following:",ADMIN_TRAP
+Generate a Bag of Words (for word frequency),ADMIN_TRAP
+Calculate the prior for the class HAM and SPAM,ADMIN_TRAP
+Calculate the likelihood of the tokens in the vocabulary with respect to the class.,ADMIN_TRAP
+Determine the class of the following test sentence:,ADMIN_TRAP
+"Limited offer, click here!",ADMIN_TRAP
+Meeting at 2 PM with the manager.,ADMIN_TRAP
+Using Scikit-Learn. Use the scikit-learn package to train and test a Multinomial Naïve Bayes classifer.,ADMIN_TRAP
+Determine the class of the following test sentence:,ADMIN_TRAP
+"Limited offer, click here!",ADMIN_TRAP
+Meeting at 2 PM with the manager.,ADMIN_TRAP

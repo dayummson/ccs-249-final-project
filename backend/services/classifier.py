@@ -5,10 +5,10 @@ sys.path.append("../../")
 import os
 import re
 from transformers import pipeline
-from constants.label import LABELS
+from constants.label import RAW_ID2LABEL
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.abspath(os.path.join(BASE_DIR, "../../models/alpha"))
+MODEL_PATH = os.path.abspath(os.path.join(BASE_DIR, "../../models/beta"))
 
 print(f"Loading model from: {MODEL_PATH}")
 
@@ -111,7 +111,7 @@ def classify_blocks(blocks):
 
     classified = []
     for block, result in zip(blocks, results):
-        model_label = LABELS.get(result["label"], "IGNORE")
+        model_label = RAW_ID2LABEL.get(result["label"], "IGNORE")
         confidence = result["score"]
 
         heuristic = heuristic_classify(block["text"], block)
