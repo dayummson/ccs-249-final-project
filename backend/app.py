@@ -88,6 +88,8 @@ def analyze():
                 422,
             )
 
+        print(f"[DEBUG BLOCKS]: ", blocks)
+
         # Next: Classify blocks
         classified = classify_blocks(blocks)
         briefing = group_to_briefing(classified)
@@ -99,6 +101,8 @@ def analyze():
         model_hit = sum(1 for b in classified if b["source"] == "model")
 
         quality = "good" if (low_conf / max(total, 1)) < 0.3 else "degraded"
+
+        print(f"[DEBUG CLASSIFIED]: ", classified)
 
         return jsonify(
             {

@@ -16,6 +16,8 @@ for i, row in df.iterrows():
         response = ollama.chat(
             model="llama3.2:latest",
             messages=[
+                # todo: include label and update the prompt
+                # so it will have context before smoothing
                 {"role": "user", "content": SMOOTH_PROMPT.format(sentence=row["text"])}
             ],
             # TODO: improve by adding penalty ( frequency_penalty around 0.2 to 0.5 )

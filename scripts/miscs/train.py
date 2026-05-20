@@ -78,7 +78,13 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 def tokenize_func(examples):
     return tokenizer(
-        examples["text"], padding="max_length", truncation=True, max_length=128
+        examples["text"],
+        padding="max_length",
+        truncation=True,
+        # TODO: increase it to 256
+        # per_device_train_batch_size=4,   # down from 8 to fit VRAM
+        # per_device_eval_batch_size=4,
+        max_length=128,
     )
 
 
