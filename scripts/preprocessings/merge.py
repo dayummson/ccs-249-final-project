@@ -10,7 +10,6 @@ OUTPUT_FILE = "synthetic_data_v3.csv"
 
 
 def merge_cleaned_datasets():
-    # Find all CSV files in the target directory
     search_pattern = os.path.join(INPUT_FOLDER, "*.csv")
     csv_files = glob.glob(search_pattern)
 
@@ -20,26 +19,61 @@ def merge_cleaned_datasets():
 
     print(f"Found {len(csv_files)} files to merge.")
 
-    # Read and combine all CSV files into a single list
     dataframes = []
     for file in csv_files:
         try:
             df = pd.read_csv(file)
-            dataframes.append(df)
-            print(f" - Loaded: {os.path.basename(file)} ({len(df)} rows)")
+
+            # 1. Drop completely empty/blank columns that cause double commas
+            df = df.dropna(how="all", axis=1)
+
+            # 2. Clean and lowercase column headers to catch trailing spaces
+            df.columns = df.columns.str.strip().str.lower()
+
+            # 3. Dynamically find the text and label columns
+            text_col = next((c for c in df.columns if "text" in c), None)
+            label_col = next(
+                (c for c in df.columns if "label" in c or "class" in c), None
+            )
+
+            # Fallback: If headers are completely broken, use position
+            if text_col is None or label_col is None:
+                if len(df.columns) >= 2:
+                    text_col = df.columns[0]
+                    label_col = df.columns[1]
+
+            if text_col and label_col:
+                # 4. Strictly isolate only these two columns and normalize names
+                df = df[[text_col, label_col]].rename(
+                    columns={text_col: "text", label_col: "label"}
+                )
+                dataframes.append(df)
+                print(
+                    f" - Loaded & Standardized: {os.path.basename(file)} ({len(df)} rows)"
+                )
+            else:
+                print(
+                    f" - Warning: Skipping {os.path.basename(file)} due to unreadable structure."
+                )
+
         except Exception as e:
             print(f" - Error loading {os.path.basename(file)}: {e}")
 
-    # Concatenate all DataFrames
+    if not dataframes:
+        print("No valid dataframes found to merge.")
+        return
+
+    # Combine cleanly aligned dataframes
     merged_df = pd.concat(dataframes, ignore_index=True)
 
-    # Drop any exact duplicates that might have leaked across files
+    # Clean out any null values or exact duplicates across files
+    merged_df = merged_df.dropna(subset=["text", "label"])
     merged_df = merged_df.drop_duplicates()
 
-    # Shuffle the dataset to ensure proper class distribution during training
+    # Shuffle dataset
     merged_df = merged_df.sample(frac=1, random_state=42).reset_index(drop=True)
 
-    # Save to the final output file
+    # Export cleanly
     merged_df.to_csv(OUTPUT_FILE, index=False)
 
     print("=" * 40)
