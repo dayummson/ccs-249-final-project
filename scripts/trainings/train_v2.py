@@ -20,8 +20,8 @@ from transformers import (
 )
 from utils.metrics.metric import compute_metrics
 
-DATASET = "../../datasets/synthetic_data/synthetic_data_v2.csv"
-OUTPUT_MODEL_PATH = "../../models/beta"
+DATASET = "../../datasets/synthetic_data/synthetic_data_v3.csv"
+OUTPUT_MODEL_PATH = "../../models/delta"
 MODEL_NAME = "distilbert-base-uncased"
 BATCH_SIZE = 8
 NUM_EPOCHS = 5
@@ -111,7 +111,7 @@ class WeightedTrainer(Trainer):
             logits,
             labels,
             weight=(
-                self.class_weights.to(logits.device)
+                self.class_weights.to(device=logits.device, dtype=logits.dtype)
                 if self.class_weights is not None
                 else None
             ),
