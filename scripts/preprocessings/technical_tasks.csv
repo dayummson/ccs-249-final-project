@@ -1,0 +1,201 @@
+text,label
+"Using a simple CNN algorithm, create a word classifier.",TECHNICAL_TASK
+Identify 5 different types of data that can be used for gathering.,TECHNICAL_TASK
+Create 12 different python apps that use flask for their UI (User Interface).,TECHNICAL_TASK
+"Javascript can be used in HTML for different ways, Identify at least 3 ways to do so.",TECHNICAL_TASK
+"Based on your earlier research, create a short essay about how electronic devices receive and send data.",TECHNICAL_TASK
+Your objective for this assignment is to develop a functional word embedding model.,TECHNICAL_TASK
+"For this exercise, you will create a bag-of-words model using the TensorFlow library.",TECHNICAL_TASK
+"For the purpose of this assignment, you will need to implement a logistic regression classifier using PyTorch.",TECHNICAL_TASK
+Provide 7 examples of how you can easily benefit from the use of computers.,TECHNICAL_TASK
+Begin by implementing a stemming algorithm in your preferred programming language.,TECHNICAL_TASK
+"For this assignment, you will need to implement a TF-IDF vectorizer using the Natural Language Toolkit (NLTK).",TECHNICAL_TASK
+"For the provided task, complete 8 sentences related to Machine Learning.",TECHNICAL_TASK
+Deploy your Flask application using Docker to demonstrate containerization skills.,TECHNICAL_TASK
+"Create a data preprocessing pipeline that handles missing values, normalizes numerical features, and encodes categorical variables for machine learning.",TECHNICAL_TASK
+"Build a Python-based sentiment analysis system that preprocesses customer reviews, extracts TF-IDF features, and classifies sentiments using a Support Vector Machine (SVM).",TECHNICAL_TASK
+Design and implement a convolutional neural network (CNN) that accurately classifies handwritten digits from the MNIST dataset.,TECHNICAL_TASK
+Train and evaluate a decision tree classifier for predicting customer churn using the provided banking dataset.,TECHNICAL_TASK
+"Construct an image preprocessing pipeline that resizes, augments, and normalizes images before model training.",TECHNICAL_TASK
+Build a real-time face detection system using OpenCV and Haar Cascade classifiers.,TECHNICAL_TASK
+Create a database-driven inventory management system using MySQL and Python for CRUD operations.,TECHNICAL_TASK
+Develop and implement a Python script that preprocesses customer review data and classifies sentiments using a machine learning algorithm.,TECHNICAL_TASK
+Evaluate 5 different logistic regression models that can predict customer churn rate.,TECHNICAL_TASK
+"Instructions: Before writing any code, review the following raw data extracct representing a university student database.",TECHNICAL_TASK
+"Optimize the provided CNN and finetune it for implementation of banking and financing, specifically for analyzing outliers to catch financial fraud.",TECHNICAL_TASK
+A. Distribute all data evenly using a python script created from scratch under 5 minutes.,TECHNICAL_TASK
+A. Modify the provided device to have more VRAM and Storage for training use.,TECHNICAL_TASK
+"A. Using advanced training requirements as a basis, improve the provided device architecture to support efficient data handling, expanded VRAM capacity, and reliable storage performance.",TECHNICAL_TASK
+A. Upgrade the provided device to achieve better training performance through enhanced graphical memory and storage expansion.,TECHNICAL_TASK
+"A. To enhance computational performance, modify the existing device configuration to include upgraded VRAM modules and faster storage components for machine learning applications.",TECHNICAL_TASK
+B. Create an upgraded version of the provided device that includes expanded VRAM capacity and additional storage for AI model training tasks.,TECHNICAL_TASK
+B. Redesign the storage architecture of the existing device to support faster data access and more efficient neural network training operations.,TECHNICAL_TASK
+B. Develop a modified hardware setup capable of handling intensive CNN training processes through improved storage allocation and graphical memory support.,TECHNICAL_TASK
+B. Optimize the existing device for artificial intelligence applications by expanding both storage performance and VRAM utilization.,TECHNICAL_TASK
+"B. Applying deep learning optimization principles, modify the device hardware to accommodate larger VRAM resources and high-speed storage for model development tasks.",TECHNICAL_TASK
+"C. Using advanced AI optimization techniques, redesign the provided device to support larger VRAM capacity and faster storage performance for model training.",TECHNICAL_TASK
+C. Create a hardware-enhanced version of the device that can efficiently manage deep learning workloads and large training datasets.,TECHNICAL_TASK
+"C. By integrating high-speed storage solutions, improve the provided device architecture for more reliable machine learning operations.",TECHNICAL_TASK
+C. Construct an upgraded device configuration capable of handling large-scale artificial intelligence applications with improved storage and memory resources.,TECHNICAL_TASK
+C. Enhance the device specifications by incorporating modern memory management solutions and faster storage technologies for AI development tasks.,TECHNICAL_TASK
+"After creating the baseline code, finish the dataset cleaning of the provided .csv file in the github.",TECHNICAL_TASK
+Build a Python script that scrapes product data from an e-commerce website and stores it in a structured CSV file.,TECHNICAL_TASK
+"Using scikit-learn, implement a random forest classifier to predict housing prices from the provided dataset.",TECHNICAL_TASK
+Write a function in Python that tokenizes and removes stopwords from the given corpus of text in the repository.,TECHNICAL_TASK
+"Using the provided schema blueprint, design a REST API in Flask that performs CRUD operations on a SQLite database.",TECHNICAL_TASK
+"With the provided historical stock data, train a recurrent neural network (RNN) using PyTorch to predict future price trends.",TECHNICAL_TASK
+Create a data visualization dashboard using Matplotlib and Seaborn that displays the sales trends found in the provided Excel file.,TECHNICAL_TASK
+Implement a k-means clustering algorithm from scratch to group customer segments by purchasing behavior.,TECHNICAL_TASK
+"Write a Python script that reads the provided JSON file, validates its schema, and converts it into a structured pandas DataFrame.",TECHNICAL_TASK
+"Using the Hugging Face Transformers library, build a text summarization tool trained on the article dataset linked in the repository.",TECHNICAL_TASK
+Develop a binary classification model using logistic regression to identify spam emails from the given labeled dataset.,TECHNICAL_TASK
+"According to the data structure outlined in the provided documentation, create a web scraper using BeautifulSoup that extracts headlines and publication dates.",TECHNICAL_TASK
+"ith the provided high-dimensional image dataset, implement a PCA pipeline to reduce feature dimensions before model training.",TECHNICAL_TASK
+Write a SQL script that joins the three provided tables and retrieves the top 10 customers ranked by total purchase value.,TECHNICAL_TASK
+"Using XGBoost and the provided medical records dataset, train a gradient boosting model to classify patient diagnoses.",TECHNICAL_TASK
+Build a real-time object detection application using YOLO and OpenCV on live webcam input.,TECHNICAL_TASK
+"With the provided raw dataset, develop a Python script that normalizes numerical columns and encodes all categorical features for model input.",TECHNICAL_TASK
+Implement a Naive Bayes classifier to categorize the provided news articles into the predefined topic labels listed in the rubric.,TECHNICAL_TASK
+"According to the architecture diagram provided, design a CNN that classifies plant diseases from the given collection of leaf images.",TECHNICAL_TASK
+"Write a Python function that computes the confusion matrix and prints precision, recall, and F1-score for the trained classifier.",TECHNICAL_TASK
+"Using the provided monthly utility records, create a time series forecasting model with LSTM to predict future electricity consumption.",TECHNICAL_TASK
+"With the provided text corpus, implement a Word2Vec embedding model using Gensim and export the trained vectors to a file.",TECHNICAL_TASK
+Build a data pipeline using Apache Airflow that automates the ingestion and transformation of daily sales records from the provided source folder.,TECHNICAL_TASK
+"Write a Python script that splits the provided dataset into training, validation, and test sets using stratified sampling based on the target column.",TECHNICAL_TASK
+"According to the dataset specifications in the provided README, develop an MLP using Keras to classify handwritten letters from the EMNIST dataset.",TECHNICAL_TASK
+"Using the trained decision tree from the previous task, create a feature importance analysis and visualize the results as a bar chart.",TECHNICAL_TASK
+Implement an API rate limiter in Python that restricts incoming requests to 100 per minute per user,TECHNICAL_TASK
+"Write a regular expression parser that extracts phone numbers, emails, and dates from the unstructured text found in the provided log files.",TECHNICAL_TASK
+"Using the provided user-item interaction matrix, build a recommendation system that applies collaborative filtering to generate product suggestions.",TECHNICAL_TASK
+"With the given medical dataset, train an SVM to distinguish between malignant and benign tumor classifications and report its accuracy.",TECHNICAL_TASK
+Develop a Python script that connects to the provided PostgreSQL database credentials and exports query results to a formatted Excel report.,TECHNICAL_TASK
+"Create an image augmentation pipeline using Albumentations that applies rotation, flipping, and brightness adjustments to the provided training images.",TECHNICAL_TASK
+"Using the classifier built in the previous step, implement a cross-validation strategy to evaluate its generalization performance across 5 folds.",TECHNICAL_TASK
+"According to the anomaly thresholds defined in the provided report, implement an autoencoder using TensorFlow to detect irregularities in the network traffic dataset.",TECHNICAL_TASK
+Design a microservices architecture using Docker Compose that runs a Flask API alongside a Redis caching layer.,TECHNICAL_TASK
+Write a Monte Carlo simulation in Python to estimate the probability of profit for a given investment portfolio.,TECHNICAL_TASK
+"According to the sentiment labels defined in the annotation guide, fine-tune a BERT model on the provided customer feedback dataset and evaluate its classification performance",TECHNICAL_TASK
+"Data preprocessing is a critical step in machine learning, create a cleaned and normalized dataset from the provided raw banking transaction records for model training.",TECHNICAL_TASK
+"Python is widely used for machine learning development, write a script that loads the provided dataset, preprocesses the features, and trains a basic classification model using scikit-learn.",TECHNICAL_TASK
+"Machine learning models require structured pipelines to function effectively, build a Python script that handles data cleaning, feature extraction, and model evaluation using the provided customer transaction dataset.",TECHNICAL_TASK
+Evaluate the models provided in the github and discuss how they work and where they can be implemented.,TECHNICAL_TASK
+"Given the following documents and query, determine what documents are similar to the query. Complete the table for the Query and Doc 1, and generate the tables for Doc 2 and 3. Use cosine similarity.",TECHNICAL_TASK
+"Using the available pretrained LLMs on HugginFace, look for datasets made for a specific domain and use it for fine-tuning. You can use the sample source codes shared in the LMS and update it to your needs.",TECHNICAL_TASK
+"Train a word embedding model using the skip-gram architecture with negative sampling, then evaluate whether the learned vectors capture useful semantic relationships.",TECHNICAL_TASK
+a. Select a Wikipedia article of your choice as the corpora for this exercise.,TECHNICAL_TASK
+b. The article should be reasonably long (at least a few thousand words) for good results.,TECHNICAL_TASK
+c. Determine which part of the code (codeline) this part is:,TECHNICAL_TASK
+b. Change the list of words to be used for evaluation.,TECHNICAL_TASK
+"b. Take note of the following properties with Word2Vec, vector size and window.",TECHNICAL_TASK
+"For the Final Project in CCS 249, you and your group members are required to develop and submit an NLP System, which apply concepts discussed in the subject.",TECHNICAL_TASK
+"Based on the discussions found on the provided resource materials, answer the following questions:",TECHNICAL_TASK
+"Play a few rounds of the game of 4 Pics 1 Word, either on your phone or on this website: https://poki.com/en/g/4-pics-1-word, then answer the following questions.",TECHNICAL_TASK
+Perform the following preprocessing techniques using RegEx.,TECHNICAL_TASK
+- Build a Python script that cleans and preprocesses raw dataset files by handling missing values and removing duplicates.,TECHNICAL_TASK
+- Develop a Flask web application that allows users to upload data files and view processed outputs through a simple interface,TECHNICAL_TASK
+"- Create a REST API that supports user management operations including creating, updating, retrieving, and deleting records. ",TECHNICAL_TASK
+- Construct a recommendation system that generates suggestions based on user interaction history and similarity scoring.,TECHNICAL_TASK
+- Build a text processing module that tokenizes input text and converts it into numerical feature representations.,TECHNICAL_TASK
+Build a context analyzer using DistilBERT and chatGPT baselines.,TECHNICAL_TASK
+* **[IMPLEMENTATION]:** Construct a robust exception handler to catch runtime timeout errors during the third-party API handshake.,TECHNICAL_TASK
+* • *Functional Step:* Parse the raw CSV input matrix to extract missing feature values before scaling your dataset attributes.,TECHNICAL_TASK
+* • *Task:* Complete the following tasks below within the school period:,TECHNICAL_TASK
+* **[TO DO:]** Finish the pipeline provided in the google classroom while implementing RegEx.,TECHNICAL_TASK
+* **Mandatory Step:** Configure the custom network socket connection to retry handshakes up to three times before throwing a timeout.,TECHNICAL_TASK
+* **[CORE TASK]:** Implement a standard breadth-first search algorithm to traverse the generated graph structure completely.,TECHNICAL_TASK
+* 3. **[DATABASE DESIGN]:** Create a composite primary key using both the transaction identity string and the execution timestamp field.,TECHNICAL_TASK
+* The application engine must accept raw binary streams directly from the standard input buffer and process them sequentially.,TECHNICAL_TASK
+* * *Algorithmic Step:* Normalize the feature matrix columns to have a zero mean and unit variance before fitting.,TECHNICAL_TASK
+**[REGEX TASK.]** Create a simple RegEx classifier using python local libraries and the provided corpora.,TECHNICAL_TASK
+* • **[DATA PIPELINE]:** Clean the raw text by striping out special punctuation characters and converting all strings to lowercase.,TECHNICAL_TASK
+• **[NETWORK PROTOCOL]:** Bind the server socket to port 8080 and listen for incoming TCP connection handshakes.,TECHNICAL_TASK
+1. * * Mandatory Step:* Instantiate a new instances of the cryptographic hashing class using SHA-256 encryption.,TECHNICAL_TASK
+[FILE PROCESSING] Read the incoming telemetry stream line-by-line and strip away any carriage return characters.,TECHNICAL_TASK
+- **[ALGORITHM]:** Implement a classic binary search algorithm to locate the target index within the pre-sorted array.,TECHNICAL_TASK
+Compute the absolute variance across all feature column vectors.,TECHNICAL_TASK
+**TO DO.** Create a simple file duplicator using python and C++ as your main coding languages.,TECHNICAL_TASK
+* • **Analyzer:** Build and evaluate a dataset analyzer and cleaner using the provided libraries in python.,TECHNICAL_TASK
+• **CHAT BOT:** Using huggingface.com. find a model and create a simpe AI chat bot assistant.,TECHNICAL_TASK
+1. **LEARNING MODEL:** Create a simple self-learning model that can easily be fed new data and learn from it using chatGPT3.1,TECHNICAL_TASK
+* * * **MAIN TASK:** Hugginface contains thousands of different AI models that can cater to the needs of all users. Create a text classifier using any model of your choice.,TECHNICAL_TASK
+"* **[CORE TASK]:** Using the provided dataset in the repository, build a text classification model using any pretrained model from HuggingFace.",TECHNICAL_TASK
+"* **[IMPLEMENTATION]:** Develop a Python script that loads a CSV file, detects missing values, and fills them using mean imputation before model training.",TECHNICAL_TASK
+"* • **[DATA PIPELINE]:** Using the provided raw transaction logs, clean and structure the data by removing duplicates and normalizing all numerical columns.",TECHNICAL_TASK
+* • **Mandatory Step:** Fine-tune a pretrained BERT model from HuggingFace using the provided domain-specific dataset and report the final evaluation metrics.,TECHNICAL_TASK
+* * * **[TO DO:]** Complete the sentiment analysis pipeline provided in the Google Classroom using the NLTK library and the given movie review dataset.,TECHNICAL_TASK
+* **[ALGORITHM]:** Implement a logistic regression classifier from scratch using ** NumPy ** and evaluate its accuracy on the provided binary classification dataset.,TECHNICAL_TASK
+"* * * **[CORE TASK]:** Using the skip-gram architecture, train a Word2Vec model on the provided corpus and test whether the learned embeddings capture semantic relationships.",TECHNICAL_TASK
+"* **[REGEX TASK]:** Using the provided raw text corpus, write a Python RegEx script that extracts all email addresses, dates, and monetary values.",TECHNICAL_TASK
+ • **[NETWORK PROTOCOL]:** Configure the provided Flask application to handle POST requests and return structured JSON responses for each API endpoint.,TECHNICAL_TASK
+"* * * **Mandatory Step:** Preprocess the provided image dataset by applying resizing, grayscale conversion, and pixel normalization before feeding it into the CNN.",TECHNICAL_TASK
+"* **[DATABASE DESIGN]:** Using the provided university student records, design a relational database schema and implement it using MySQL with proper foreign key constraints.",TECHNICAL_TASK
+* • **Analyzer:** Evaluate the three machine learning models provided in the GitHub repository and document where each model performs best based on the test results.,TECHNICAL_TASK
+* * * **[TO DO:]** Finish the data cleaning notebook provided in the LMS by handling all remaining null values and encoding the categorical columns using one-hot encoding.,TECHNICAL_TASK
+* **[IMPLEMENTATION]:** Build a real-time sentiment classifier using DistilBERT that accepts user input through a simple Flask web interface.,TECHNICAL_TASK
+"* * * **MAIN TASK:** Using any model available on HuggingFace, create a named entity recognition system trained on the provided annotated dataset.",TECHNICAL_TASK
+* • **Mandatory Step:** Connect the provided Python script to the PostgreSQL database using SQLAlchemy and execute the queries defined in the task sheet.,TECHNICAL_TASK
+"* **[FILE PROCESSING]:** Read the provided telemetry CSV file line by line, strip all special characters, and export the cleaned output to a new file.",TECHNICAL_TASK
+"* * * **[CORE TASK]:** Using the provided labeled image dataset, design and train a CNN architecture that achieves at least 85% classification accuracy on the test split.",TECHNICAL_TASK
+"* • **CHAT BOT:** Using HuggingFace, select an appropriate conversational model and deploy it as a simple AI assistant for a customer support use case.",TECHNICAL_TASK
+retrains itself whenever new labeled data is added to the input folder.,TECHNICAL_TASK
+"* **[PIPELINE TASK]:** Using the provided raw e-commerce dataset, construct a full end-to-end preprocessing and classification pipeline using scikit-learn and export the final predictions to a CSV file.",TECHNICAL_TASK
+"* **[MODEL TASK]:** According to the fine-tuning guide provided in the LMS, adapt a pretrained GPT-2 model from HuggingFace to generate domain-specific text based on the provided corpus.",TECHNICAL_TASK
+"1. With the provided banking transaction dataset, implement an anomaly detection model using Isolation Forest and flag all outlier records for further review.",TECHNICAL_TASK
+"2. Load the provided JSON dataset into a pandas DataFrame, inspect its structure, and document all columns that contain null or inconsistent values before proceeding.",TECHNICAL_TASK
+"* **[BUILD TASK]:** Using Flask and SQLite, build a simple web application that allows users to submit text input and receive a real-time sentiment classification result.",TECHNICAL_TASK
+"- According to the evaluation criteria outlined in the rubric, train and compare a Naive Bayes and SVM classifier on the provided text dataset and report which performs better.",TECHNICAL_TASK
+"- With the provided annotated NER dataset, fine-tune a spaCy model to recognize domain-specific entities and evaluate it using precision, recall, and F1-score.",TECHNICAL_TASK
+"* **[EXECUTE]:** Parse the raw log files provided in the repository using Python RegEx, extract all critical error entries, and store the results in a structured DataFrame.",TECHNICAL_TASK
+"3. Using the provided image dataset, implement a data augmentation pipeline with at least five transformation techniques before feeding the images into the CNN.",TECHNICAL_TASK
+"* **[CONFIGURE]:** Based on the system architecture described in the provided technical document, set up a Docker container that runs the Flask API and connects to the provided PostgreSQL database.",TECHNICAL_TASK
+"- Open the provided Jupyter Notebook from the Google Classroom, complete all missing code cells related to feature engineering, and rerun the full pipeline before submitting.",TECHNICAL_TASK
+"4. Using the provided customer churn dataset, develop a gradient boosting model, tune its hyperparameters using GridSearchCV, and submit the final evaluation report.",TECHNICAL_TASK
+"* **[DATA TASK]:** According to the data dictionary provided in the repository, clean and encode all categorical variables in the dataset and verify the output using a correlation heatmap.",TECHNICAL_TASK
+"- Write a Python script that reads the provided CSV file, computes descriptive statistics for all numerical columns, and exports the summary to a formatted Excel file.",TECHNICAL_TASK
+"5. Using the word embeddings trained in the previous activity, visualize the vector space of the top 50 words using PCA and plot the results using Matplotlib.",TECHNICAL_TASK
+"* **[SUB TASK]:** With the base model provided in the GitHub repository, extend its architecture by adding two additional hidden layers and retrain it on the provided dataset.",TECHNICAL_TASK
+"6. Design and implement a simple ETL pipeline using Python that extracts data from the provided API, transforms it into a clean schema, and loads it into a local SQLite database.",TECHNICAL_TASK
+- Finish the incomplete tokenizer script provided in the LMS by implementing the missing RegEx patterns for punctuation removal and sentence boundary detection.,TECHNICAL_TASK
+"* **[INTEGRATION TASK]:** Using the HuggingFace Inference API, connect the provided Flask application to a pretrained text classification model and display the results on a simple HTML frontend.",TECHNICAL_TASK
+"* **ADVANCED TASK:** According to the optimization techniques discussed in the lecture materials, improve the provided CNN model by adding batch normalization and dropout layers to reduce overfittin",TECHNICAL_TASK
+"* **[TRAINING TASK]:** Using the provided labeled dataset from the repository, train a multi-class classification model using PyTorch and log the loss and accuracy for every epoch.",TECHNICAL_TASK
+"1. With the provided raw hospital records, build a data cleaning script in Python that removes duplicates, fills missing values, and exports the cleaned output to a new CSV file",TECHNICAL_TASK
+"- According to the preprocessing steps outlined in the provided module, apply tokenization, lemmatization, and stopword removal to the given text corpus using NLTK.",TECHNICAL_TASK
+"* * * **[EVALUATION TASK]:** Using the three trained models provided in the GitHub repository, evaluate each one on the test dataset and create a comparison table of their performance metrics.",TECHNICAL_TASK
+"Load the provided e-commerce sales CSV file, compute monthly revenue totals, and visualize the results using a line chart in Matplotlib.",TECHNICAL_TASK
+"* **[FEATURE TASK]:** With the provided tabular dataset, perform feature selection using a correlation matrix and remove all columns that have a correlation coefficient below 0.2.",TECHNICAL_TASK
+"- Build a Python script that connects to the provided REST API, retrieves paginated responses, and stores all records into a local SQLite database.",TECHNICAL_TASK
+"3. Using the skip-gram Word2Vec model trained in the previous task, find the top 10 most similar words for each keyword listed in the provided evaluation sheet.",TECHNICAL_TASK
+"* • **[NOTEBOOK TASK]:** Open the Jupyter Notebook provided in the Google Classroom, complete all empty code cells for the data visualization section, and export the finished notebook as a PDF.",TECHNICAL_TASK
+"- According to the system design document provided in the LMS, implement a basic client-server communication system in Python using socket programming.",TECHNICAL_TASK
+"4. With the provided multi-label text dataset, train a One-vs-Rest logistic regression classifier and report the micro and macro F1-scores on the test split.",TECHNICAL_TASK
+"* **[CLEANING TASK]:** Parse the provided unstructured log file using Python RegEx, extract all warning and error level entries, and organize them into a structured pandas DataFrame.",TECHNICAL_TASK
+"Using the provided audio feature dataset, train a k-nearest neighbors classifier to identify music genres and evaluate its accuracy using 10-fold cross-validation.",TECHNICAL_TASK
+"- Finish the incomplete Flask application provided in the repository by implementing the missing route handlers for user login, registration, and profile update.",TECHNICAL_TASK
+* * * **DEPLOYMENT TASK:** Containerize the provided Python machine learning application using Docker and write a docker-compose file that runs the app alongside a Redis caching service.,TECHNICAL_TASK
+"6. With the provided satellite image dataset, implement a binary segmentation model using a U-Net architecture and evaluate it using the Intersection over Union metric.",TECHNICAL_TASK
+"According to the annotation guidelines provided in the task sheet, label at least 200 entries from the raw dataset and export the annotated output in JSON format.",TECHNICAL_TASK
+* • **COMPARISON TASK:** Train both a decision tree and a random forest classifier on the provided dataset and produce a side-by-side comparison of their confusion matrices.,TECHNICAL_TASK
+"7. Using the provided API credentials, write a Python script that fetches real-time weather data, stores it in a CSV file, and updates the file every 10 minutes.",TECHNICAL_TASK
+- Build a simple text generation script using a fine-tuned GPT-2 model from HuggingFace that accepts a prompt from the user and outputs a 100-word continuation.,TECHNICAL_TASK
+"* **[OPTIMIZATION TASK]:** Using the baseline CNN provided in the repository, apply hyperparameter tuning with Optuna to find the best learning rate, batch size, and number of layers.",TECHNICAL_TASK
+"8. With the provided customer feedback dataset, apply LDA topic modeling using Gensim and identify the top 5 topics present across all reviews.",TECHNICAL_TASK
+"- Write a Python function that accepts a raw string input, applies all preprocessing steps from the provided pipeline, and returns a cleaned and tokenized output.",TECHNICAL_TASK
+"* * * **VISUALIZATION TASK:** Using the provided sales dataset, create an interactive dashboard using Plotly that displays revenue breakdowns by region, product category, and time period.",TECHNICAL_TASK
+"9. According to the schema provided in the task document, design and populate a MySQL database with at least three related tables and verify all foreign key relationships.",TECHNICAL_TASK
+"* • **[SCRAPING TASK]:** Using BeautifulSoup and the provided target URL list, build a web scraper that collects product names, prices, and ratings and exports them to a structured CSV file",TECHNICAL_TASK
+"With the provided imbalanced classification dataset, apply SMOTE oversampling to balance the class distribution and retrain the model to compare performance before and after.",TECHNICAL_TASK
+"- Using the provided pretrained ResNet model from HuggingFace, fine-tune it on the given image dataset and report the top-1 and top-5 accuracy on the validation split.",TECHNICAL_TASK
+"* **[REPORTING TASK]:** After training the provided model on the given dataset, generate a full classification report including precision, recall, F1-score, and a rendered confusion matrix.",TECHNICAL_TASK
+"11. Build a Python script that reads the provided XML data file, parses all relevant fields, and converts the output into a clean pandas DataFrame for analysis.",TECHNICAL_TASK
+"* * * **[NLP TASK]:** Using the provided product review dataset, apply TF-IDF vectorization and train an SVM classifier to distinguish between positive and negative sentiments.",TECHNICAL_TASK
+"- According to the feature engineering steps discussed in the lecture, extract at least five new features from the provided datetime column and add them to the dataset before training",TECHNICAL_TASK
+"* • **API TASK:** Using the provided OpenWeatherMap API key, build a Flask application that accepts a city name from the user and returns the current temperature and weather condition.",TECHNICAL_TASK
+"13. Using the clustering results from the previous task, label each customer segment with a descriptive name and create a visual summary using a pie chart and bar graph.",TECHNICAL_TASK
+- Finish the incomplete data pipeline provided in the Google Classroom by adding the missing normalization and encoding steps before the model training cell,TECHNICAL_TASK
+"* **[SECURITY TASK]:** With the provided user authentication script, implement SHA-256 password hashing and add input validation to prevent SQL injection on all form fields.",TECHNICAL_TASK
+"* * * **[FINAL TASK]:** Using all the preprocessing, training, and evaluation steps completed in the previous activities, assemble a complete end-to-end NLP pipeline and document each stage in a written report.",TECHNICAL_TASK
+"12. With the provided graph dataset, implement a breadth-first search algorithm in Python and output the full traversal order for each starting node listed in the task sheet.",TECHNICAL_TASK
+"* • **[PREPROCESSING TASK]:** Using the provided raw social media dataset, clean all text entries by removing HTML tags, special characters, and duplicate posts before applying TF-IDF vectorization",TECHNICAL_TASK
+"* * * **INTEGRATION TASK:** Connect the provided Flask application to the HuggingFace Inference API, implement a text classification endpoint, and display the predicted labels on a simple HTML frontend.",TECHNICAL_TASK
+"* **To Do:** According to the model evaluation guide provided in the LMS, test the trained classifier on the holdout dataset and submit a written summary of its precision, recall, and F1-score results.",TECHNICAL_TASK

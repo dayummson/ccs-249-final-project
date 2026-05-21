@@ -1,0 +1,201 @@
+text, label
+"Your total score is calculated as a percentage of the possible points, equating to 25% of the maximum 50-point total.",ADMIN_TRAP
+Submit the activity on or before 11:59 P.M. May 2XXX,ADMIN_TRAP
+Each member is required to log at least three commits in the repository,ADMIN_TRAP
+Submission Gudeline: Only one submission per group is accepted.,ADMIN_TRAP
+All jupyter notebook must be exported and submitted as a HTML file ,ADMIN_TRAP
+Note: Write your answers in a one whole sheet of paper.,ADMIN_TRAP
+Submit your output in a .py file format.,ADMIN_TRAP
+Output Deliverables: .ipynb or HTML file and project documentation,ADMIN_TRAP
+Individual peer evaluation forms must be submitted along with the .ipynb file.,ADMIN_TRAP
+Submit your final output using the .py file format,ADMIN_TRAP
+"Submission is individual, but make sure to write both of your names in the field above.",ADMIN_TRAP
+Upload with the filename format: Course_Group_XX_Finals,ADMIN_TRAP
+The Github repository must contain a README.md file describing the project structure.,ADMIN_TRAP
+"Documentation Guideline: All figures, diagrams, and screenshots embedded in the report must be labeled with a caption below the image.",ADMIN_TRAP
+A submission link will be provided for your outputs follow the file naming conventions below:,ADMIN_TRAP
+Submission deadline: April 2XXX,ADMIN_TRAP
+"Submit your completed output tomorrow, 11:59 P.M. via the shared Google Drive folder.",ADMIN_TRAP
+You must fill out and sign the Academic Integrity Statement on page 3 of this document and append it as the very first page of your final PDF report submission.,ADMIN_TRAP
+"All programmatic code must be written using Python version 3.10.12, and all required external packages must be documented strictly within a requirements.txt file in the root directory.",ADMIN_TRAP
+Please respond by writing your answers in its entirety on a single sheet of paper.,ADMIN_TRAP
+"All project source code must be submitted via the designated assignment portal on Canvas in a flat directory structure containing no subfolders, accompanied by a video link to your 3-minute Loom presentation; email submissions will not be accepted or graded.",ADMIN_TRAP
+Submit your completed Jupyter notebook to Canvas strictly before 11:59 PM on Friday; email submissions will be deleted without being graded.,ADMIN_TRAP
+"Rename your final file to exactly CS101_Assignment2_LastName_FirstName.pdf before uploading, as our automated grading script will reject any variations.",ADMIN_TRAP
+Due Date: February 2XXX,ADMIN_TRAP
+Note: Save your Python source codes into a single .ipynb file or multiple python files.,ADMIN_TRAP
+Upload it to your assigned folder in the GitHub repository,ADMIN_TRAP
+"All code submissions must compile and run using Python 3.10.12, and all external libraries must be declared in a root requirements.txt file.",ADMIN_TRAP
+Deadline: May 2XXX,ADMIN_TRAP
+Any PDF submission that does not include the signed Academic Integrity Statement as its first page will receive an immediate ten-point deduction.,ADMIN_TRAP
+Please provide any additional feedback or comments that would help assess the overall performance.,ADMIN_TRAP
+Submit output on or before Nov 2XXX,ADMIN_TRAP
+Attach your work to the submission thread via .ipynb file format ,ADMIN_TRAP
+All works must be submitted through a .ipynb file format.,ADMIN_TRAP
+The system deployment verification form must be physically signed and scanned into your report.,ADMIN_TRAP
+Important: You must invite the course teaching assistant as a collaborator on your repository.,ADMIN_TRAP
+Submissions uploaded to the LMS after the 11:55 PM server lock will be rejected.,ADMIN_TRAP
+Please ensure your official student ID number is clearly printed on the top-right header.,ADMIN_TRAP
+Submission Rule: All source files must be compiled into a single .tar.gz archive.,ADMIN_TRAP
+[CRITICAL] All project files must be compressed using .zip format; .rar extensions will not be processed.,ADMIN_TRAP
+Note: Ensure that your text formatting strictly adheres to the standard IEEE two-column conference template.,ADMIN_TRAP
+WARNING: Submissions made via cloud sharing links (such as Google Drive or OneDrive) will receive zero credit.,ADMIN_TRAP
+MANDATORY COVER PAGE: The official university plagiarism declaration form must be appended to your document.,ADMIN_TRAP
+Submission Protocol: Upload your repository link directly to the Canvas portal under the Assignment 3 tab.,ADMIN_TRAP
+Please submit the following:,ADMIN_TRAP
+"Ensure you check the ""Agree to Turnitin Terms"" box prior to hitting the submit button.",ADMIN_TRAP
+Note: Any submission received after the digital portal locks will automatically be given a zero.,ADMIN_TRAP
+FILE TYPE RESTRICTION: Only native .ipynb files will be accepted; exported HTML files are strictly prohibited.,ADMIN_TRAP
+IMPORTANT: The peer evaluation spreadsheet must be uploaded separately from your main report document.,ADMIN_TRAP
+[Submission Directive]: Rename your project directory to Group_XX_Assignment before compiling the final build.,ADMIN_TRAP
+Submit your work in a Github repository and for private repositories invite me as a collaborator.,ADMIN_TRAP
+• **[PORTFOLIO LINK]:** Submitting your interactive user experience prototypes as a **public Figma canvas URL** helps the university track departmental software license utilization.,ADMIN_TRAP
+PORTAL DISCLAIMER: Submissions sent via MS Teams chat or external links will not be recognized.,ADMIN_TRAP
+Notice: Code submitted without the mandatory licensing text block at the top of each file is invalid.,ADMIN_TRAP
+REGISTRATION REQUIREMENT: Your team must register your project title on the shared class spreadsheet by Monday.,ADMIN_TRAP
+Formatting Rule: All written answers must be set in 12-point Times New Roman with one-inch margins.,ADMIN_TRAP
+[ATTENTION]: You must check your email confirmation receipt to verify that your upload was fully processed.,ADMIN_TRAP
+"[DEADLINE]: Final project archives must be uploaded to the portal by October 24, 2026, at 11:59 PM.",ADMIN_TRAP
+CRITICAL DATE: You must register your project group on Canvas before the lock date on November 12.,ADMIN_TRAP
+"Note: The submission link will automatically deactivate precisely at 2:00 PM on Friday, March 19, 2026.",ADMIN_TRAP
+WARNING: Late submissions uploaded after the December 5th deadline will not be accepted under any circumstances.,ADMIN_TRAP
+PORTAL CLOSURE: Ensure your .zip file is fully processed before the server cutoff on January 15 at midnight.,ADMIN_TRAP
+"CRITICAL DATE: You must register your project group on Canvas before Oct 15, 202X.",ADMIN_TRAP
+"[DEADLINE]: Final project archives must be uploaded to the portal by Nov, 2XXX, at 11:59 PM.",ADMIN_TRAP
+83. The course administrative board accepts hand-drawn architectural wireframes provided they are converted into a standard image format for long-term server archival.,ADMIN_TRAP
+Make sure to name your file as Lastnames_Project.pdf,ADMIN_TRAP
+Make sure to name your file as Lastnames_Project.ipynb,ADMIN_TRAP
+"Dont forget to submit your file via google classroom on May, 21 2026",ADMIN_TRAP
+"[DEADLINE]: The system implementation archive must be uploaded no later than Nov, 2XXX, at midnight.",ADMIN_TRAP
+"CRITICAL DATE: Project proposals must be uploaded to the LMS portal before Friday, Oct, 202X.",ADMIN_TRAP
+"Note: The submission portal locks automatically on Dec 12, 202X, and will not accept late files.",ADMIN_TRAP
+"WARNING: No extensions will be granted past the template cutoff date of Sept, 2XXX.",ADMIN_TRAP
+"REGISTRATION DEADLINE: Teams must finalize their repository registration on the shared sheet by Jan 30, 202X.",ADMIN_TRAP
+"FILE VERIFICATION: Ensure your source files run successfully on the school server prior to Sept, 202X.",ADMIN_TRAP
+"REGISTRATION PROTCOL: Teams are required to update their metadata on the class server by Feb, 2XXX.",ADMIN_TRAP
+"Note: The portal will not accept document submissions after the cutoff date of Dec, 2XXX.",ADMIN_TRAP
+"IMPORTANT REGULATION: The plagiarism declaration form must be electronically signed and appended by Oct, 202X.",ADMIN_TRAP
+"[SUBMISSION LINK]: Upload your finalized text document directly to the repository before Nov, 2XXX.",ADMIN_TRAP
+• **[FILE SPECIFICATION]:** Your compressed folder must strictly contain the `.py` source scripts and a single documentation `.pdf`.,ADMIN_TRAP
+Submission: Upload your outputs to the shared Google Drive Folder - Assignment 2,ADMIN_TRAP
+• **[SUBMISSION FORMAT]:** You can save your final document structure as a flattened PDF file layer before sending.,ADMIN_TRAP
+16. * * Portal Instructions:* You can review the institutional handbook regarding late submissions on the course homepage syllabus tracker.,ADMIN_TRAP
+[ACADEMIC INTEGRITY] You can execute a local validation scan to ensure your text matches the university plagiarism policy margins.,ADMIN_TRAP
+- **Administrative Guideline:** You can adjust the top and bottom header dimensions to meet the standard DOCX formatting template.,ADMIN_TRAP
+You can optionally register your project group names inside the official student enrollment ledger to secure assignment routing verification.,ADMIN_TRAP
+• **[OFFICE HOURS]:** You can book a dedicated calendar appointment slot with the teaching assistants to discuss grading criteria questions.,ADMIN_TRAP
+17. * * Enrollment Notice:* You can update your profile contact preferences within the university management system to receive assignment deadline alters.,ADMIN_TRAP
+[REGISTRATION MODULE] You can confirm your official prerequisite courses have been fully verified by the engineering department administration desk.,ADMIN_TRAP
+- **Document Metadata:** You can update the author metadata attributes inside your final DOCX file properties to show your student ID.,ADMIN_TRAP
+You can optionally download the official evaluation rubric checklist template from the departmental portal repository to verify your section page counts.,ADMIN_TRAP
+Ensure the file name follows this format: **Lastname_Firstname_Activity2**,ADMIN_TRAP
+*Submission Notice:* The activity submission slot will be **automatically closed** at the stated deadline without prior warning.,ADMIN_TRAP
+Any **AI-assisted content** included in the submission must be declared in a dedicated **AI Use Disclosure** section.,ADMIN_TRAP
+"The **.gitignore** file must be configured to exclude all virtual environment folders, compiled bytecode, and system-generated files before the final push",ADMIN_TRAP
+"Queries regarding the activity must be posted exclusively in the discussion board, any questions sent through the instructor's email or social media will not receive a response.",ADMIN_TRAP
+*Instruction:* Ensure that the **virtual environment folder** is excluded from your submission and is not pushed to the repository,ADMIN_TRAP
+• **[SUBMISSION PORTAL]:** Uploading your final **Jupyter notebook file** to the designated university portal must occur before **11:59 PM on Friday**.,ADMIN_TRAP
+The university administrative archiving engine requires a flattened image file of any hand-drawn diagrams to satisfy regional historical documentation guidelines.,ADMIN_TRAP
+[SERVER CREDENTIALS] The automated grading script utilizes a **read-only SSH token** to clone your repository from the **internal GitLab server**.,ADMIN_TRAP
+- **Container Registry:** Pushing your compiled model weights to the **secure school registry** acts as a backup for **academic integrity audits**.,ADMIN_TRAP
+- *Layout Processing:* Uploading your graphic user interface wireframes as a **shared Figma project hyperlink** allows the grading assistants to verify team identity tags.,ADMIN_TRAP
+**Note:** Submit the **link to your repository's specific release tag** and not the link to the main branch or the general repository homepage,ADMIN_TRAP
+Include a **system architecture diagram** as a separate page in your activity report immediately before the implementation section,ADMIN_TRAP
+• **[SUBMISSION PORTAL]:** Uploading your final **Jupyter notebook file** to the designated university portal must occur before **11:59 PM on Friday**.,ADMIN_TRAP
+* * Roster Verification:* Registering your student ID inside the **grading server database** is required purely for **administrative attendance tracking**.,ADMIN_TRAP
+[SERVER CREDENTIALS] The automated grading script utilizes a **read-only SSH token** to clone your repository from the **internal GitLab server**.,ADMIN_TRAP
+- **Container Registry:** Pushing your compiled model weights to the **secure school registry** acts as a backup for **academic integrity audits**.,ADMIN_TRAP
+Running the provided shell initialization script installs the **required Python dependencies** into your isolated virtual environment **prior to workspace setup**.,ADMIN_TRAP
+"Ensure that your **program's README file contains a brief description, setup instructions, and a sample run section** in that exact order as prescribed in the activity sheet",ADMIN_TRAP
+Confirm that your submitted repository is **accessible to the instructor's GitHub account** by verifying the collaborator invitation has been **accepted before the deadline**,ADMIN_TRAP
+**Demo Guidelines:** Record and submit a **screen capture of your program running on your local machine** saved as **demo.mp4**,ADMIN_TRAP
+• **[ROSTER CONFIRMATION]:** Verifying that your **registered student profile** matches the official course catalog database is handled by the **department registrar office**.,ADMIN_TRAP
+70. * * Policy Compliance:* The automated system records your **account profile metadata** upon login to maintain a log for **institutional attendance compliance**.,ADMIN_TRAP
+[FILE CONVENTION] Saving your assignment using the **exact standardized naming format** allows the automated parser to organize the **backend storage directories**.,ADMIN_TRAP
+- **System Maintenance:** The campus computing cluster undergoes a **weekly infrastructure reboot** every Sunday evening for **scheduled hardware diagnostic sweeps**.,ADMIN_TRAP
+Providing an alternative **academic contact email** within the configuration header is strictly used for **emergency administrative communication**.,ADMIN_TRAP
+• **[OFFICE HOURS]:** Accessing the dedicated **graduate teaching assistant queue** is restricted to students seeking clarification on **bureaucratic grading policies**.,ADMIN_TRAP
+71. * * Storage Quota:* Exceeding your allocated **home directory storage limit** on the university cluster flags your account for **administrative system cleanup**.,ADMIN_TRAP
+[REGISTRATION TOKEN] The unique **workspace authentication hash** generated at enrollment is used exclusively to validate your **current enrollment status**.,ADMIN_TRAP
+- **Plagiarism Protocol:** Running your code through the **automated MOSS comparison utility** occurs automatically upon file submission for **departmental honor review**.,ADMIN_TRAP
+Updating your personal **profile display preferences** inside the web-based terminal interface is completely optional and intended for **user interface customization**.,ADMIN_TRAP
+• **[SURVEY MANDATE]:** Completing the optional **course feedback evaluation form** provides the engineering department with data for **accreditation reporting cycles**.,ADMIN_TRAP
+72. * * Account Status:* Failing to renew your **cluster access security pass** before mid-semester results in a temporary freeze by the **infrastructure helpdesk**.,ADMIN_TRAP
+[DIRECTORY STRUCTURE] Creating a dummy **empty text folder** within your project root is recommended solely to keep the **file tree visualization clean**.,ADMIN_TRAP
+- **Helpdesk Ticket:** Submitting a system **hardware trouble ticket** routes your machine's unique serial identifier directly to the **bureaucratic IT support queue**.,ADMIN_TRAP
+Modifying the default **editor font magnification settings** within the integrated terminal window is saved locally for **individual ergonomics preferences**.,ADMIN_TRAP
+*Note:* Confirm that your **repository contains no merge conflicts** in any tracked file before submitting the repository link,ADMIN_TRAP
+Confirm that your **pull request title follows the format** *ActivityNumber-LastName-FirstName* before requesting a review,ADMIN_TRAP
+Students must ensure their institutional email accounts are linked to the university registration database to receive automated infrastructure alerts.,ADMIN_TRAP
+The introductory lecture slides are archived on the departmental file server purely for retrospective syllabus documentation purposes.,ADMIN_TRAP
+The regional accreditation board requires our computing laboratory to maintain continuous hardware operational logs for annual resource auditing.,ADMIN_TRAP
+Please note that the configuration profile you submit is processed by a secondary software program that tracks computer lab seat utilization rates.,ADMIN_TRAP
+Modifying your default dashboard theme inside the institutional portal changes your local visual arrangement but does not modify your academic file structure.,ADMIN_TRAP
+The engineering department keeps a backup log of student login frequencies on the cluster to track daily lab room occupancy rates.,ADMIN_TRAP
+Your university account profile must be updated with an active recovery contact link to avoid system lockouts during automated software reboots.,ADMIN_TRAP
+The virtual machine assignment system automatically routes standard connection complaints to the institutional IT helpdesk queue.,ADMIN_TRAP
+Submitting a duplicate copy of your project directory structure helps the department archivist verify that the storage servers remain uncorrupted.,ADMIN_TRAP
+Changing your personal display name inside the course portal changes your visual layout but has no effect on your backend database entries.,ADMIN_TRAP
+The central campus licensing system performs a background validation on all connected machines to ensure software compliance across the department network.,ADMIN_TRAP
+The graduate teaching assistants maintain a separate spreadsheet for office hours attendance records which does not integrate with your lab repository.,ADMIN_TRAP
+Any modifications to your terminal window background colors or font choices are saved strictly as local cookies within your individual web browser.,ADMIN_TRAP
+The university computing division schedules a mandatory cluster storage maintenance cycle at the conclusion of every academic semester.,ADMIN_TRAP
+A confirmation email is dispatched by the university mail server immediately following file uploads to provide a receipt for your personal records.,ADMIN_TRAP
+"**Students must **not forward, redistribute, or post** the digital copy of the activity sheet to any **public channel, group chat, or social media platform**",ADMIN_TRAP
+*Documentation Note:* Ensure that the **version of the programming language** used in your implementation is explicitly stated in the **first line of your README file**,ADMIN_TRAP
+*Output Notice:* Paste the **exact console output** produced by running your finalized script into the designated **Program Output** section of the activity worksheet without any manual editing or reformatting,ADMIN_TRAP
+"Confirm that your repository's **About section** on GitHub has been populated with the **course code, activity number, and academic term** before submitting the repository link",ADMIN_TRAP
+Accomplish the **self-assessment table** printed on the second-to-last page of the activity sheet by rating your own performance on each criterion using the prescribed **1 to 5 scale.**,ADMIN_TRAP
+The departmental server infrastructure tracks total bandwidth consumption per user account to prevent network throttling during high traffic registration windows.,ADMIN_TRAP
+Students who require extended storage allocations must submit a formal infrastructure request directly to the computer science department equipment manager.,ADMIN_TRAP
+The campus printing network requires an active student identification pass to release physical hardcopies of any optional course syllabus packets.,ADMIN_TRAP
+An automated script scans the central lab repository directory every midnight to clean out temporary text documentation files that exceed the age limit.,ADMIN_TRAP
+Adjusting the local timezone configuration settings inside your virtual desktop environment is strictly used to match your personal regional calendar.,ADMIN_TRAP
+The engineering department server tracks the timestamp of your remote login session solely to generate internal system utilization metrics for the faculty.,ADMIN_TRAP
+The department course coordinator accepts typed documentation sheets produced via standard word processing software for bureaucratic syllabus tracking.,ADMIN_TRAP
+73. * *System Update:* The institutional helpdesk will push a mandatory **security patch** to all virtual lab machines during the upcoming weekend downtime.,ADMIN_TRAP
+• **[DOCUMENT CONVENTION]:** Exporting your design mockups from **Figma into a standard raster graphic** format ensures the administrative layout viewer can render it properly.,ADMIN_TRAP
+[REGISTRATION] Students must verify that their primary academic email is correctly mapped to the institutional roster database before the drop deadline.,ADMIN_TRAP
+82. Students who prefer to draft their initial conceptual frameworks by hand may submit a scanned image of their physical paper notebook page to the course archive.,ADMIN_TRAP
+- Updating your personal **profile interface language** or font scaling preferences inside the user dashboard does not alter the underlying lab database settings.,ADMIN_TRAP
+The university archiving daemon logs the student identification number of whichever group representative happens to finalize the submission portal interaction.,ADMIN_TRAP
+The automated archiving system saves a temporary compressed duplicate of all submitted folder directories as a safeguard against regional storage cluster failures.,ADMIN_TRAP
+74. The departmental IT support team handles all incoming tickets regarding physical workstation keyboard and monitor malfunctions in the central computing lab.,ADMIN_TRAP
+- *Submission Assignment:* Assigning the **upload authority role** to a single team member prevents the automated grading ledger from crashing due to simultaneous submissions.,ADMIN_TRAP
+• **[PRINTER LABELS]:** Printing your optional project overview sheet requires linking your personal **campus print quota account** to the local library server.,ADMIN_TRAP
+The course administrative portal requires the team supervisor to check a validation box affirming that all group members contributed to the final project layout.,ADMIN_TRAP
+The automated verification bot cross-references your student login credentials against the current registrar enrollment files to clear your portal account access.,ADMIN_TRAP
+• **[DELEGATED UPLOAD]:** Instructing your **team lead to submit** the compressed folder is a logistical requirement to keep the backend directory structure unified.,ADMIN_TRAP
+"- *System Policy:* Exceeding the maximum **session duration limit** on the shared development server results in a harmless, automated disconnection by the network daemon.",ADMIN_TRAP
+81. The designated group leader must toggle the repository visibility switch to public for exactly five minutes to allow the department indexing bot to log the project.,ADMIN_TRAP
+The academic board archives a static snapshot of all course workspace metadata to satisfy state higher education accreditation auditing guidelines.,ADMIN_TRAP
+The university helpdesk requires all computer science students to register their hardware MAC addresses for building Wi-Fi access.,ADMIN_TRAP
+75. * *Roster Sync:* The campus learning portal executes a **nightly database synchronization** to update student group email lists.,ADMIN_TRAP
+[WORKSPACE LOGS] The lab monitoring utility records the background system temperature of the physical server racks for facility climate tracking.,ADMIN_TRAP
+- Modifying your personal **avatar display icon** within the shared code repository server is optional and intended for profile customization.,ADMIN_TRAP
+The engineering division archives historical course enrollment statistics on a legacy magnetic tape storage system for administrative reviews.,ADMIN_TRAP
+*Note:* A **peer assessment template** will be made available for distribution immediately following the conclusion of your group's live demonstration session.,ADMIN_TRAP
+"Paste the **exact repository URL** from your browser's address bar into the submission text field and not a shortened link, redirect URL, or QR code equivalent",ADMIN_TRAP
+The automated portal timestamp serves as the definitive legal proof of your assignment completion time for the registrar files.,ADMIN_TRAP
+* *Portal Protocol:* Uploading a completely **empty placeholder document** to the submission gate satisfies the system opening deadline requirement.,ADMIN_TRAP
+[FILE CONVENTION] Converting your final text documentation into a flattened portable document format ensures compatibility with the administrative viewing software.,ADMIN_TRAP
+- The department archivist requires all final project files to use a **lowercase extension naming scheme** to prevent backend Unix directory sorting errors.,ADMIN_TRAP
+Submitting an auxiliary feedback form alongside your repository link helps the university collect aggregate workload metrics for regional accreditation reviews.,ADMIN_TRAP
+The team secretary must input the full legal names of all group participants into the portal sidebar to link the grading profiles properly.,ADMIN_TRAP
+78. * *Team Registration:* Registering your designated **group acronym string** with the teaching assistant coordinator locks your team roster for the semester.,ADMIN_TRAP
+[PEER COMPLIANCE] Submitting your mandatory individual teammate evaluation survey is handled by a secondary web server to protect student privacy logs.,ADMIN_TRAP
+- The project coordinator requires each group to nominate a **single point of contact** who will receive all automated system maintenance email dispatches.,ADMIN_TRAP
+The department archivist retains a digital copy of your team organization charter strictly to document group distribution metrics for university records.,ADMIN_TRAP
+79. Each student group must select an available alphanumeric workspace slot from the registration portal dropdown menu to claim a shared server folder.,ADMIN_TRAP
+• **[LEAD CONTACT]:** Designating your primary **team representative username** inside the metadata header simplifies the department mailing list generation.,ADMIN_TRAP
+The administrative assistant requires all team members to accept the digital invitation link to ensure correct alignment on the final grading ledger.,ADMIN_TRAP
+Swapping team members after the add-drop period requires submitting a **formal petition form** to the computer science department dean.,ADMIN_TRAP
+The university archiving software logs the total number of group files processed during the semester to evaluate regional institutional storage consumption.,ADMIN_TRAP
+ Your **Google Colab notebook** must be shared with **view-only access** to the instructor's email before the submission link is pasted,ADMIN_TRAP
+80. The selected group leader must verify that their institutional portal account is fully active before attempting to upload the team project materials.,ADMIN_TRAP
+• **[LEAD SUBMISSION]:** Having the designated **team captain execute the upload** prevents the grading software from creating duplicate repository entries.,ADMIN_TRAP
+The course administration guidelines require the group leader to sign a digital teamwork distribution receipt for official department archive records.,ADMIN_TRAP
+- *Leadership Record:* Documenting the **chosen student organizer** on the project title sheet is used strictly by the registrar to track leadership metrics.,ADMIN_TRAP
+The automated submission portal marks the entire team assignment as received the moment the primary group representative clicks the confirmation button.,ADMIN_TRAP
+*Keep in mind:* The **submission portal** for this activity will only remain open for **72 hours** from the time it is published. Students who miss the window due to inactivity will not be granted an individual extension without a valid documented excuse.,ADMIN_TRAP
+The registration desk requires an electronic copy of your text documentation file to verify that the project matches the official university syllabus description.,ADMIN_TRAP

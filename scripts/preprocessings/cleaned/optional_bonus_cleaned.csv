@@ -1,0 +1,205 @@
+text, label
+Partial credit of up to 50% is available for incomplete derivations.,OPTIONAL_BONUS
+You can earn a 5% bonus by optimizing the execution time below the baseline threshold.,OPTIONAL_BONUS
+Note: Incorporating advanced hyperparameter tuning via Optuna is entirely optional (+5 points maximum).,OPTIONAL_BONUS
+Implementing a fully containerized deployment pipeline will award an optional 5 bonus points.,OPTIONAL_BONUS
+Optional Extension: Students may analyze an additional out-of-distribution dataset for a 10% score premium.,OPTIONAL_BONUS
+Bonus Milestone: Submitting a working proof-of-concept by week 3 earns 2 extra credit marks.,OPTIONAL_BONUS
+Developing an interactive dashboard to visualize model inferences will yield 5 additional marks.,OPTIONAL_BONUS
+Implementing a multi-threaded execution strategy is entirely optional and offers a 10% score premium.,OPTIONAL_BONUS
+Bonus Points: Successfully deploying your application architecture to AWS provides 4 extra credit points.,OPTIONAL_BONUS
+Integrating a secondary comparative model into your pipeline can earn an optional 5% grading bonus.,OPTIONAL_BONUS
+Designing a complete dual-factor validation sequence using hardware security keys will award you 5 extra marks.,OPTIONAL_BONUS
+Exceeding the standard baseline accuracy by 5% adds 3 points to your project total.,OPTIONAL_BONUS
+Successfully implementing a real-time progress notification interface will yield an additional 5 marks.,OPTIONAL_BONUS
+Containerizing your entire environment with Docker can earn up to 5 additional extra credit marks.,OPTIONAL_BONUS
+An extra 5% allocation will be granted to submissions that integrate a secondary validated dataset for comparison.,OPTIONAL_BONUS
+Students can optionally choose to optimize their query execution paths for a 10% premium on the final grade.,OPTIONAL_BONUS
+EXTRA CREDIT: Achieving a precision rate above the stated baseline criteria adds 4 points to the assignment totals.,OPTIONAL_BONUS
+Students can choose to draft an optional deployment manifest for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+Extra Credit Task: Profiling your application's memory usage and eliminating bottlenecks grants 3 additional points.,OPTIONAL_BONUS
+Writing a comprehensive suite of integration tests for your API endpoints awards an optional 5 marks.,OPTIONAL_BONUS
+Providing an interactive user interface alongside your core implementation yields a 10% premium on the final mark.,OPTIONAL_BONUS
+Developing an optional shell script to automate the entire installation process awards a 5% score premium.,OPTIONAL_BONUS
+Profiling your database queries to reduce execution latency grants an additional 4 points.,OPTIONAL_BONUS
+Extra Credit: Translating your application's user interface into a secondary language yields 3 bonus marks.,OPTIONAL_BONUS
+ADDITIONAL MARKS: Designing a custom error-handling middleware component adds an optional 5% to the final grade.,OPTIONAL_BONUS
+Submitting a comprehensive architectural block diagram alongside your code provides 2 extra credit points.,OPTIONAL_BONUS
+Implementing an optional logging framework to track runtime exceptions yields a 5% premium on your score.,OPTIONAL_BONUS
+Constructing a multi-container Docker Compose file to orchestrate the services adds 4 extra,OPTIONAL_BONUS
+Extra Credit: Writing a custom validation script to sanitize user input fields grants an additional 3 points.,OPTIONAL_BONUS
+Optional Feature: Integrating a secure OAuth2 authentication workflow adds 5 bonus points to your project total.,OPTIONAL_BONUS
+Optimizing the model pipeline to decrease inference latency below 50ms awards a 10% grading premium.,OPTIONAL_BONUS
+Implementing a comprehensive automated regression testing workflow using GitHub Actions will reward you with 5 additional marks.,OPTIONAL_BONUS
+Optional Milestones: Designing a responsive secondary layout optimized specifically for tablet devices adds a 10% premium onto your final project score.,OPTIONAL_BONUS
+Deploying your compiled application logic inside a multi-container local environment grants an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Extra Credit Challenge: Profiling your active database query execution times and eliminating indexing bottlenecks yields 3 bonus marks.,OPTIONAL_BONUS
+Students can optionally draft a detailed markdown-formatted deployment runbook alongside their core scripts for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+Integrating an end-to-end user authentication system using JSON Web Tokens will earn you an extra 5 marks.,OPTIONAL_BONUS
+"Optional Feature: Developing a clean, interactive dark-mode theme toggler adds a 5% premium onto your final assignment score.",OPTIONAL_BONUS
+Provisioning your application database using an automated Terraform configuration script grants an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Point Challenge: Crafting an extensive suite of mock-based integration tests for external API endpoints yields 3 additional marks.,OPTIONAL_BONUS
+Students can optionally format their project documentation as a static website hosted via GitHub Pages for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+Setting up a Redis caching layer to significantly lower data retrieval times will award you 5 extra marks.,OPTIONAL_BONUS
+Optional Optimization: Compiling your Python source scripts into an optimized standalone binary adds a 10% premium onto your final grade.,OPTIONAL_BONUS
+"Building an intuitive, interactive data migration wizard to upgrade legacy schema versions grants an optional 4 points to your evaluation total.",OPTIONAL_BONUS
+Bonus Feature Challenge: Architecting your system to dynamically handle real-time WebSockets connections yields 3 additional marks.,OPTIONAL_BONUS
+Students can optionally craft a complete visual wireframe layout detailing their interface design choices for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+Designing a comprehensive data visualizer using an interactive dashboard UI layout will award you 5 extra marks.,OPTIONAL_BONUS
+Optional Extension: Configuring automated health check endpoints for your containerized microservices adds a 5% premium onto your final score.,OPTIONAL_BONUS
+Implementing full geometric field spatial indexing rules inside your transactional database engine grants an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Task Challenge: Constructing a modular plugins architecture to load third-party extension modules dynamically yields 3 additional marks.,OPTIONAL_BONUS
+Students can optionally engineer a machine-learning scoring algorithm to rank incoming file uploads for an automatic 10% score allocation premium.,OPTIONAL_BONUS
+Implementing an automated daily backup routine that exports database snapshots to secure cloud storage will award you 5 extra marks.,OPTIONAL_BONUS
+Optional Feature: Developing an accessible voice-command navigation overlay for the user interface adds a 5% premium onto your final score.,OPTIONAL_BONUS
+Restructuring your application layer to communicate entirely through asynchronous message queues grants an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Point Challenge: Integrating a rate-limiting middleware layer to prevent API endpoint abuse yields 3 additional marks.,OPTIONAL_BONUS
+Students can optionally execute an in-depth security audit report identifying potential vulnerability vectors for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+Integrating an automatic translation engine that localizes all UI text elements will award you 5 extra marks.,OPTIONAL_BONUS
+Optional Optimization: Refactoring your backend queries to support pagination and cursor-based fetching adds a 5% premium onto your final score.,OPTIONAL_BONUS
+Implementing a biometric authentication fallback mechanism for the mobile application layer grants an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Feature Challenge: Designing a real-time system performance telemetry monitoring board yields 3 additional marks.,OPTIONAL_BONUS
+Students can optionally compile their project setup instructions into an interactive video tutorial for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+Engineering a fallback offline-first state synchronization engine that caches local changes will award you 5 extra marks.,OPTIONAL_BONUS
+Optional Extension: Configuring a custom reverse proxy server layer to manage load balancing rules adds a 5% premium onto your final score.,OPTIONAL_BONUS
+Mapping out your service infrastructure dependencies visually into a dynamic graphical representation matrix grants an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Point Challenge: Implementing robust cross-origin resource sharing filters to secure all exposed endpoints yields 3 additional marks.,OPTIONAL_BONUS
+Students can optionally containerize their testing suite to automatically run on isolated virtual environments for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+Integrating an automated automated visual regression pipeline that verifies frontend alignment across breakpoints will award you 5 extra marks.,OPTIONAL_BONUS
+"Optional Feature: Creating an interactive, step-by-step onboarding walkthrough guide for new system administrators adds a 5% premium onto your final score.",OPTIONAL_BONUS
+Scaling your underlying deployment containers dynamically based on simulated real-time request traffic load spikes grants an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Point Challenge: Developing a middleware plugin that logs all outbound third-party network payloads to encrypted files yields 3 additional marks.,OPTIONAL_BONUS
+Students can optionally draft an exhaustive architectural decision record detailing why specific design frameworks were selected for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+You can optionallty make a User Interface ( UI ) for demonstration purposes.,OPTIONAL_BONUS
+You can integrate an automated visual regression pipeline that verifies frontend alignment across breakpoints to earn 5 extra marks.,OPTIONAL_BONUS
+"Optional Feature: You can create an interactive, step-by-step onboarding walkthrough guide for new system administrators to add a 5% premium onto your final score.",OPTIONAL_BONUS
+You can scale your underlying deployment containers dynamically based on simulated real-time request traffic load spikes for an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Point Challenge: You can develop a middleware plugin that logs all outbound third-party network payloads to encrypted files to yield 3 additional marks.,OPTIONAL_BONUS
+You can optionally draft an exhaustive architectural decision record detailing why specific design frameworks were selected for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+You can implement a custom graph-based visualization layer to display complex data relationships for an extra 5 marks.,OPTIONAL_BONUS
+Optional Feature: You can engineer a background data-syncing worker that operates quietly when your app is minimized to add a 5% premium onto your final score.,OPTIONAL_BONUS
+You can write an advanced bash shell script that automates your entire environment provisioning steps for an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Point Challenge: You can integrate an interactive chat command system to trigger administrative system actions to yield 3 additional marks.,OPTIONAL_BONUS
+You can optionally configure a multi-tenant isolation policy within your database tables to secure individual workspace clusters for an automatic 10% score allocation premium.,OPTIONAL_BONUS
+You can design an automated database schema migration roll-back verification pipeline to earn an extra 5 marks.,OPTIONAL_BONUS
+Optional Extension: You can establish a robust peer-to-peer data streaming protocol between local cluster instances to add a 10% premium onto your final score.,OPTIONAL_BONUS
+You can incorporate a hardware-accelerated image processing microservice to manage incoming media attachments for an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Feature Challenge: You can build an intelligent anomaly detection system that flags unusual administrative access patterns to yield 3 additional marks.,OPTIONAL_BONUS
+You can optionally deploy an edge-network caching layer via a content delivery network to dramatically improve global file retrieval speeds for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+You can construct an interactive timeline interface that visualizes past system configuration changes for an extra 5 marks.,OPTIONAL_BONUS
+Optional Feature: You can implement an automated dead-man's switch mechanism to securely wipe local session storage to add a 5% premium onto your final score.,OPTIONAL_BONUS
+You can configure your service to automatically optimize incoming database payloads before archiving them for an optional 4 points to your evaluation total.,OPTIONAL_BONUS
+Bonus Point Challenge: You can expose a dedicated web-hook endpoint that broadcasts server lifecycle notifications to yield 3 additional marks.,OPTIONAL_BONUS
+You can optionally engineer an automated script that checks your source files for hardcoded secrets or API keys for an automatic 5% score allocation premium.,OPTIONAL_BONUS
+"For a 5-point bonus, implement B-tree indexing to significantly speed up your SQL query execution.",OPTIONAL_BONUS
+Implement a responsive dark mode toggle in your CSS for a 10-point bonus.,OPTIONAL_BONUS
+Earn a 2-point bonus by implementing a regex pattern to validate email addresses.,OPTIONAL_BONUS
+Optional: Refactor your Android application architecture to use the MVVM pattern for extra points.,OPTIONAL_BONUS
+Stretch goal: Modify your binary search tree into a self-balancing AVL tree for extra credit.,OPTIONAL_BONUS
+"For 10 bonus points, split the monolithic user service into two distinct microservices.",OPTIONAL_BONUS
+Optional: Achieve greater than 90% test coverage using PyTest for a 10% score bump.,OPTIONAL_BONUS
+Bonus: Add a pre-commit hook to automatically format your JavaScript files with Prettier.,OPTIONAL_BONUS
+Optional Feature: Creating a dynamic onboarding tutorial walkthrough interface for new administrators,OPTIONAL_BONUS
+Bonus Point Challenge: Implementing robust cross-origin resource sharing filters to completely secure all endpoints yields 3 additional marks.,OPTIONAL_BONUS
+Presenting your hyperparameter tuning logs to the teaching assistants during open office hours awards a flat two-point extra credit cushion. An absolute value of five surplus marks will be tacked onto your final score matrix if you finish the baseline implementation requirements before noon.,OPTIONAL_BONUS
+BONUS CHALLENGE SECTION Compiling an automatic execution script for your database cleanup tasks is an entirely voluntary milestone that carries an extra six percent reward buffer.,OPTIONAL_BONUS
+"For extra credit, integrate a background worker queue using Celery to process heavy video uploads.",OPTIONAL_BONUS
+"You can safely pass over the step where you optimize your images for web viewports without losing any core marks, though a small three-point bonus is available if you choose to do it.",OPTIONAL_BONUS
+"If your custom matrix multiplication routine executes faster than the reference implementation, you will receive three additional extra credit points.",OPTIONAL_BONUS
+Successfully passing the advanced distributed deep learning extension unit grants an optional ten percent valuation increase toward your final lab grade.,OPTIONAL_BONUS
+Plus points if you finish the task before 12PM.,OPTIONAL_BONUS
+e. Students can optionally write a summary paragraph detailing their troubleshooting experience to claim a minor nine percent score premium.,OPTIONAL_BONUS
+Incorporating an optional early-stopping callback routine into your neural network training loop grants a flat three-point extra credit premium.,OPTIONAL_BONUS
+Achieving a validation accuracy score greater than ninety-five percent on the evaluation data splits your grade matrix into a bonus tier.,OPTIONAL_BONUS
+"If your model reaches convergence in fewer than fifty epochs, an automated five percent mark addition will be applied to your portfolio ledger.",OPTIONAL_BONUS
+Deploying your image processing function as an AWS Lambda instance awards 5 extra marks.,OPTIONAL_BONUS
+Extra Credit: Build an interactive Streamlit dashboard to visually display your model's classification metrics.,OPTIONAL_BONUS
+Developing an automated script to fetch fresh training data from an external API is encouraged as an optional extension.,OPTIONAL_BONUS
+Deploy your completed web reservation application to a free cloud hosting platform for extra credit.,OPTIONAL_BONUS
+Achieving a perfect Pylint score of 10.0 is an optional stretch goal worth 5 points.,OPTIONAL_BONUS
+Extra Credit (5 pts): Write a comprehensive suite of Pytest fixtures for your database module.,OPTIONAL_BONUS
+"If you have time left over, creating a basic visual layout for your data fields is a purely optional pursuit that adds a quick two extra marks onto your grade.",OPTIONAL_BONUS
+Deploying your local application instance to the cloud provider platform awards an extra 5% premium bonus to your final lab grade.,OPTIONAL_BONUS
+Tuning Reward: Executing a randomized grid search to discover optimal hyperparameter combinations awards an extra 10% bonus modifier.,OPTIONAL_BONUS
+Architectural Premium: Swapping the standard attention heads with a flash attention layer to decrease memory overhead awards an extra 10% bonus modifier.,OPTIONAL_BONUS
+Sequence Incentive: Integrating a teacher forcing schedule to accelerate decoder convergence during early training epochs awards an extra 5% bonus.,OPTIONAL_BONUS
+Deploying your deep learning model as an active microservice endpoint on the university server awards a ten percent optional bonus markup.,OPTIONAL_BONUS
+Including interactive training loss dashboards inside your final workspace repository yields an automatic four-point grade expansion.,OPTIONAL_BONUS
+Executing your neural network architecture on the optional cluster hardware matrix grants a five percent valuation premium to your lab total.,OPTIONAL_BONUS
+Documenting your model's adversarial robustness testing process adds an optional three-point extra credit layer onto your structural rubric row.,OPTIONAL_BONUS
+Implementing an optional distributed training scheme across local cluster endpoints will add an automatic five bonus points to your submission.,OPTIONAL_BONUS
+Connecting your live training loop to an online experiment tracking server yields an additional four-point extra credit cushion.,OPTIONAL_BONUS
+Writing a voluntary script to plot the confusion matrix and ROC curves of your validation output awards a three-point premium.,OPTIONAL_BONUS
+You can earn an extra five percent credit by authoring an optional comprehensive write-up comparing your network performance against a traditional linear baseline.,OPTIONAL_BONUS
+Optional: Register your finalized model pipeline with a containerized Docker registry for an immediate two-point score boost.,OPTIONAL_BONUS
+Students who implement an optional distributed training scheme across local cluster endpoints will receive an additional five bonus points.,OPTIONAL_BONUS
+Connecting your live training loop to an online experiment tracking server serves as a voluntary extension that yields a four-point extra credit cushion.,OPTIONAL_BONUS
+Building a voluntary script to plot the confusion matrix and ROC curves of your validation output awards a three-point premium.,OPTIONAL_BONUS
+You can earn an extra five percent credit by authoring an optional comprehensive write-up comparing your network performance against a traditional linear baseline.,OPTIONAL_BONUS
+Registering your finalized model pipeline with a containerized Docker registry remains entirely optional and provides an immediate two-point score boost.,OPTIONAL_BONUS
+Students can capture an additional ten percent valuation premium by engineering a voluntary distributed training framework across local network endpoints.,OPTIONAL_BONUS
+Integrating a voluntary data augmentation pipeline to expand your training corpus yields an additional five bonus marks.,OPTIONAL_BONUS
+You can capture a flat four-point extra credit cushion by authoring an optional appendix detailing your hyperparameter search grid.,OPTIONAL_BONUS
+Exporting your deep learning pipeline into an optimized ONNX format for cross-platform execution awards ten extra points.,OPTIONAL_BONUS
+Providing an optional mathematical proof showing that your custom loss function satisfies the triangle inequality adds a three-point premium.,OPTIONAL_BONUS
+Optional: Evaluate your trained model against an adversarial perturbation attack vector to earn an extra five percent credit.,OPTIONAL_BONUS
+"As an additional challenge for students who finish early, implementing an ensemble voting layer will yield five extra credit points.",OPTIONAL_BONUS
+Porting your completed neural network architecture into a WebGL context for browser-based execution awards ten bonus marks.,OPTIONAL_BONUS
+Writing a voluntary software benchmark report comparing CPU versus GPU matrix multiplication speeds adds three bonus points.,OPTIONAL_BONUS
+You can capture an additional five percent bonus premium by authoring a voluntary section analyzing the out-of-distribution generalization of your network.,OPTIONAL_BONUS
+Optional: Conduct an ablation study that isolates the performance impact of your structural attention heads for a two-point grade boost.,OPTIONAL_BONUS
+Developing a voluntary custom visualization script to map out convolutional layer feature activations yields an additional five bonus marks.,OPTIONAL_BONUS
+Refactoring your custom data generator pipeline to support real-time parallel preprocessing on cluster CPU cores awards ten extra points.,OPTIONAL_BONUS
+Constructing a secondary sequence-to-sequence model wrapper to evaluate text generation speed adds an extra three-point credit.,OPTIONAL_BONUS
+Students who author an optional discussion section analyzing model divergence behavior over time can capture a four-point bonus premium.,OPTIONAL_BONUS
+Optional: Export your final trained neural network weights into an optimized low-precision floating-point format for a two-point score boost.,OPTIONAL_BONUS
+"As an additional voluntary milestone, creating an interactive web interface for your model predictions will award five extra credit points.",OPTIONAL_BONUS
+Deploying your finalized deep learning architecture onto a cloud platform serves as a voluntary stretch goal that yields a four-point bonus premium.,OPTIONAL_BONUS
+"Writing an optional, non-mandatory technical report that walks through your neural network weight matrix dimensions adds three bonus marks.",OPTIONAL_BONUS
+You can capture an additional two-point grade boost by electing to build a custom tensor logging utility from scratch.,OPTIONAL_BONUS
+Automating your entire model evaluation script using a voluntary continuous integration workflow provides a flat five percent bonus cushion.,OPTIONAL_BONUS
+Designing an optional synthetic data generation script to expand your evaluation framework awards five extra credit marks.,OPTIONAL_BONUS
+"Writing a voluntary, non-mandatory comparative summary between your transformer layout and a convolutional layer baseline adds a four-point bonus.",OPTIONAL_BONUS
+"You can capture an additional three-point score premium by electing to implement a secondary, alternative custom loss module.",OPTIONAL_BONUS
+"Optimizing your final neural network codebase using a voluntary, advanced memory-profiling utility yields a two-point grade amplification.",OPTIONAL_BONUS
+Building a voluntary interactive dashboard to visualize hidden state layers during inference provides an extra five percent credit cushion.,OPTIONAL_BONUS
+Designing a secondary backup route for your system API (which is completely non-mandatory and carries zero penalty if left out) unlocks a loose grading cushion.,OPTIONAL_BONUS
+"Alternatively, you may voluntarily implement an early-stopping callback to earn a 3-point score premium.",OPTIONAL_BONUS
+EVALUATION NOTE (NON-MANDATORY): Authoring a voluntary structural breakdown of your attention heads yields a 4-point credit buffer.,OPTIONAL_BONUS
+Optional: Deploy your model to a public Hugging Face Space for a flat 5% bonus.,OPTIONAL_BONUS
+Developing a voluntary script to visualize hidden layer state space representations adds 2 extra marks.,OPTIONAL_BONUS
+SECTION 5: EXTRA CREDIT OPPORTUNITIES Voluntarily optimizing your model inferencing engine to run on edge computing hardware yields a five percent grade amplification.,OPTIONAL_BONUS
+"As an additional non-mandatory milestone, you can capture an extra four-point bonus premium by implementing a custom training progress dashboard.",OPTIONAL_BONUS
+Creating an optional comparative chart tracking training loss across three alternative optimizer variations adds a three-point bonus cushion.,OPTIONAL_BONUS
+Optional: Implement an adversarial data generation script to earn an additional ten percent score premium.,OPTIONAL_BONUS
+Electing to write a comprehensive mathematical proof for your custom activation layer function grants an extra two-point grade boost.,OPTIONAL_BONUS
+"It is entirely optional to try out alternative loss functions, as we will only grade the baseline cross-entropy implementation anyway.",OPTIONAL_BONUS
+"For those looking to push their skills further, an extra five percent is up for grabs if you run a benchmark on a cluster node.",OPTIONAL_BONUS
+"Your project baseline won't be penalized if you skip the quantization step, though completing it nets a clean three bonus marks.",OPTIONAL_BONUS
+A flat two-point extra credit cushion will be automatically applied to any submission that contains an interactive prediction web space.,OPTIONAL_BONUS
+"If you finish early, consider configuring a custom logger—the teaching assistants will award a small score premium for the added effort.",OPTIONAL_BONUS
+"We will only evaluate your primary validation split, meaning that compiling a separate out-of-distribution performance analysis is purely a matter of personal choice for a minor grade bump.",OPTIONAL_BONUS
+"An additional four marks will be added to your raw score if you choose to optimize your database index layouts, though you can safely ignore this if you run out of time.",OPTIONAL_BONUS
+"Should you wish to experiment with low-precision tensor quantization, you can secure a slight score cushion without changing your mandatory submission files.",OPTIONAL_BONUS
+"Your baseline marks are completely safe if you skip the distributed execution pipeline entirely, but tackling it will yield a three-point bonus envelope.",OPTIONAL_BONUS
+"To earn a small grading dividend, students can voluntarily author a supplementary markdown file comparing different activation function behaviors.",OPTIONAL_BONUS
+"You can easily bypass the hyperparameter grid-search phase without hurting your base grade, but running it anyway unlocks a loose four-point performance bounty.",OPTIONAL_BONUS
+Tackling the multi-threaded execution strategy remains a purely secondary exercise—completing it simply provides a slight mark buffer on top of your final score.,OPTIONAL_BONUS
+"The instruction to implement a secure OAuth2 authentication workflow is merely a stretch objective, meaning skipping it carries absolutely zero grade penalties.",OPTIONAL_BONUS
+A small score dividend is available for anyone who decides to design a custom error-handling middleware component alongside the required core files.,OPTIONAL_BONUS
+Writing an integration test suite for your API endpoints is a voluntary pursuit that merely grants a minor grade supplement at the grader's discretion.,OPTIONAL_BONUS
+"You do not have to write a script to clean up duplicate data, but if you do it you can get a quick two points added to your score.",OPTIONAL_BONUS
+If you run out of time you can just skip making the chart of your results since it is only for extra credit anyway.,OPTIONAL_BONUS
+Building a second simple model to check your main model is just a fun challenge that gives a tiny grade boost if you want to try it.,OPTIONAL_BONUS
+"Your project grade will not drop if you do not make the custom webpage, but doing it adds a small bonus on top of your points.",OPTIONAL_BONUS
+Students can choose to write a short note about how they fixed bugs in their code for a little bit of extra marks.,OPTIONAL_BONUS
+"Note that a small grading dividend is available for students who choose to generate a validation confusion matrix, although your core assignment implementation will be evaluated completely independently of this step.",OPTIONAL_BONUS
+ADVANCED TRACK EXTENSION Submitting your pipeline inside a containerized layout remains a voluntary exercise designed to award a minor score supplement.,OPTIONAL_BONUS
+c. Up to seven additional surplus marks can be captured by electing to configure your data processing code to execute concurrently across multiple CPU threads.,OPTIONAL_BONUS
+Connecting your training loop to a remote experiment tracking server (which remains entirely non-mandatory and carries zero baseline grade penalties) unlocks a loose reward bounty.,OPTIONAL_BONUS
+"Your fundamental assignment total will not be harmed if you skip writing the comparative baseline report, though taking the time to draft this optional analysis adds a clean cushion onto your final marks.",OPTIONAL_BONUS
+EXTRA CREDIT MILESTONE Fine-tuning your model parameters using an advanced population-based training strategy serves as a completely voluntary pursuit that yields a six percent mark buffer.,OPTIONAL_BONUS
+"You will not face any grade penalties if you choose to bypass the containerized microservice design step, although completing it grants a small four-point score dividend.",OPTIONAL_BONUS
+"d. To secure a minor two-point grade supplement, students can optionally implement a custom exception handler to capture runtime database connection failures.",OPTIONAL_BONUS
+Building an extra toy model to run a comparative performance check against your primary architecture is a purely secondary challenge that rewards an additional eight percent score cushion.,OPTIONAL_BONUS
+"Please note that authoring an independent code documentation file is an entirely non-mandatory task, but tackling it adds a quick three bonus marks on top of your final results.",OPTIONAL_BONUS

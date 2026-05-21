@@ -1,0 +1,208 @@
+text, label
+Assessment Criteria: Output Format (30 points),WEIGHTED_PRIORITY
+Create and include a clear confusion matrix visualization as part of your submission (worth 50/30 points).,WEIGHTED_PRIORITY
+(25 points): Develop comprehensive unit tests for each preprocessing function.,WEIGHTED_PRIORITY
+Each completed task will be assessed for 5 points.,WEIGHTED_PRIORITY
+Assessment Criteria: Evaluation Metrics (10 points),WEIGHTED_PRIORITY
+"Assessment will be based on model performance, with a maximum score of 30 allocated to accuracy alone.",WEIGHTED_PRIORITY
+Documentation quality: A score of 66.7% (20/30) indicates a satisfactory level of documentation organization and clarity.,WEIGHTED_PRIORITY
+(10 points each) Add 5 RegEx patterns to capture:,WEIGHTED_PRIORITY
+Each of the following assignments is worth 30 points.,WEIGHTED_PRIORITY
+Evaluation Metrics (5 points): Please provide a written analysis of the key performance indicators used to assess the quality of your assignment.,WEIGHTED_PRIORITY
+The architectural design document accounts for 30% of the total milestone grade.,WEIGHTED_PRIORITY
+"A maximum of 15 points will be awarded for code readability, proper commenting, and adherence to styling guidelines.",WEIGHTED_PRIORITY
+Evaluation Metrics and Analysis Rubric (25 points),WEIGHTED_PRIORITY
+Your model's F1-score performance on the validation set will determine 20 points of your overall score.,WEIGHTED_PRIORITY
+Partial credit of up to 50% will be given if the mathematical proofs are conceptually correct but contain minor calculation errors.,WEIGHTED_PRIORITY
+The final project presentation represents 15% of your cumulative course grade.,WEIGHTED_PRIORITY
+An automatic 5-point deduction will be applied for each day the laboratory report is submitted late.,WEIGHTED_PRIORITY
+A maximum of 40 points will be awarded for the accuracy and completeness of the data pipeline implementation.,WEIGHTED_PRIORITY
+The system documentation and architecture diagram are worth a total of 10 points.,WEIGHTED_PRIORITY
+You will receive up to 80% partial credit if the core algorithm passes the primary unit tests but fails the scalability constraints.,WEIGHTED_PRIORITY
+The peer evaluation component accounts for 5% of the overall assignment score.,WEIGHTED_PRIORITY
+Successfully completing the error handling optimization will earn you a maximum of 10 points.,WEIGHTED_PRIORITY
+The comprehensive literature review section contributes 25 points to the final thesis proposal grade.,WEIGHTED_PRIORITY
+Points will be distributed evenly across the three primary functional requirements specified in the rubric.,WEIGHTED_PRIORITY
+Demonstrating a clear understanding of edge cases during the live demo is worth 10 points.,WEIGHTED_PRIORITY
+This assignment constitutes 15% of your cumulative laboratory grade.,WEIGHTED_PRIORITY
+Code optimization and algorithmic efficiency will be evaluated out of a maximum of 20 points.,WEIGHTED_PRIORITY
+Failure to include a comprehensive discussion section results in an automatic 10-point deduction from the final score.,WEIGHTED_PRIORITY
+The model accuracy achieved on the hidden test dataset accounts for 40% of this milestone's weight.,WEIGHTED_PRIORITY
+Partial credit of up to 5 points is available if the mathematical derivation is theoretically sound but contains minor calculation errors.,WEIGHTED_PRIORITY
+Criteria 3: Data Visualization and Insights (Maximum 15 points).,WEIGHTED_PRIORITY
+Adherence to clean coding standards and specified design patterns constitutes 10% of the overall assessment.,WEIGHTED_PRIORITY
+The final score for this activity sheet will be calculated based on the 100-point rubric attached on page 4.,WEIGHTED_PRIORITY
+"The project prototype is weighted at 25 points, distributed evenly between backend functionality and UI responsiveness.",WEIGHTED_PRIORITY
+Demonstrating thorough error analysis and edge-case handling can recover up to 5 marks deducted from previous sections.,WEIGHTED_PRIORITY
+"Section 4: Methodology is worth 30 points, distributed as follows: 15 points for data collection design, 10 points for statistical justification, and 5 points for structural clarity.",WEIGHTED_PRIORITY
+"Failure to achieve a passing mark of 50% on this final project deliverable will result in an automatic failing grade for the entire course module, regardless of your cumulative points.",WEIGHTED_PRIORITY
+"Grading Criteria for Executive Summary (15 Marks): Synthesizes key findings accurately (5), demonstrates professional academic tone (5), and provides actionable recommendations (5).",WEIGHTED_PRIORITY
+The mid-term project defense is a high-stakes oral evaluation representing 30% of your overall practical laboratory grade.,WEIGHTED_PRIORITY
+"Each weekly laboratory reflection journal is worth 2 points, contributing to a total of 20 points for the continuous assessment portion of the semester.",WEIGHTED_PRIORITY
+"Code quality, modular design, and strict adherence to PEP 8 standards will be assessed out of 25 points using the rubric provided in Appendix B.",WEIGHTED_PRIORITY
+"Partial credit of up to 40% may be awarded for non-functional code submissions, provided the accompanying architectural diagrams and pseudo-code are theoretically sound.",WEIGHTED_PRIORITY
+"The 100 total marks for the final research thesis are heavily weighted toward the data analysis and discussion chapters, which combined represent 60% of the overall evaluation.",WEIGHTED_PRIORITY
+Performance Evaluation (20 pts): Classifiers achieving a macro F1-score below 0.75 on the holdout validation set will be capped at a maximum of 10 points for this specific sub-section.,WEIGHTED_PRIORITY
+"Your final project grade will be derived from a weighted matrix: 40% for the system implementation, 30% for the final research paper, 20% for the oral presentation, and 10% for continuous sprint logs.",WEIGHTED_PRIORITY
+An automatic penalty of 2 points per 24-hour period will be deducted from the total 50-point pool for any submissions received after the Friday midnight deadline.,WEIGHTED_PRIORITY
+Rubric Part C: Experimental Validation (35 Marks). Deductions of up to 15 marks will be applied if the baseline comparison models are omitted or if the cross-validation folds are statistically insufficient.,WEIGHTED_PRIORITY
+"The capstone project poster session constitutes 15% of your final marks, evaluated by a panel of external industry adjudicators based on technical depth and communication clarity.",WEIGHTED_PRIORITY
+"While the primary code implementation is graded on a pass/fail basis for functionality, the accompanying performance profiling report carries a weight of 15 points toward your continuous assessment total.",WEIGHTED_PRIORITY
+"The final software artifact will be evaluated using a 100-point rubric, where 50 points are allocated to core backend functionality, 30 points to comprehensive unit testing coverage, and 20 points to the user interface deployment.",WEIGHTED_PRIORITY
+"A maximum of 15% of your final semester grade is determined by the bi-weekly code review sessions, where grading is heavily dependent on your ability to justify architectural decisions to your teaching assistant.",WEIGHTED_PRIORITY
+"Analytical Report Rubric (40 Marks Total): Literature synthesis is weighted at 15 marks, methodological rigor at 15 marks, and professional formatting and citation accuracy at 10 marks.",WEIGHTED_PRIORITY
+"Please note that the conceptual design phase accounts for 10% of the overall project grade, but failure to secure a passing mark on this milestone will bar your team from proceeding to the implementation phase.",WEIGHTED_PRIORITY
+"Your performance on the live system demonstration is worth 25 points, with up to 10 points deducted if the application crashes or fails to handle unexpected user inputs in real-time.",WEIGHTED_PRIORITY
+"A maximum of 10 marks will be awarded for the thoroughness of your edge-case handling, specifically regarding how your data pipeline manages null values and malformed API payloads.",WEIGHTED_PRIORITY
+The midterm prototype submission is a gateway assessment worth 15 points; students who receive fewer than 7 points will be required to resubmit their architectural plans before they can unlock the final deployment phase.,WEIGHTED_PRIORITY
+Rubric Segment B: Algorithmic Complexity and Scalability Analysis (Worth 30% of the milestone grade).,WEIGHTED_PRIORITY
+"The individual contribution factor, derived from peer evaluations and GitHub commit histories, will be used as a multiplier (ranging from 0.0 to 1.2) against the total team project score.",WEIGHTED_PRIORITY
+Failure to meet the minimum threshold of 80% test coverage will result in a flat 20-point deduction from the overall software development grade.,WEIGHTED_PRIORITY
+The methodology section constitutes 30% of your overall project grade.,WEIGHTED_PRIORITY
+Achieving a macro F1-score below 0.75 results in a 10-point deduction.,WEIGHTED_PRIORITY
+A maximum of 15 points will be awarded for code readability.,WEIGHTED_PRIORITY
+The comprehensive software implementation is evaluated out of a baseline 50-point pool.,WEIGHTED_PRIORITY
+Each bi-weekly laboratory report carries a weight of 5% toward the semester total.,WEIGHTED_PRIORITY
+Failure to submit the architectural blueprint results in an automatic ten-point deduction.,WEIGHTED_PRIORITY
+Criteria 2: Algorithmic efficiency is worth a maximum of 15 points.,WEIGHTED_PRIORITY
+The mid-term examination accounts for exactly 20% of your final grade.,WEIGHTED_PRIORITY
+The theoretical validation section is graded out of a maximum 20 marks.,WEIGHTED_PRIORITY
+Your peer evaluation score modifies the final group grade by 10%.,WEIGHTED_PRIORITY
+The final evaluation matrix weights the oral defense at 25 percent.,WEIGHTED_PRIORITY
+An automatic 5-point penalty applies if the system documentation is missing.,WEIGHTED_PRIORITY
+The code styling and documentation criteria are worth 10 points total.,WEIGHTED_PRIORITY
+Continuous agile sprint logs carry a weight of 10 percent.,WEIGHTED_PRIORITY
+Section 3.2 (System Evaluation) is worth a maximum 15 marks.,WEIGHTED_PRIORITY
+Deduction: Missing the architecture diagram results in a flat 5-point penalty.,WEIGHTED_PRIORITY
+Performance on hidden test data: 40% of milestone grade.,WEIGHTED_PRIORITY
+Task Breakdown (10 points total): Backend API implementation.,WEIGHTED_PRIORITY
+The embedded system prototype is evaluated out of a maximum 50 points.,WEIGHTED_PRIORITY
+The validation accuracy score determines 40% of the practical exam weight.,WEIGHTED_PRIORITY
+A flat 8-point deduction will be enforced for any missing structural diagrams.,WEIGHTED_PRIORITY
+The complete code coverage metric is scaled out of 30 marks.,WEIGHTED_PRIORITY
+This technical milestone represents exactly 15 percent of your total course grade.,WEIGHTED_PRIORITY
+Documentation and code commenting: Maximum 10 points.,WEIGHTED_PRIORITY
+"Final Project Weight: Implementation (50%), Report (30%), Presentation (20%).",WEIGHTED_PRIORITY
+Penalty: Incorrect naming conventions will result in a 2-point deduction.,WEIGHTED_PRIORITY
+Section A: Mathematical Proofs (Worth 25% of assignment score).,WEIGHTED_PRIORITY
+Continuous assessment labs account for 15 percent of the overall mark.,WEIGHTED_PRIORITY
+Evaluation Matrix: The final project report constitutes 35% of total marks.,WEIGHTED_PRIORITY
+Automated Unit Test Suite Accuracy: Worth a maximum 20 points.,WEIGHTED_PRIORITY
+CRITERION 4: Computational complexity analysis is scaled to 15 percent.,WEIGHTED_PRIORITY
+Penalty for uncompilable code submissions: Automatic 50% deduction of milestone value.,WEIGHTED_PRIORITY
+Lab Viva Voce performance accounts for 10% of the practical grade.,WEIGHTED_PRIORITY
+Hardware prototype demonstration accounts for exactly 10 percent of the final mark.,WEIGHTED_PRIORITY
+Section 2: Data Preprocessing Pipeline (Worth 25% of total points).,WEIGHTED_PRIORITY
+Late Penalty: Submissions exceeding the grace period incur a 5-point deduction.,WEIGHTED_PRIORITY
+System Profiling and Bottleneck Analysis (Scaled out of 15 marks).,WEIGHTED_PRIORITY
+Component Weight: Individual contribution factor modifies the final group score by 20%.,WEIGHTED_PRIORITY
+Weekly git commit consistency accounts for exactly 10 percent of the grade.,WEIGHTED_PRIORITY
+Grade Distribution: The comprehensive final exam represents 30% of your course total.,WEIGHTED_PRIORITY
+Criterion B: Deep learning model architecture justification (Worth 20 points).,WEIGHTED_PRIORITY
+Completing the database normalization step correctly accounts for 35% of your final laboratory score.,WEIGHTED_PRIORITY
+Grading Priority: Failing to implement proper input validation will result in an automatic 5-point deduction from this section.,WEIGHTED_PRIORITY
+Please note that the automated test suite execution holds a weighted priority of 40 points out of the total 100 available.,WEIGHTED_PRIORITY
+Score Impact: Search algorithm runtime optimization is evaluated out of a maximum of 10 points.,WEIGHTED_PRIORITY
+Writing comprehensive unit tests for your routing paths is assessed out of a maximum of 15 marks.,WEIGHTED_PRIORITY
+The implementation of the public-key cryptography module carries a heavy weight of 25% of the total assignment mark.,WEIGHTED_PRIORITY
+Penalty Condition: Submitting code that fails to compile on the server triggers an automatic 50% deduction across this entire worksheet.,WEIGHTED_PRIORITY
+The comprehensive technical documentation section is weighted at 15 marks toward your overall portfolio grade.,WEIGHTED_PRIORITY
+Priority Assessment: Executing the final multithreading load tests successfully will secure the remaining 10 points of your score.,WEIGHTED_PRIORITY
+Deploying your local application to the cloud provider platform accounts for 5% of your final lab grade.,WEIGHTED_PRIORITY
+Designing the responsive user interface layout represents 20% of your total evaluation score for this module.,WEIGHTED_PRIORITY
+Evaluation Penalty: Any instances of hardcoded sensitive credentials will incur an immediate 20-point penalty on your script submission.,WEIGHTED_PRIORITY
+The rigorous validation of edge cases in your sorting routine accounts for 15 marks of your lab performance.,WEIGHTED_PRIORITY
+Grade Weight: Third-party API endpoint integration accounts for 5% of your cumulative grade.,WEIGHTED_PRIORITY
+Migrating the monolithic schema structure into isolated microservices is evaluated out of a maximum of 30 points.,WEIGHTED_PRIORITY
+Completing the dynamic memory allocation routine correctly determines 40% of your total score for this exercise.,WEIGHTED_PRIORITY
+Grade Impact: Failure to clear the buffer arrays will result in an automatic 15-point deduction from your functional correctness grade.,WEIGHTED_PRIORITY
+Please remember that the unit testing suite coverage holds a weighted priority of 30 marks out of the total 100.,WEIGHTED_PRIORITY
+Score Weight: Parallel processing thread implementation accounts for exactly 10% of your submission score.,WEIGHTED_PRIORITY
+The architectural design documentation is evaluated out of a maximum of 20 points toward your practical assessment.,WEIGHTED_PRIORITY
+Optimizing your SQL query execution paths accounts for exactly 25% of the final grade on this assignment.,WEIGHTED_PRIORITY
+Negative Weight: Incorporating any deprecated runtime libraries will incur an automatic 10-point penalty on your overall script.,WEIGHTED_PRIORITY
+The configuration of your automated deployment workflow is weighted at 15 marks of your laboratory performance tracker.,WEIGHTED_PRIORITY
+Score Weight: Two-factor user authentication implementation accounts for 5% of your baseline total.,WEIGHTED_PRIORITY
+Refactoring the legacy data ingestion logic into a clean repository pattern is assessed out of a maximum of 30 points.,WEIGHTED_PRIORITY
+Resolving the race conditions in your concurrency controller represents exactly 30% of the total marks for this module.,WEIGHTED_PRIORITY
+Deduction Clause: Submitting an application that triggers a memory leak results in an immediate 25-point penalty on your evaluation.,WEIGHTED_PRIORITY
+The architectural layout of your database schema diagram is weighted at 15 points toward your portfolio total.,WEIGHTED_PRIORITY
+Score Weight: Reverse proxy server configuration accounts for 10% of your total mark.,WEIGHTED_PRIORITY
+Containerizing your microservices using a multi-stage Docker build is evaluated out of a maximum of 20 points on your final project grade.,WEIGHTED_PRIORITY
+Application latency performance under load determines exactly 35% of the practical grade.,WEIGHTED_PRIORITY
+Quality Deficit: Any validation checks that allow SQL injection vulnerabilities will trigger a 40-point deduction from your score.,WEIGHTED_PRIORITY
+Polishing the exception handling framework to intercept all runtime panics is weighted at 20 marks toward your evaluation.,WEIGHTED_PRIORITY
+Score Weight: LRU caching layer implementation accounts for 5% of your total score.,WEIGHTED_PRIORITY
+Refactoring the asynchronous state machine to eliminate thread blocks is assessed out of a maximum of 15 points on your final lab sheet.,WEIGHTED_PRIORITY
+Implementing end-to-end TLS encryption across all active network channels accounts for exactly 25% of your final grade.,WEIGHTED_PRIORITY
+Code Compliance: Utilizing any non-thread-safe global collections within your server code will incur a 30-point penalty on submission.,WEIGHTED_PRIORITY
+Designing a stateless session management flow using encrypted tokens is weighted at 15 marks toward your overall total.,WEIGHTED_PRIORITY
+Score Weight: Docker image size optimization below 150MB accounts for 5% of your score.,WEIGHTED_PRIORITY
+Isolating your application components within private subnet topologies is evaluated out of a maximum of 20 points on your laboratory worksheet.,WEIGHTED_PRIORITY
+FEATURE METRIC Implementing a principal component analysis (PCA) pipeline to reduce dimensional redundancy accounts for exactly 20% of your total score.,WEIGHTED_PRIORITY
+Metric Infraction: Training a classification model while leaving unhandled missing values in the feature matrix triggers a 25-point deduction.,WEIGHTED_PRIORITY
+Writing a k-nearest neighbors (KNN) classifier from scratch using vectorized NumPy operations is weighted at 15 marks for this lab.,WEIGHTED_PRIORITY
+Score Weight: Randomized grid search hyperparameter tuning accounts for 10% of your total score.,WEIGHTED_PRIORITY
+Ensembling predictive nodes using a gradient boosted decision tree framework is assessed out of a maximum of 30 points.,WEIGHTED_PRIORITY
+Generating a dense Word2Vec vocabulary index from your custom text corpus accounts for exactly 25% of your practical grade.,WEIGHTED_PRIORITY
+Validation Fault: Allowing test set target tokens to bleed into your tokenizer's vocabulary mappings triggers an automatic 35-point deduction.,WEIGHTED_PRIORITY
+Computing an accurate cosine similarity matrix to evaluate semantic vector alignment is weighted at 15 points toward your total.,WEIGHTED_PRIORITY
+Score Weight: Flash attention layer integration accounts for 10% of your total score.,WEIGHTED_PRIORITY
+Refactoring the sequential decoding pipeline to execute a parallel beam search routine is evaluated out of a maximum of 20 points.,WEIGHTED_PRIORITY
+Configuring a bidirectional LSTM layer to capture temporal patterns in your sequence data accounts for exactly 30% of the evaluation.,WEIGHTED_PRIORITY
+Gradient Penalty: Allowing the backpropagation updates to trigger an unmitigated exploding gradient condition results in an automatic 25-point deduction.,WEIGHTED_PRIORITY
+Implementing a custom categorical cross-entropy loss function using raw mathematical operations is weighted at 20 marks toward your total.,WEIGHTED_PRIORITY
+Score Weight: Teacher forcing schedule integration accounts for 5% of your total score.,WEIGHTED_PRIORITY
+Converting your hidden state matrices into a compact truncated backpropagation format is assessed out of a maximum of 15 points on your project grade.,WEIGHTED_PRIORITY
+The data preprocessing section accounts for exactly 25% of your total grade.,WEIGHTED_PRIORITY
+Data cleaning pipeline accounts for 30% of your score.,WEIGHTED_PRIORITY
+Grading Priority: Missing feature normalization results in a 10-point deduction.,WEIGHTED_PRIORITY
+Model training component holds a weighted priority of 35 points.,WEIGHTED_PRIORITY
+SCORE ALLOCATION: Data cleaning pipeline carries a maximum weight of 20% of total marks.,WEIGHTED_PRIORITY
+Penalty Condition: Unevaluated holdout dataset triggers a 15-point deduction.,WEIGHTED_PRIORITY
+All answers provided all account only to 5 points. Any errors or incomplete entries will be instantly marked as 0.,WEIGHTED_PRIORITY
+"Submitting all required documents is necessary, failing to do so will earn a 5% grade deduction of grade per missing document.",WEIGHTED_PRIORITY
+Each listed name is valued at 2 points each.,WEIGHTED_PRIORITY
+Complete classification report is evaluated out of a maximum of 10 points.,WEIGHTED_PRIORITY
+Preprocessing Implementation Rubric (30 points).,WEIGHTED_PRIORITY
+Score Cap: Validation accuracy below 75% limits your score to a maximum of 10 points.,WEIGHTED_PRIORITY
+The model accuracy on the hidden test dataset accounts for 40% of this milestone.,WEIGHTED_PRIORITY
+"For each named figure in computing, a maximum of 5 points can be added and 1 point reduced per spelling error.",WEIGHTED_PRIORITY
+The system documentation section is evaluated out of a maximum of 15 marks.,WEIGHTED_PRIORITY
+Grading Note: Failure to include evaluation metrics results in a 5-point deduction.,WEIGHTED_PRIORITY
+Each completed preprocessing function will be assessed for a maximum of 5 points.,WEIGHTED_PRIORITY
+Assessment Criteria: Output format and structure is worth a maximum of 10 points.,WEIGHTED_PRIORITY
+The final project implementation accounts for 50% of your overall course grade.,WEIGHTED_PRIORITY
+Unformatted code submission incurs a 5-point deduction.,WEIGHTED_PRIORITY
+Negative Weight: Deprecated scikit-learn functions incur a 5-point penalty.,WEIGHTED_PRIORITY
+Model training loop configuration is weighted at a maximum of 10 marks.,WEIGHTED_PRIORITY
+Confusion matrix visualization represents exactly 15% of total marks.,WEIGHTED_PRIORITY
+Deduction Clause: Runtime errors during execution result in a 20-point penalty.,WEIGHTED_PRIORITY
+Written model interpretation section is evaluated out of 10 points.,WEIGHTED_PRIORITY
+Macro F1-score below 0.75 caps your section score at 10 points.,WEIGHTED_PRIORITY
+Quality Deficit: Label leakage into training set triggers a 30-point deduction.,WEIGHTED_PRIORITY
+Model comparison table is weighted at a maximum of 15 marks.,WEIGHTED_PRIORITY
+Stratified train-test splitting accounts for exactly 20% of your grade.,WEIGHTED_PRIORITY
+Code Compliance: PEP 8 violations incur a 10-point penalty on submission.,WEIGHTED_PRIORITY
+Reproducible experiment setup is evaluated out of a maximum of 10 marks.,WEIGHTED_PRIORITY
+Bag-of-words pipeline accounts for exactly 15% of your total score.,WEIGHTED_PRIORITY
+Constructing a comprehensive unit test matrix (which accounts for exactly fifteen percent of your overall lab grade) must be finalized before the deadline.,WEIGHTED_PRIORITY
+Decision tree implementation is weighted at a maximum of 20 marks.,WEIGHTED_PRIORITY
+Word2Vec model on domain corpus accounts for exactly 20% of grade.,WEIGHTED_PRIORITY
+Validation Fault: Test set leakage triggers an automatic 40-point deduction.,WEIGHTED_PRIORITY
+GRADING POLICY SUMMARY The baseline execution of your source code is evaluated out of an absolute ceiling of seventy points.,WEIGHTED_PRIORITY
+Missing the confusion matrix results in a flat 10-point penalty.,WEIGHTED_PRIORITY
+Criterion 3: Model evaluation and reporting is worth a maximum of 20 points.,WEIGHTED_PRIORITY
+f. Failing to include a clean requirements file triggers an automatic twelve-point deduction from your base score.,WEIGHTED_PRIORITY
+Please remember that any submission missing the required architectural block diagram will be capped at a maximum of forty marks total.,WEIGHTED_PRIORITY
+CRITERIA MODULE 3 The code optimization phase carries a heavy fixed weight of twenty-five percent toward the module total.,WEIGHTED_PRIORITY
+Your overall assignment portfolio grade is evaluated out of a fixed distribution where the physical lab execution stands for exactly forty percent of the final total.,WEIGHTED_PRIORITY
+Please keep in mind that uploading an invalid file format or submitting an uncompilable script triggers an automatic ten-point reduction on that specific module mark.,WEIGHTED_PRIORITY
+i. The comprehensive in-person presentation phase carries a maximum weight of fifteen percent toward your total engineering design grade.,WEIGHTED_PRIORITY
+Be aware that failure to hand in the physical paper appendix worksheets alongside the online text file limits your maximum possible score to fifty points.,WEIGHTED_PRIORITY
+GRADING BREAKDOWN DOWNSTREAM The digital code documentation metric accounts for a twenty percent allocation of the final score sheet.,WEIGHTED_PRIORITY
+The digital repository code quality and optimization phase stands for exactly a fifteen percent installment of the cumulative assignment mark.,WEIGHTED_PRIORITY
+Please note that missing the mandatory in-person demonstration block will reduce your overall laboratory grade by a flat twenty points.,WEIGHTED_PRIORITY
+j. Late digital uploads or incomplete physical paper submissions are capped at an absolute maximum of sixty percent of the available base score.,WEIGHTED_PRIORITY
+Your physical group presentation performance and accompanying online slide deck account for a twenty-five percent slice of the final grading matrix.,WEIGHTED_PRIORITY
+CRITERIA SPECIFICATION SECTION 4 The functional implementation of your pipeline module carries a fixed weight of thirty-five points toward the project total.,WEIGHTED_PRIORITY
