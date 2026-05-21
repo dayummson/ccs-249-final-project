@@ -8,7 +8,7 @@ from transformers import pipeline
 from constants.label import RAW_ID2LABEL
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.abspath(os.path.join(BASE_DIR, "../../models/eagle"))
+MODEL_PATH = os.path.abspath(os.path.join(BASE_DIR, "../../models/firewolf"))
 
 print(f"Loading model from: {MODEL_PATH}")
 

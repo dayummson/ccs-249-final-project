@@ -18,9 +18,8 @@ MODEL_NAME = "distilbert-base-uncased"
 DATA_FILE = "../../datasets/synthetic_data/synthetic_data_v3.csv"
 OUTPUT_MODEL_DIR = "../../models/firewolf"
 BATCH_SIZE = 16
-NUM_EPOCHS = 8  # Extended to allow attention heads to capture subtle boundaries
+NUM_EPOCHS = 8
 
-# Define the exact categories present in your dataset
 categories = sorted(
     [
         "TECHNICAL_TASK",
@@ -112,7 +111,7 @@ model = AutoModelForSequenceClassification.from_pretrained(
 args = TrainingArguments(
     output_dir="./training_results",
     num_train_epochs=NUM_EPOCHS,
-    learning_rate=3e-5,  # Controlled, stable learning rate for dense datasets
+    learning_rate=3e-5,
     per_device_train_batch_size=BATCH_SIZE,
     per_device_eval_batch_size=BATCH_SIZE,
     weight_decay=0.01,
@@ -123,7 +122,7 @@ args = TrainingArguments(
     load_best_model_at_end=True,
     save_total_limit=2,
     metric_for_best_model="f1",
-    fp16=True,  # Keeps speed optimal and matches type configurations
+    fp16=True,
     report_to="none",
 )
 

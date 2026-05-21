@@ -17,9 +17,9 @@ sys.path.append("../../")
 from constants.label import LABELS, RAW_ID2LABEL
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-TUNED_MODEL = os.path.abspath(os.path.join(BASE_DIR, "../../models/eagle"))
+TUNED_MODEL = os.path.abspath(os.path.join(BASE_DIR, "../../models/firewolf"))
 GROUND_TRUTH = os.path.join(BASE_DIR, "../../datasets/evaluations/eval.csv")
-OUTPUT_DIR = os.path.join(BASE_DIR, "eval_results/eagle")
+OUTPUT_DIR = os.path.join(BASE_DIR, "eval_results/firewolf")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
