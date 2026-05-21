@@ -95,4 +95,4 @@ text,true_label
 "Article Link:",IGNORE
 "Answer:",IGNORE
 "Paste the graph below.",IGNORE
-"Once done, paste the 10 longest vectors below:",IGNORE
+"Once done, paste the 10 longest vectors below:",TECHNICAL_TASK

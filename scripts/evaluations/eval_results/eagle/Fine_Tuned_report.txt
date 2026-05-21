@@ -1,0 +1,20 @@
+Model: Fine_Tuned
+Samples: 97
+
+Accuracy : 0.7629
+Precision: 0.8169
+Recall   : 0.7629
+F1 Score : 0.7285
+
+                   precision    recall  f1-score   support
+
+       ADMIN_TRAP       1.00      0.60      0.75        15
+           IGNORE       0.70      0.95      0.81        20
+   OPTIONAL_BONUS       1.00      0.50      0.67         6
+    PRE_REQUISITE       1.00      0.21      0.35        14
+   TECHNICAL_TASK       0.68      0.96      0.79        28
+WEIGHTED_PRIORITY       0.87      1.00      0.93        13
+
+        micro avg       0.76      0.77      0.77        96
+        macro avg       0.87      0.70      0.72        96
+     weighted avg       0.83      0.77      0.74        96

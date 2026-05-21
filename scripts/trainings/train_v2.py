@@ -21,10 +21,10 @@ from transformers import (
 from utils.metrics.metric import compute_metrics
 
 DATASET = "../../datasets/synthetic_data/synthetic_data_v3.csv"
-OUTPUT_MODEL_PATH = "../../models/delta"
+OUTPUT_MODEL_PATH = "../../models/eagle"
 MODEL_NAME = "distilbert-base-uncased"
 BATCH_SIZE = 8
-NUM_EPOCHS = 5
+NUM_EPOCHS = 8
 MAX_SEQUENCE_LENGTH = 64  # Task sentences are short; 64 saves VRAM safely
 
 df = pd.read_csv(DATASET)
