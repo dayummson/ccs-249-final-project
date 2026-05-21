@@ -1,20 +1,20 @@
 Model: Raw_DistilBERT
 Samples: 97
 
-Accuracy : 0.2062
-Precision: 0.0570
-Recall   : 0.2062
-F1 Score : 0.0893
+Accuracy : 0.1443
+Precision: 0.0595
+Recall   : 0.1443
+F1 Score : 0.0700
 
                    precision    recall  f1-score   support
 
-       ADMIN_TRAP       0.00      0.00      0.00        15
-           IGNORE       0.26      0.95      0.41        21
+       ADMIN_TRAP       0.14      0.73      0.23        15
+           IGNORE       0.18      0.14      0.16        21
    OPTIONAL_BONUS       0.00      0.00      0.00         6
     PRE_REQUISITE       0.00      0.00      0.00        14
    TECHNICAL_TASK       0.00      0.00      0.00        27
 WEIGHTED_PRIORITY       0.00      0.00      0.00        13
 
-        micro avg       0.21      0.21      0.21        96
-        macro avg       0.04      0.16      0.07        96
-     weighted avg       0.06      0.21      0.09        96
+        micro avg       0.14      0.15      0.15        96
+        macro avg       0.05      0.15      0.06        96
+     weighted avg       0.06      0.15      0.07        96

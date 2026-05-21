@@ -11,7 +11,7 @@ sys.path.append("../../")
 from constants.label import LABELS, RAW_ID2LABEL
 
 GROUND_TRUTH = "../../datasets/evaluations/eval.csv"
-FINETUNED_MODEL = "../../models/alpha"
+FINETUNED_MODEL = "../../models/delta"
 RAW_MODEL = "distilbert-base-uncased"
 
 df = pd.read_csv(GROUND_TRUTH)
