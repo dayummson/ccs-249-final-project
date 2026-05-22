@@ -5,20 +5,128 @@ sys.path.append("../../")
 import os
 import re
 from transformers import pipeline
-from constants.label import RAW_ID2LABEL
+from constants.label import LABELS, RAW_ID2LABEL
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.abspath(os.path.join(BASE_DIR, "../../models/firewolf"))
+MODELS_DIR = os.path.abspath(os.path.join(BASE_DIR, "../../models"))
+DEFAULT_MODEL_NAME = os.getenv("CLASSIFIER_MODEL", "firewolf")
+OLLAMA_MODELS = {"mistral:latest", "llama3.2:latest"}
 
-print(f"Loading model from: {MODEL_PATH}")
-
-
-# LOAD MODEL AT STARTUP
-print("Loading model...")
-pipe = pipeline("text-classification", model=MODEL_PATH)
-print("Model ready.")
+MODEL_CACHE = {}
+ACTIVE_MODEL_NAME = None
+ACTIVE_MODEL_KIND = None
+pipe = None
 
 CONFIDENCE_THRESHOLD = 0.75
+
+CLASSIFY_PROMPT = """Classify the following sentence from a university activity sheet into exactly one of these six categories:
+
+TECHNICAL_TASK     - Instructions to build, implement, code, write, create, train, extract, or calculate something
+WEIGHTED_PRIORITY  - Mentions points, grades, scores, or rubrics
+ADMIN_TRAP         - Submission rules, deadlines, GitHub/LMS instructions, grouping, formatting requirements
+OPTIONAL_BONUS     - Optional, bonus, or extra credit items
+PRE_REQUISITE      - Setup steps or conditions before starting
+IGNORE             - Headers, footers, URLs, university name, page numbers, institutional text
+
+Reply with only the category name, nothing else. No explanation. No punctuation. Just one of the six category names above.
+
+Sentence: "{sentence}"""
+
+
+def _list_local_models():
+    try:
+        return {
+            name
+            for name in os.listdir(MODELS_DIR)
+            if os.path.isdir(os.path.join(MODELS_DIR, name))
+        }
+    except FileNotFoundError:
+        return set()
+
+
+def _resolve_model(model_name):
+    local_models = _list_local_models()
+    requested = model_name or DEFAULT_MODEL_NAME
+
+    if requested in OLLAMA_MODELS:
+        return "ollama", requested
+
+    if requested in local_models:
+        return "hf", os.path.join(MODELS_DIR, requested)
+
+    if os.path.exists(requested):
+        return "hf", os.path.abspath(requested)
+
+    if DEFAULT_MODEL_NAME in OLLAMA_MODELS:
+        return "ollama", DEFAULT_MODEL_NAME
+
+    if DEFAULT_MODEL_NAME in local_models:
+        return "hf", os.path.join(MODELS_DIR, DEFAULT_MODEL_NAME)
+
+    return "hf", requested
+
+
+def _load_hf_pipeline(model_path):
+    if model_path not in MODEL_CACHE:
+        MODEL_CACHE[model_path] = pipeline("text-classification", model=model_path)
+    return MODEL_CACHE[model_path]
+
+
+def _extract_label(raw_response):
+    cleaned = re.sub(r"<think>.*?</think>", "", raw_response, flags=re.DOTALL)
+    cleaned = cleaned.strip().upper()
+
+    if cleaned in LABELS:
+        return cleaned
+
+    for label in LABELS:
+        if label in cleaned:
+            return label
+
+    return "IGNORE"
+
+
+def _ollama_predict(texts, model_name):
+    try:
+        import ollama
+    except Exception as exc:
+        raise RuntimeError("Ollama is not installed or not available.") from exc
+
+    results = []
+    for text in texts:
+        prompt = CLASSIFY_PROMPT.format(sentence=text)
+        response = ollama.chat(
+            model=model_name,
+            messages=[{"role": "user", "content": prompt}],
+            options={"temperature": 0},
+        )
+        raw = response["message"]["content"]
+        label = _extract_label(raw)
+        results.append({"label": label, "score": 1.0})
+    return results
+
+
+def _set_active_model(model_name=None):
+    global ACTIVE_MODEL_NAME, ACTIVE_MODEL_KIND, pipe
+
+    kind, model_id = _resolve_model(model_name)
+    if model_id == ACTIVE_MODEL_NAME and kind == ACTIVE_MODEL_KIND:
+        return
+
+    ACTIVE_MODEL_NAME = model_id
+    ACTIVE_MODEL_KIND = kind
+
+    if kind == "hf":
+        print(f"Loading model from: {model_id}")
+        print("Loading model...")
+        pipe = _load_hf_pipeline(model_id)
+        print("Model ready.")
+    else:
+        pipe = None
+        print(f"Using Ollama model: {model_id}")
+
+
+_set_active_model(DEFAULT_MODEL_NAME)
 
 
 def heuristic_classify(text, meta=None):
@@ -105,20 +213,32 @@ def heuristic_classify(text, meta=None):
     return None
 
 
-def classify_blocks(blocks):
+def classify_blocks(blocks, model_name=None):
+    _set_active_model(model_name)
+
     texts = [b["text"] for b in blocks]
-    results = pipe(texts)
+    if ACTIVE_MODEL_KIND == "ollama":
+        results = _ollama_predict(texts, ACTIVE_MODEL_NAME)
+    else:
+        results = pipe(texts)
 
     classified = []
     for block, result in zip(blocks, results):
-        model_label = RAW_ID2LABEL.get(result["label"], "IGNORE")
-        confidence = result["score"]
+        if ACTIVE_MODEL_KIND == "ollama":
+            model_label = result["label"]
+            confidence = result["score"]
+        else:
+            model_label = RAW_ID2LABEL.get(result["label"], "IGNORE")
+            confidence = result["score"]
 
         heuristic = heuristic_classify(block["text"], block)
 
         if heuristic:
             final_label = heuristic
             source = "heuristic"
+        elif ACTIVE_MODEL_KIND == "ollama":
+            final_label = model_label
+            source = "ollama"
         elif confidence >= CONFIDENCE_THRESHOLD:
             final_label = model_label
             source = "model"

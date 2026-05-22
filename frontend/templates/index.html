@@ -31,49 +31,71 @@
                         Upload an activity sheet to generate your task list.
                     </div>
                 </div>
-                <button
-                    id="themeToggle"
-                    type="button"
-                    class="flex h-6 w-6 items-center justify-center text-zinc-400 hover:opacity-80"
-                    aria-label="Toggle theme"
-                >
-                    <svg
-                        id="themeIconMoon"
-                        class="h-3.5 w-3.5"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        stroke-width="1.5"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        aria-hidden="true"
+                <div class="flex items-center gap-3">
+                    <label
+                        class="flex items-center gap-2 text-[11px] text-zinc-400 dark:text-zinc-500"
                     >
-                        <path
-                            d="M21 12.5A8.5 8.5 0 0 1 11.5 3a7 7 0 1 0 9.5 9.5z"
-                        />
-                    </svg>
-                    <svg
-                        id="themeIconSun"
-                        class="h-3.5 w-3.5 hidden"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        stroke-width="1.5"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        aria-hidden="true"
+                        <span class="uppercase tracking-wide">Model</span>
+                        <select
+                            id="modelSelect"
+                            class="h-7 rounded-md border border-zinc-200 bg-white px-2 text-[11px] text-zinc-600 shadow-sm outline-none transition focus:border-zinc-300 dark:border-zinc-700 dark:bg-zinc-800 dark:text-zinc-300"
+                        >
+                            <option value="firewolf">firewolf (local)</option>
+                            <option value="distilbert-base-uncased">
+                                distilbert-base-uncased (raw)
+                            </option>
+                            <option value="mistral:latest">
+                                mistral:latest (ollama)
+                            </option>
+                            <option value="llama3.2:latest">
+                                llama3.2:latest (ollama)
+                            </option>
+                        </select>
+                    </label>
+                    <button
+                        id="themeToggle"
+                        type="button"
+                        class="flex h-6 w-6 items-center justify-center text-zinc-400 hover:opacity-80"
+                        aria-label="Toggle theme"
                     >
-                        <circle cx="12" cy="12" r="4" />
-                        <path d="M12 2v2" />
-                        <path d="M12 20v2" />
-                        <path d="M4.93 4.93l1.41 1.41" />
-                        <path d="M17.66 17.66l1.41 1.41" />
-                        <path d="M2 12h2" />
-                        <path d="M20 12h2" />
-                        <path d="M4.93 19.07l1.41-1.41" />
-                        <path d="M17.66 6.34l1.41-1.41" />
-                    </svg>
-                </button>
+                        <svg
+                            id="themeIconMoon"
+                            class="h-3.5 w-3.5"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            aria-hidden="true"
+                        >
+                            <path
+                                d="M21 12.5A8.5 8.5 0 0 1 11.5 3a7 7 0 1 0 9.5 9.5z"
+                            />
+                        </svg>
+                        <svg
+                            id="themeIconSun"
+                            class="h-3.5 w-3.5 hidden"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            aria-hidden="true"
+                        >
+                            <circle cx="12" cy="12" r="4" />
+                            <path d="M12 2v2" />
+                            <path d="M12 20v2" />
+                            <path d="M4.93 4.93l1.41 1.41" />
+                            <path d="M17.66 17.66l1.41 1.41" />
+                            <path d="M2 12h2" />
+                            <path d="M20 12h2" />
+                            <path d="M4.93 19.07l1.41-1.41" />
+                            <path d="M17.66 6.34l1.41-1.41" />
+                        </svg>
+                    </button>
+                </div>
             </div>
 
             <div class="px-6 mt-10">
@@ -280,6 +302,7 @@
             const themeToggle = document.getElementById("themeToggle");
             const themeIconMoon = document.getElementById("themeIconMoon");
             const themeIconSun = document.getElementById("themeIconSun");
+            const modelSelect = document.getElementById("modelSelect");
             const legendModal = document.getElementById("legendModal");
             const legendModalPanel =
                 document.getElementById("legendModalPanel");
@@ -348,6 +371,13 @@
                     document.documentElement.classList.contains("dark");
                 themeIconMoon.classList.toggle("hidden", isDark);
                 themeIconSun.classList.toggle("hidden", !isDark);
+            };
+
+            const initializeModel = () => {
+                const stored = localStorage.getItem("model");
+                if (stored) {
+                    modelSelect.value = stored;
+                }
             };
 
             const clearDisplay = () => {
@@ -708,6 +738,7 @@
 
                 const formData = new FormData();
                 formData.append("file", file);
+                formData.append("model", modelSelect.value);
 
                 try {
                     const response = await fetch("/analyze", {
@@ -748,11 +779,16 @@
             };
 
             initializeTheme();
+            initializeModel();
 
             themeToggle.addEventListener("click", () => {
                 const isDark =
                     document.documentElement.classList.contains("dark");
                 applyTheme(isDark ? "light" : "dark");
+            });
+
+            modelSelect.addEventListener("change", () => {
+                localStorage.setItem("model", modelSelect.value);
             });
 
             legendTrigger.addEventListener("click", openLegendModal);

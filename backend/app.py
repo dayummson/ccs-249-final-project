@@ -91,7 +91,8 @@ def analyze():
         print(f"[DEBUG BLOCKS]: ", blocks)
 
         # Next: Classify blocks
-        classified = classify_blocks(blocks)
+        requested_model = request.form.get("model") or request.args.get("model")
+        classified = classify_blocks(blocks, model_name=requested_model)
         briefing = group_to_briefing(classified)
 
         # Next: Calculate quality metrics for the frontend
