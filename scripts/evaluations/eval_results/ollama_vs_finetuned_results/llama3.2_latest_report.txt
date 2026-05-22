@@ -1,0 +1,20 @@
+Model: llama3.2:latest (ollama)
+Samples: 1195
+
+Accuracy : 0.4192
+Precision: 0.4020
+Recall   : 0.4192
+F1 Score : 0.3673
+
+                   precision    recall  f1-score   support
+
+       ADMIN_TRAP       0.41      0.84      0.55       199
+           IGNORE       0.50      0.12      0.20       197
+   OPTIONAL_BONUS       0.63      0.67      0.65       199
+    PRE_REQUISITE       0.24      0.49      0.33       199
+   TECHNICAL_TASK       0.63      0.39      0.48       201
+WEIGHTED_PRIORITY       0.00      0.00      0.00       199
+
+        micro avg       0.42      0.42      0.42      1194
+        macro avg       0.40      0.42      0.37      1194
+     weighted avg       0.40      0.42      0.37      1194

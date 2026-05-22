@@ -1,4 +1,233 @@
 text,true_label
+Please Upload the 1/4 sheet to the faculty room by Friday 8:45 AM.,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 3:15 PM.,ADMIN_TRAP
+Filenames must be: Cruz_ACT_5380.pdf,ADMIN_TRAP
+Note: Upload your output in a legal size to LMS at Room 161.,ADMIN_TRAP
+Staple the A4 bond paper at the bottom-left and bring it to Room 325.,ADMIN_TRAP
+Filenames must be: Dom_LAB_3051.pdf,ADMIN_TRAP
+Please Forward the A4 bond paper to the Admin Office by Wednesday 7:15 PM.,ADMIN_TRAP
+Strictly no late submissions. Upload it before 11:15 AM on Thursday.,ADMIN_TRAP
+Filenames must be: Reyes_LAB_5231.pdf,ADMIN_TRAP
+Staple the 1/4 sheet at the top-left and bring it to Room 257.,ADMIN_TRAP
+Filenames must be: Santiago_PROJ_1831.pdf,ADMIN_TRAP
+Please Turn in the long brown folder to the faculty room by Thursday 10:15 AM.,ADMIN_TRAP
+Please Pass the 1/4 sheet to the Class President by Monday 9:00 PM.,ADMIN_TRAP
+Filenames must be: Perez_QUIZ_3379.pdf,ADMIN_TRAP
+Strictly no late submissions. Attach it before 5:15 AM on Tuesday.,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 12:30 PM.,ADMIN_TRAP
+Please Pass the long brown folder to the LMS by Wednesday 7:30 PM.,ADMIN_TRAP
+Note: Direct your output in a intermediate pad to faculty room at Room 440.,ADMIN_TRAP
+Staple the A4 bond paper at the top-right and bring it to Room 202.,ADMIN_TRAP
+Strictly no late submissions. Turn in it before 5:30 AM on Wednesday.,ADMIN_TRAP
+Please Pass the short white folder to the Admin Office by Saturday 7:45 PM.,ADMIN_TRAP
+"Use A4 bond paper for calculations; otherwise, you will lose 43 points.",ADMIN_TRAP
+Please Upload the long brown folder to the Class President by Friday 6:00 PM.,ADMIN_TRAP
+Note: Upload your output in a legal size to Admin Office at Room 382.,ADMIN_TRAP
+Note: Hand over your output in a yellow pad to guard house at Room 117.,ADMIN_TRAP
+"Use A4 bond paper for calculations; otherwise, you will lose 41 points.",ADMIN_TRAP
+Strictly no late submissions. Hand over it before 3:45 PM on Friday.,ADMIN_TRAP
+Staple the yellow pad at the top-left and bring it to Room 306.,ADMIN_TRAP
+"Use long brown folder for calculations; otherwise, you will lose 19 points.",ADMIN_TRAP
+Strictly no late submissions. Submit it before 9:00 AM on Friday.,ADMIN_TRAP
+Warning: Submissions in .zip will be failed by 10:30 PM.,ADMIN_TRAP
+Strictly no late submissions. Hand over it before 1:00 AM on Saturday.,ADMIN_TRAP
+Strictly no late submissions. Hand over it before 5:45 PM on Thursday.,ADMIN_TRAP
+Filenames must be: Santiago_PROJ_9421.pdf,ADMIN_TRAP
+Note: Attach your output in a short white folder to LMS at Room 103.,ADMIN_TRAP
+Note: Hand over your output in a yellow pad to faculty room at Room 369.,ADMIN_TRAP
+Please Turn in the A4 bond paper to the faculty room by Friday 11:45 PM.,ADMIN_TRAP
+Strictly no late submissions. Attach it before 3:45 AM on Thursday.,ADMIN_TRAP
+Note: Turn in your output in a intermediate pad to Admin Office at Room 181.,ADMIN_TRAP
+Filenames must be: Dom_LAB_2377.pdf,ADMIN_TRAP
+Strictly no late submissions. Forward it before 8:00 PM on Tuesday.,ADMIN_TRAP
+Strictly no late submissions. Turn in it before 2:00 PM on Friday.,ADMIN_TRAP
+"Use legal size for calculations; otherwise, you will lose 47 points.",ADMIN_TRAP
+Filenames must be: Santiago_LAB_745.pdf,ADMIN_TRAP
+Strictly no late submissions. Hand over it before 2:30 AM on Thursday.,ADMIN_TRAP
+Staple the short white folder at the top-right and bring it to Room 464.,ADMIN_TRAP
+Strictly no late submissions. Direct it before 2:30 AM on Monday.,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 5:00 AM.,ADMIN_TRAP
+Strictly no late submissions. Upload it before 4:45 PM on Friday.,ADMIN_TRAP
+Strictly no late submissions. Direct it before 4:45 PM on Tuesday.,ADMIN_TRAP
+Note: Attach your output in a long brown folder to Google Classroom at Room 426.,ADMIN_TRAP
+Please Turn in the yellow pad to the Messenger by Thursday 8:45 AM.,ADMIN_TRAP
+Note: Forward your output in a 1/4 sheet to Google Classroom at Room 380.,ADMIN_TRAP
+"Use long brown folder for calculations; otherwise, you will lose 28 points.",ADMIN_TRAP
+Filenames must be: Santiago_ACT_1383.pdf,ADMIN_TRAP
+"Use A4 bond paper for calculations; otherwise, you will lose 28 points.",ADMIN_TRAP
+Note: Only blue ink is allowed for the short white folder submission.,ADMIN_TRAP
+"Use legal size for calculations; otherwise, you will lose 36 points.",ADMIN_TRAP
+Strictly no late submissions. Hand over it before 8:00 PM on Monday.,ADMIN_TRAP
+Please Hand over the yellow pad to the guard house by Thursday 8:30 PM.,ADMIN_TRAP
+"To prepare, initialize the Tailwind CSS config v5.6.",PRE_REQUISITE
+"Ensure you first, configure the 24GB RAM allocation v2.9.",PRE_REQUISITE
+"Ensure you first, clone the provided CSV v1.7.",PRE_REQUISITE
+"As a first step, import the latest Fedora updates v5.6.",PRE_REQUISITE
+"Before you begin, clone a virtual environment v2.1.",PRE_REQUISITE
+"Before you begin, install the Python 3.10 interpreter v4.2.",PRE_REQUISITE
+"Ensure you first, configure the latest Fedora updates v5.4.",PRE_REQUISITE
+"To prepare, install the GitHub repository v2.6.",PRE_REQUISITE
+"To prepare, update a virtual environment v1.9.",PRE_REQUISITE
+"Ensure you first, initialize a virtual environment v5.1.",PRE_REQUISITE
+"To prepare, update supergfxctl for your GPU v4.9.",PRE_REQUISITE
+"To prepare, install the Tailwind CSS config v4.5.",PRE_REQUISITE
+"To prepare, setup the DistilBERT tokenizer v5.3.",PRE_REQUISITE
+"To prepare, configure the 24GB RAM allocation v3.5.",PRE_REQUISITE
+"Prior to starting, import the Kaggle API key v3.3.",PRE_REQUISITE
+"To prepare, download supergfxctl for your GPU v2.9.",PRE_REQUISITE
+"Ensure you first, clone the Neon DB credentials v4.2.",PRE_REQUISITE
+"Prior to starting, install the MNIST dataset v2.7.",PRE_REQUISITE
+"Ensure you first, download a virtual environment v3.0.",PRE_REQUISITE
+"Before you begin, setup the UGREEN power bank driver v2.4.",PRE_REQUISITE
+"Prior to starting, setup the 24GB RAM allocation v3.0.",PRE_REQUISITE
+"Ensure you first, import the UGREEN power bank driver v2.3.",PRE_REQUISITE
+"As a first step, update the SvelteKit boilerplate v2.3.",PRE_REQUISITE
+"To prepare, verify the GitHub repository v1.0.",PRE_REQUISITE
+"To prepare, download the provided CSV v1.0.",PRE_REQUISITE
+"Prior to starting, import the provided CSV v2.9.",PRE_REQUISITE
+"Ensure you first, import the provided CSV v1.7.",PRE_REQUISITE
+"Ensure you first, configure the MNIST dataset v1.0.",PRE_REQUISITE
+"As a first step, setup the UGREEN power bank driver v2.1.",PRE_REQUISITE
+"Before you begin, download the provided CSV v3.4.",PRE_REQUISITE
+"Prior to starting, update a virtual environment v4.1.",PRE_REQUISITE
+"To prepare, install the DistilBERT tokenizer v3.8.",PRE_REQUISITE
+"Before you begin, update Drizzle ORM v4.8.",PRE_REQUISITE
+"Ensure you first, initialize supergfxctl for your GPU v4.9.",PRE_REQUISITE
+"Before you begin, clone the latest Fedora updates v4.5.",PRE_REQUISITE
+"Prior to starting, verify the provided CSV v5.0.",PRE_REQUISITE
+"As a first step, import a virtual environment v5.8.",PRE_REQUISITE
+"Prior to starting, initialize the requirements.txt file v2.7.",PRE_REQUISITE
+"Ensure you first, download the SvelteKit boilerplate v1.6.",PRE_REQUISITE
+"As a first step, download the Tailwind CSS config v4.1.",PRE_REQUISITE
+"As a first step, setup the provided CSV v4.1.",PRE_REQUISITE
+"To prepare, install the DistilBERT tokenizer v1.0.",PRE_REQUISITE
+"Ensure you first, setup the DistilBERT tokenizer v3.8.",PRE_REQUISITE
+"Before you begin, update the NLTK library v1.4.",PRE_REQUISITE
+"To prepare, download a virtual environment v2.3.",PRE_REQUISITE
+"Prior to starting, configure a virtual environment v4.7.",PRE_REQUISITE
+"As a first step, update the MNIST dataset v2.4.",PRE_REQUISITE
+"As a first step, verify a virtual environment v1.8.",PRE_REQUISITE
+"As a first step, configure the UGREEN power bank driver v2.8.",PRE_REQUISITE
+"To prepare, clone the NLTK library v4.4.",PRE_REQUISITE
+"Ensure you first, install the requirements.txt file v3.8.",PRE_REQUISITE
+"Ensure you first, initialize the Neon DB credentials v5.5.",PRE_REQUISITE
+"Ensure you first, install the Tailwind CSS config v1.7.",PRE_REQUISITE
+"Prior to starting, initialize the GitHub repository v3.6.",PRE_REQUISITE
+"To prepare, clone the Tailwind CSS config v1.2.",PRE_REQUISITE
+"Ensure you first, install supergfxctl for your GPU v1.4.",PRE_REQUISITE
+"Ensure you first, initialize the Neon DB credentials v2.5.",PRE_REQUISITE
+"As a first step, initialize Drizzle ORM v2.5.",PRE_REQUISITE
+"Ensure you first, update the GitHub repository v4.7.",PRE_REQUISITE
+"Ensure you first, initialize the GitHub repository v4.4.",PRE_REQUISITE
+"Ensure you first, verify the Tailwind CSS config v4.8.",PRE_REQUISITE
+"To prepare, download the requirements.txt file v5.1.",PRE_REQUISITE
+"As a first step, configure the NLTK library v1.9.",PRE_REQUISITE
+"Ensure you first, import the MNIST dataset v5.3.",PRE_REQUISITE
+"As a first step, configure Drizzle ORM v4.8.",PRE_REQUISITE
+"Prior to starting, clone a virtual environment v3.5.",PRE_REQUISITE
+"Prior to starting, import the MNIST dataset v3.1.",PRE_REQUISITE
+"Ensure you first, configure the GitHub repository v2.0.",PRE_REQUISITE
+"Prior to starting, download the provided CSV v5.1.",PRE_REQUISITE
+"Before you begin, clone the DistilBERT tokenizer v3.4.",PRE_REQUISITE
+"To prepare, download the MNIST dataset v4.3.",PRE_REQUISITE
+"Prior to starting, clone Drizzle ORM v2.7.",PRE_REQUISITE
+"To prepare, setup the requirements.txt file v4.1.",PRE_REQUISITE
+"To prepare, install supergfxctl for your GPU v4.2.",PRE_REQUISITE
+"Prior to starting, import the requirements.txt file v3.4.",PRE_REQUISITE
+"To prepare, update the requirements.txt file v5.6.",PRE_REQUISITE
+"As a first step, import the GitHub repository v3.2.",PRE_REQUISITE
+"Ensure you first, download the UGREEN power bank driver v5.8.",PRE_REQUISITE
+"To prepare, install Drizzle ORM v3.6.",PRE_REQUISITE
+"Prior to starting, import the provided CSV v1.6.",PRE_REQUISITE
+"Prior to starting, setup the Python 3.10 interpreter v5.7.",PRE_REQUISITE
+"Prior to starting, download the provided CSV v2.3.",PRE_REQUISITE
+"Prior to starting, initialize Drizzle ORM v3.2.",PRE_REQUISITE
+"Ensure you first, download supergfxctl for your GPU v2.2.",PRE_REQUISITE
+"As a first step, configure the Python 3.10 interpreter v2.5.",PRE_REQUISITE
+"To prepare, download the Neon DB credentials v5.5.",PRE_REQUISITE
+"Before you begin, configure the SvelteKit boilerplate v2.4.",PRE_REQUISITE
+"Prior to starting, import the 24GB RAM allocation v1.6.",PRE_REQUISITE
+"As a first step, update the SvelteKit boilerplate v5.0.",PRE_REQUISITE
+"Prior to starting, configure the NLTK library v3.9.",PRE_REQUISITE
+"Prior to starting, verify the requirements.txt file v3.9.",PRE_REQUISITE
+"As a first step, setup the UGREEN power bank driver v2.6.",PRE_REQUISITE
+"To prepare, initialize the MNIST dataset v3.5.",PRE_REQUISITE
+"Prior to starting, update a virtual environment v1.6.",PRE_REQUISITE
+"Ensure you first, update the NLTK library v5.2.",PRE_REQUISITE
+"Before you begin, download the NLTK library v2.1.",PRE_REQUISITE
+Please Pass the short white folder to the Messenger by Monday 12:15 PM.,ADMIN_TRAP
+Staple the yellow pad at the top-right and bring it to Room 476.,ADMIN_TRAP
+Staple the long brown folder at the bottom-left and bring it to Room 192.,ADMIN_TRAP
+Strictly no late submissions. Forward it before 2:15 AM on Friday.,ADMIN_TRAP
+"Use long brown folder for calculations; otherwise, you will lose 8 points.",ADMIN_TRAP
+Please Upload the 1/4 sheet to the Messenger by Tuesday 9:45 AM.,ADMIN_TRAP
+Note: Direct your output in a 1/4 sheet to Google Classroom at Room 224.,ADMIN_TRAP
+Note: Attach your output in a legal size to LMS at Room 339.,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 8:00 PM.,ADMIN_TRAP
+Filenames must be: Cruz_PROJ_2602.pdf,ADMIN_TRAP
+Staple the short white folder at the bottom-left and bring it to Room 409.,ADMIN_TRAP
+Warning: Submissions in .docx will be failed by 1:30 AM.,ADMIN_TRAP
+Strictly no late submissions. Hand over it before 9:00 PM on Thursday.,ADMIN_TRAP
+Note: Submit your output in a yellow pad to LMS at Room 349.,ADMIN_TRAP
+Please Hand over the 1/4 sheet to the faculty room by Tuesday 8:15 AM.,ADMIN_TRAP
+"Use intermediate pad for calculations; otherwise, you will lose 30 points.",ADMIN_TRAP
+Note: Pass your output in a yellow pad to Messenger at Room 218.,ADMIN_TRAP
+Filenames must be: Santiago_ACT_4517.pdf,ADMIN_TRAP
+Note: Forward your output in a 1/4 sheet to Class President at Room 368.,ADMIN_TRAP
+Filenames must be: Dom_LAB_373.pdf,ADMIN_TRAP
+Warning: Submissions in .rar will be failed by 9:00 PM.,ADMIN_TRAP
+Filenames must be: Dom_QUIZ_4041.pdf,ADMIN_TRAP
+"Use 1/4 sheet for calculations; otherwise, you will lose 19 points.",ADMIN_TRAP
+Staple the short white folder at the bottom-left and bring it to Room 107.,ADMIN_TRAP
+Filenames must be: Santiago_QUIZ_7489.pdf,ADMIN_TRAP
+Filenames must be: Santiago_QUIZ_2939.pdf,ADMIN_TRAP
+Please Forward the intermediate pad to the LMS by Tuesday 10:15 AM.,ADMIN_TRAP
+Note: Hand over your output in a intermediate pad to Admin Office at Room 155.,ADMIN_TRAP
+Filenames must be: Santiago_QUIZ_3854.pdf,ADMIN_TRAP
+Filenames must be: Cruz_PROJ_3022.pdf,ADMIN_TRAP
+Staple the yellow pad at the top-right and bring it to Room 448.,ADMIN_TRAP
+Staple the intermediate pad at the bottom-left and bring it to Room 221.,ADMIN_TRAP
+Note: Forward your output in a long brown folder to Google Classroom at Room 287.,ADMIN_TRAP
+Please Upload the 1/4 sheet to the faculty room by Friday 4:30 AM.,ADMIN_TRAP
+Strictly no late submissions. Pass it before 3:15 AM on Wednesday.,ADMIN_TRAP
+Strictly no late submissions. Forward it before 6:15 AM on Tuesday.,ADMIN_TRAP
+Filenames must be: Dom_QUIZ_5806.pdf,ADMIN_TRAP
+Strictly no late submissions. Pass it before 3:45 PM on Thursday.,ADMIN_TRAP
+Strictly no late submissions. Submit it before 9:45 AM on Wednesday.,ADMIN_TRAP
+Strictly no late submissions. Direct it before 3:45 PM on Saturday.,ADMIN_TRAP
+Staple the long brown folder at the top-left and bring it to Room 164.,ADMIN_TRAP
+Staple the yellow pad at the top-right and bring it to Room 304.,ADMIN_TRAP
+Filenames must be: Cruz_PROJ_3762.pdf,ADMIN_TRAP
+"Use A4 bond paper for calculations; otherwise, you will lose 42 points.",ADMIN_TRAP
+Note: Hand over your output in a 1/4 sheet to LMS at Room 400.,ADMIN_TRAP
+Strictly no late submissions. Forward it before 3:15 PM on Friday.,ADMIN_TRAP
+Note: Upload your output in a intermediate pad to faculty room at Room 432.,ADMIN_TRAP
+Please Upload the short white folder to the Google Classroom by Thursday 9:00 PM.,ADMIN_TRAP
+Warning: Submissions in .docx will be failed by 11:45 AM.,ADMIN_TRAP
+Please Turn in the yellow pad to the guard house by Monday 11:30 PM.,ADMIN_TRAP
+Note: Attach your output in a yellow pad to guard house at Room 425.,ADMIN_TRAP
+Filenames must be: Reyes_LAB_7816.pdf,ADMIN_TRAP
+Staple the intermediate pad at the bottom-left and bring it to Room 342.,ADMIN_TRAP
+"Use yellow pad for calculations; otherwise, you will lose 10 points.",ADMIN_TRAP
+Filenames must be: Dom_PROJ_6694.pdf,ADMIN_TRAP
+Note: Forward your output in a short white folder to LMS at Room 470.,ADMIN_TRAP
+Please Hand over the 1/4 sheet to the Messenger by Saturday 3:15 PM.,ADMIN_TRAP
+Please Direct the yellow pad to the Class President by Tuesday 10:00 AM.,ADMIN_TRAP
+Staple the 1/4 sheet at the top-left and bring it to Room 439.,ADMIN_TRAP
+Staple the 1/4 sheet at the top-right and bring it to Room 170.,ADMIN_TRAP
+Strictly no late submissions. Upload it before 5:30 PM on Thursday.,ADMIN_TRAP
+Strictly no late submissions. Submit it before 3:00 AM on Saturday.,ADMIN_TRAP
+Staple the intermediate pad at the top-right and bring it to Room 261.,ADMIN_TRAP
+Staple the legal size at the bottom-left and bring it to Room 223.,ADMIN_TRAP
+Please Turn in the legal size to the faculty room by Tuesday 12:30 AM.,ADMIN_TRAP
+"Use long brown folder for calculations; otherwise, you will lose 26 points.",ADMIN_TRAP
+Warning: Submissions in .docx will be failed by 3:15 PM.,ADMIN_TRAP
+"Use long brown folder for calculations; otherwise, you will lose 14 points.",ADMIN_TRAP
+Strictly no late submissions. Submit it before 10:30 AM on Wednesday.,ADMIN_TRAP
+"Use 1/4 sheet for calculations; otherwise, you will lose 25 points.",ADMIN_TRAP
+Note: Submit your output in a yellow pad to Google Classroom at Room 204.,ADMIN_TRAP
+Please Submit the short white folder to the Class President by Saturday 6:30 PM.,ADMIN_TRAP
+Please Forward the A4 bond paper to the Messenger by Wednesday 9:00 PM.,ADMIN_TRAP
 "Implement a linked list using Python classes and test all operations.",TECHNICAL_TASK
 "Write a recursive function that computes the nth Fibonacci number.",TECHNICAL_TASK
 "Create a REST API endpoint that accepts JSON and returns a prediction.",TECHNICAL_TASK
@@ -96,3 +325,874 @@ text,true_label
 "Answer:",IGNORE
 "Paste the graph below.",IGNORE
 "Once done, paste the 10 longest vectors below:",TECHNICAL_TASK
+Note: Only blue ink is allowed for the long brown folder submission.,ADMIN_TRAP
+Note: Only blue ink is allowed for the 1/4 sheet submission.,ADMIN_TRAP
+Filenames must be: Dom_PROJ_1411.pdf,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 12:45 AM.,ADMIN_TRAP
+"Use 1/4 sheet for calculations; otherwise, you will lose 40 points.",ADMIN_TRAP
+Filenames must be: Perez_ACT_5150.pdf,ADMIN_TRAP
+Filenames must be: Reyes_QUIZ_3709.pdf,ADMIN_TRAP
+Filenames must be: Santiago_LAB_3182.pdf,ADMIN_TRAP
+Please Attach the short white folder to the guard house by Monday 1:30 AM.,ADMIN_TRAP
+Please Pass the A4 bond paper to the faculty room by Saturday 10:45 PM.,ADMIN_TRAP
+Note: Only black ink is allowed for the short white folder submission.,ADMIN_TRAP
+Please Upload the 1/4 sheet to the faculty room by Friday 8:45 AM.,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 3:15 PM.,ADMIN_TRAP
+Filenames must be: Cruz_ACT_5380.pdf,ADMIN_TRAP
+Note: Upload your output in a legal size to LMS at Room 161.,ADMIN_TRAP
+Strictly no late submissions. Attach it before 5:15 AM on Tuesday.,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 12:30 PM.,ADMIN_TRAP
+Please Pass the long brown folder to the LMS by Wednesday 7:30 PM.,ADMIN_TRAP
+Note: Direct your output in a intermediate pad to faculty room at Room 440.,ADMIN_TRAP
+Staple the A4 bond paper at the top-right and bring it to Room 202.,ADMIN_TRAP
+Strictly no late submissions. Turn in it before 5:30 AM on Wednesday.,ADMIN_TRAP
+Please Pass the short white folder to the Admin Office by Saturday 7:45 PM.,ADMIN_TRAP
+"Use A4 bond paper for calculations; otherwise, you will lose 43 points.",ADMIN_TRAP
+Please Upload the long brown folder to the Class President by Friday 6:00 PM.,ADMIN_TRAP
+Note: Upload your output in a legal size to Admin Office at Room 382.,ADMIN_TRAP
+Note: Hand over your output in a yellow pad to guard house at Room 117.,ADMIN_TRAP
+"Use A4 bond paper for calculations; otherwise, you will lose 41 points.",ADMIN_TRAP
+Strictly no late submissions. Hand over it before 3:45 PM on Friday.,ADMIN_TRAP
+Staple the yellow pad at the top-left and bring it to Room 306.,ADMIN_TRAP
+"Use long brown folder for calculations; otherwise, you will lose 19 points.",ADMIN_TRAP
+Strictly no late submissions. Submit it before 9:00 AM on Friday.,ADMIN_TRAP
+Warning: Submissions in .zip will be failed by 10:30 PM.,ADMIN_TRAP
+Strictly no late submissions. Hand over it before 1:00 AM on Saturday.,ADMIN_TRAP
+Strictly no late submissions. Hand over it before 5:45 PM on Thursday.,ADMIN_TRAP
+Filenames must be: Santiago_PROJ_9421.pdf,ADMIN_TRAP
+Note: Attach your output in a short white folder to LMS at Room 103.,ADMIN_TRAP
+Note: Hand over your output in a yellow pad to faculty room at Room 369.,ADMIN_TRAP
+Please Turn in the A4 bond paper to the faculty room by Friday 11:45 PM.,ADMIN_TRAP
+Strictly no late submissions. Attach it before 3:45 AM on Thursday.,ADMIN_TRAP
+Note: Turn in your output in a intermediate pad to Admin Office at Room 181.,ADMIN_TRAP
+Filenames must be: Dom_LAB_2377.pdf,ADMIN_TRAP
+Strictly no late submissions. Forward it before 8:00 PM on Tuesday.,ADMIN_TRAP
+Strictly no late submissions. Turn in it before 2:00 PM on Friday.,ADMIN_TRAP
+"Use legal size for calculations; otherwise, you will lose 47 points.",ADMIN_TRAP
+Filenames must be: Santiago_LAB_745.pdf,ADMIN_TRAP
+Strictly no late submissions. Hand over it before 2:30 AM on Thursday.,ADMIN_TRAP
+Staple the short white folder at the top-right and bring it to Room 464.,ADMIN_TRAP
+Strictly no late submissions. Direct it before 2:30 AM on Monday.,ADMIN_TRAP
+Warning: Submissions in .png will be failed by 5:00 AM.,ADMIN_TRAP
+Strictly no late submissions. Upload it before 4:45 PM on Friday.,ADMIN_TRAP
+Strictly no late submissions. Direct it before 4:45 PM on Tuesday.,ADMIN_TRAP
+
+The study of Cybersecurity involves encryption and related ideas.,IGNORE
+"Hello class, The traffic in Iloilo was bad today.",IGNORE
+We will discuss Artificial Intelligence at 10:30 PM.,IGNORE
+Polymorphism is essential for understanding Artificial Intelligence.,IGNORE
+Unit 18: Cybersecurity - Part 3,IGNORE
+Polymorphism was originally developed for Operating Systems.,IGNORE
+Good morning everyone. The traffic in Iloilo was bad today.,IGNORE
+The study of Data Science involves polymorphism and related ideas.,IGNORE
+Unit 9: Web Development - Part 3,IGNORE
+Inheritance can be difficult to master in Software Engineering.,IGNORE
+Good morning everyone. Is the aircon too cold?,IGNORE
+Unit 3: Networking - Part 1,IGNORE
+Unit 13: Software Engineering - Part 4,IGNORE
+Unit 16: Data Science - Part 3,IGNORE
+We will discuss Software Engineering at 10:30 PM.,IGNORE
+Unit 1: Discrete Math - Part 3,IGNORE
+Good morning everyone. I hope you had a good lunch.,IGNORE
+The study of Web Development involves recursion and related ideas.,IGNORE
+The study of Software Engineering involves pointers and related ideas.,IGNORE
+Pointers is essential for understanding Artificial Intelligence.,IGNORE
+Arrays can be difficult to master in Networking.,IGNORE
+Encryption is a fundamental concept in Discrete Math.,IGNORE
+Unit 5: Operating Systems - Part 1,IGNORE
+We will discuss Cybersecurity at 8:00 PM.,IGNORE
+The study of Discrete Math involves polymorphism and related ideas.,IGNORE
+The study of Data Science involves pointers and related ideas.,IGNORE
+Unit 9: Operating Systems - Part 4,IGNORE
+The study of Artificial Intelligence involves encryption and related ideas.,IGNORE
+Unit 20: Cybersecurity - Part 2,IGNORE
+The study of Cybersecurity involves arrays and related ideas.,IGNORE
+Arrays is widely used within Web Development.,IGNORE
+Unit 18: Artificial Intelligence - Part 4,IGNORE
+Loops was originally developed for Artificial Intelligence.,IGNORE
+Normalization is widely used within Artificial Intelligence.,IGNORE
+We will discuss Data Science at 5:30 PM.,IGNORE
+We will discuss Data Science at 4:30 PM.,IGNORE
+Arrays is discussed in detail during Networking.,IGNORE
+The study of Web Development involves arrays and related ideas.,IGNORE
+The study of Discrete Math involves normalization and related ideas.,IGNORE
+Recursion is widely used within Cybersecurity.,IGNORE
+The study of Operating Systems involves recursion and related ideas.,IGNORE
+Encryption was originally developed for Data Science.,IGNORE
+Inheritance was originally developed for Networking.,IGNORE
+Hi guys. Is the aircon too cold?,IGNORE
+Inheritance is essential for understanding Data Science.,IGNORE
+Unit 18: Discrete Math - Part 5,IGNORE
+Unit 4: Software Engineering - Part 5,IGNORE
+We will discuss Cybersecurity at 11:30 PM.,IGNORE
+Unit 17: Cybersecurity - Part 3,IGNORE
+We will discuss Web Development at 11:30 PM.,IGNORE
+Encryption is discussed in detail during Artificial Intelligence.,IGNORE
+Unit 13: Operating Systems - Part 4,IGNORE
+We will discuss Discrete Math at 12:00 PM.,IGNORE
+Loops is widely used within Networking.,IGNORE
+We will discuss Data Science at 9:30 PM.,IGNORE
+Welcome back to another session. Is the aircon too cold?,IGNORE
+The study of Cybersecurity involves loops and related ideas.,IGNORE
+Unit 8: Data Science - Part 4,IGNORE
+The study of Data Science involves loops and related ideas.,IGNORE
+Unit 5: Software Engineering - Part 1,IGNORE
+Unit 15: Networking - Part 4,IGNORE
+Unit 11: Networking - Part 1,IGNORE
+Unit 12: Cybersecurity - Part 1,IGNORE
+Hi guys. I hope you had a good lunch.,IGNORE
+Unit 13: Discrete Math - Part 4,IGNORE
+Unit 12: Data Science - Part 1,IGNORE
+Polymorphism is widely used within Networking.,IGNORE
+We will discuss Artificial Intelligence at 4:30 PM.,IGNORE
+The study of Networking involves arrays and related ideas.,IGNORE
+Recursion was originally developed for Cybersecurity.,IGNORE
+Unit 12: Web Development - Part 4,IGNORE
+Welcome back to another session. The traffic in Iloilo was bad today.,IGNORE
+We will discuss Cybersecurity at 10:00 PM.,IGNORE
+Encryption is widely used within Artificial Intelligence.,IGNORE
+Unit 7: Operating Systems - Part 5,IGNORE
+We will discuss Data Science at 5:00 PM.,IGNORE
+Arrays is widely used within Software Engineering.,IGNORE
+The study of Software Engineering involves normalization and related ideas.,IGNORE
+We will discuss Discrete Math at 9:00 PM.,IGNORE
+Normalization was originally developed for Web Development.,IGNORE
+Recursion can be difficult to master in Software Engineering.,IGNORE
+The study of Networking involves encryption and related ideas.,IGNORE
+We will discuss Software Engineering at 8:30 PM.,IGNORE
+Good morning everyone. Wait for a while.,IGNORE
+The study of Discrete Math involves pointers and related ideas.,IGNORE
+Unit 11: Cybersecurity - Part 4,IGNORE
+Arrays is essential for understanding Networking.,IGNORE
+Pointers is widely used within Operating Systems.,IGNORE
+We will discuss Artificial Intelligence at 6:30 PM.,IGNORE
+Loops is essential for understanding Networking.,IGNORE
+Unit 3: Discrete Math - Part 3,IGNORE
+Unit 5: Artificial Intelligence - Part 4,IGNORE
+Recursion can be difficult to master in Discrete Math.,IGNORE
+We will discuss Operating Systems at 10:30 PM.,IGNORE
+Unit 18: Cybersecurity - Part 4,IGNORE
+Unit 8: Cybersecurity - Part 4,IGNORE
+We will discuss Data Science at 3:30 PM.,IGNORE
+We will discuss Software Engineering at 4:30 PM.,IGNORE
+We will discuss Networking at 5:00 PM.,IGNORE
+We will discuss Discrete Math at 10:00 PM.,IGNORE
+Pointers is discussed in detail during Operating Systems.,IGNORE
+Unit 19: Cybersecurity - Part 4,IGNORE
+The study of Artificial Intelligence involves recursion and related ideas.,IGNORE
+The study of Discrete Math involves recursion and related ideas.,IGNORE
+Unit 19: Web Development - Part 5,IGNORE
+Loops is widely used within Cybersecurity.,IGNORE
+We will discuss Web Development at 6:30 PM.,IGNORE
+Unit 7: Software Engineering - Part 1,IGNORE
+The study of Web Development involves normalization and related ideas.,IGNORE
+Unit 11: Operating Systems - Part 3,IGNORE
+Inheritance is essential for understanding Networking.,IGNORE
+The study of Data Science involves inheritance and related ideas.,IGNORE
+Unit 16: Cybersecurity - Part 3,IGNORE
+Unit 7: Operating Systems - Part 4,IGNORE
+We will discuss Data Science at 7:00 PM.,IGNORE
+Encryption is essential for understanding Networking.,IGNORE
+The study of Web Development involves polymorphism and related ideas.,IGNORE
+Unit 1: Software Engineering - Part 5,IGNORE
+The study of Operating Systems involves normalization and related ideas.,IGNORE
+Inheritance is a fundamental concept in Discrete Math.,IGNORE
+"Hello class, I hope you had a good lunch.",IGNORE
+We will discuss Discrete Math at 6:30 PM.,IGNORE
+We will discuss Data Science at 2:30 PM.,IGNORE
+Normalization is discussed in detail during Operating Systems.,IGNORE
+Pointers is essential for understanding Operating Systems.,IGNORE
+We will discuss Software Engineering at 8:00 PM.,IGNORE
+We will discuss Discrete Math at 4:00 PM.,IGNORE
+Arrays is essential for understanding Web Development.,IGNORE
+Inheritance is widely used within Software Engineering.,IGNORE
+We will discuss Networking at 12:30 PM.,IGNORE
+Welcome back to another session. Please take your seats.,IGNORE
+Polymorphism can be difficult to master in Discrete Math.,IGNORE
+The study of Artificial Intelligence involves normalization and related ideas.,IGNORE
+The study of Networking involves normalization and related ideas.,IGNORE
+We will discuss Web Development at 4:30 PM.,IGNORE
+Unit 2: Data Science - Part 3,IGNORE
+Hi guys. Please take your seats.,IGNORE
+Inheritance is widely used within Artificial Intelligence.,IGNORE
+Unit 9: Cybersecurity - Part 2,IGNORE
+"Hello class, Is the aircon too cold?",IGNORE
+We will discuss Web Development at 10:30 PM.,IGNORE
+Encryption was originally developed for Discrete Math.,IGNORE
+The study of Discrete Math involves inheritance and related ideas.,IGNORE
+The study of Operating Systems involves inheritance and related ideas.,IGNORE
+We will discuss Software Engineering at 3:30 PM.,IGNORE
+Recursion is discussed in detail during Software Engineering.,IGNORE
+The study of Software Engineering involves encryption and related ideas.,IGNORE
+We will discuss Discrete Math at 8:00 PM.,IGNORE
+Arrays can be difficult to master in Cybersecurity.,IGNORE
+Encryption is widely used within Operating Systems.,IGNORE
+The study of Operating Systems involves pointers and related ideas.,IGNORE
+Normalization can be difficult to master in Networking.,IGNORE
+Pointers is discussed in detail during Cybersecurity.,IGNORE
+Unit 6: Web Development - Part 1,IGNORE
+Unit 19: Software Engineering - Part 1,IGNORE
+Unit 1: Cybersecurity - Part 2,IGNORE
+Unit 10: Artificial Intelligence - Part 2,IGNORE
+We will discuss Software Engineering at 2:30 PM.,IGNORE
+We will discuss Web Development at 3:30 PM.,IGNORE
+Unit 13: Networking - Part 5,IGNORE
+Arrays is widely used within Networking.,IGNORE
+Unit 4: Data Science - Part 1,IGNORE
+Unit 8: Discrete Math - Part 5,IGNORE
+Arrays was originally developed for Data Science.,IGNORE
+Unit 6: Operating Systems - Part 4,IGNORE
+Polymorphism is a fundamental concept in Web Development.,IGNORE
+Recursion is a fundamental concept in Artificial Intelligence.,IGNORE
+We will discuss Discrete Math at 11:00 PM.,IGNORE
+Unit 10: Data Science - Part 5,IGNORE
+The study of Cybersecurity involves inheritance and related ideas.,IGNORE
+Unit 14: Artificial Intelligence - Part 1,IGNORE
+We will discuss Data Science at 9:00 PM.,IGNORE
+Unit 11: Software Engineering - Part 1,IGNORE
+Unit 1: Discrete Math - Part 1,IGNORE
+The study of Artificial Intelligence involves loops and related ideas.,IGNORE
+Inheritance was originally developed for Data Science.,IGNORE
+Loops is discussed in detail during Networking.,IGNORE
+Write a function to Extract feature vectors from the raw input.,TECHNICAL_TASK
+Use Pandas to Implement the gradient descent and output the results.,TECHNICAL_TASK
+Implement the gradient descent using the SvelteKit library.,TECHNICAL_TASK
+Write a function to Fine-tune TF-IDF matrix from the raw input.,TECHNICAL_TASK
+Modify the existing code to Compute the feature vectors.,TECHNICAL_TASK
+Use SvelteKit to Fine-tune the tokenized sequences and output the results.,TECHNICAL_TASK
+Analyze the CNN architecture using the Drizzle ORM library.,TECHNICAL_TASK
+Use SvelteKit to Fine-tune the cosine similarity and output the results.,TECHNICAL_TASK
+Exercise 9.2: Extract a script that performs backpropagation.,TECHNICAL_TASK
+Analyze the backpropagation using the SvelteKit library.,TECHNICAL_TASK
+Task 1: Calculate Euclidean distance for the given dataset.,TECHNICAL_TASK
+Write a function to Compute DistilBERT model from the raw input.,TECHNICAL_TASK
+Modify the existing code to Compute the tokenized sequences.,TECHNICAL_TASK
+Exercise 1.4: Compute a script that performs gradient descent.,TECHNICAL_TASK
+Use Drizzle ORM to Train the Euclidean distance and output the results.,TECHNICAL_TASK
+Visualize the MNIST digits using the Scikit-learn library.,TECHNICAL_TASK
+Apply backpropagation techniques to Pre-process the model's accuracy.,TECHNICAL_TASK
+Modify the existing code to Compute the DistilBERT model.,TECHNICAL_TASK
+Use PyTorch to Analyze the cosine similarity and output the results.,TECHNICAL_TASK
+Use Scikit-learn to Compute the stop-word removal and output the results.,TECHNICAL_TASK
+Use Drizzle ORM to Optimize the DistilBERT model and output the results.,TECHNICAL_TASK
+Extract the stop-word removal using the TensorFlow library.,TECHNICAL_TASK
+Use TensorFlow to Optimize the backpropagation and output the results.,TECHNICAL_TASK
+Exercise 7.1: Pre-process a script that performs TF-IDF matrix.,TECHNICAL_TASK
+Task 5: Extract feature vectors for the given dataset.,TECHNICAL_TASK
+Modify the existing code to Train the Euclidean distance.,TECHNICAL_TASK
+Use SvelteKit to Fine-tune the CNN architecture and output the results.,TECHNICAL_TASK
+Write a function to Pre-process tokenized sequences from the raw input.,TECHNICAL_TASK
+Exercise 8.2: Optimize a script that performs Euclidean distance.,TECHNICAL_TASK
+Apply stop-word removal techniques to Visualize the model's accuracy.,TECHNICAL_TASK
+Extract the gradient descent using the PyTorch library.,TECHNICAL_TASK
+Write a function to Compute TF-IDF matrix from the raw input.,TECHNICAL_TASK
+Compute the stop-word removal using the Pandas library.,TECHNICAL_TASK
+Use TensorFlow to Train the tokenized sequences and output the results.,TECHNICAL_TASK
+Modify the existing code to Extract the tokenized sequences.,TECHNICAL_TASK
+Apply stop-word removal techniques to Extract the model's accuracy.,TECHNICAL_TASK
+Task 5: Compute cosine similarity for the given dataset.,TECHNICAL_TASK
+Use Drizzle ORM to Implement the TF-IDF matrix and output the results.,TECHNICAL_TASK
+Write a function to Analyze CNN architecture from the raw input.,TECHNICAL_TASK
+Analyze the confusion matrix using the SvelteKit library.,TECHNICAL_TASK
+Apply MNIST digits techniques to Optimize the model's accuracy.,TECHNICAL_TASK
+Use PyTorch to Analyze the stop-word removal and output the results.,TECHNICAL_TASK
+Modify the existing code to Pre-process the tokenized sequences.,TECHNICAL_TASK
+Write a function to Optimize feature vectors from the raw input.,TECHNICAL_TASK
+Apply cosine similarity techniques to Pre-process the model's accuracy.,TECHNICAL_TASK
+Write a function to Compute cosine similarity from the raw input.,TECHNICAL_TASK
+Exercise 8.4: Analyze a script that performs backpropagation.,TECHNICAL_TASK
+Task 7: Optimize stop-word removal for the given dataset.,TECHNICAL_TASK
+Implement the CNN architecture using the Pandas library.,TECHNICAL_TASK
+Write a function to Calculate gradient descent from the raw input.,TECHNICAL_TASK
+Write a function to Calculate CNN architecture from the raw input.,TECHNICAL_TASK
+Exercise 8.5: Calculate a script that performs tokenized sequences.,TECHNICAL_TASK
+Modify the existing code to Analyze the TF-IDF matrix.,TECHNICAL_TASK
+Exercise 4.1: Pre-process a script that performs MNIST digits.,TECHNICAL_TASK
+Modify the existing code to Optimize the DistilBERT model.,TECHNICAL_TASK
+Extract the MNIST digits using the PyTorch library.,TECHNICAL_TASK
+Write a function to Train tokenized sequences from the raw input.,TECHNICAL_TASK
+Task 7: Train gradient descent for the given dataset.,TECHNICAL_TASK
+Use Drizzle ORM to Extract the backpropagation and output the results.,TECHNICAL_TASK
+Apply MNIST digits techniques to Train the model's accuracy.,TECHNICAL_TASK
+Task 9: Train feature vectors for the given dataset.,TECHNICAL_TASK
+Task 6: Optimize feature vectors for the given dataset.,TECHNICAL_TASK
+Use TensorFlow to Extract the DistilBERT model and output the results.,TECHNICAL_TASK
+Exercise 10.1: Train a script that performs stop-word removal.,TECHNICAL_TASK
+Write a function to Compute tokenized sequences from the raw input.,TECHNICAL_TASK
+Apply backpropagation techniques to Visualize the model's accuracy.,TECHNICAL_TASK
+Task 10: Implement feature vectors for the given dataset.,TECHNICAL_TASK
+Optimize the DistilBERT model using the Scikit-learn library.,TECHNICAL_TASK
+Visualize the gradient descent using the NLTK library.,TECHNICAL_TASK
+Use Pandas to Analyze the DistilBERT model and output the results.,TECHNICAL_TASK
+Write a function to Train stop-word removal from the raw input.,TECHNICAL_TASK
+Exercise 7.4: Optimize a script that performs backpropagation.,TECHNICAL_TASK
+Extract the DistilBERT model using the Drizzle ORM library.,TECHNICAL_TASK
+Modify the existing code to Fine-tune the feature vectors.,TECHNICAL_TASK
+Modify the existing code to Fine-tune the Euclidean distance.,TECHNICAL_TASK
+Exercise 7.2: Optimize a script that performs CNN architecture.,TECHNICAL_TASK
+Compute the DistilBERT model using the TensorFlow library.,TECHNICAL_TASK
+Exercise 6.4: Train a script that performs backpropagation.,TECHNICAL_TASK
+Apply CNN architecture techniques to Pre-process the model's accuracy.,TECHNICAL_TASK
+Use NLTK to Calculate the DistilBERT model and output the results.,TECHNICAL_TASK
+Compute the cosine similarity using the NLTK library.,TECHNICAL_TASK
+Exercise 6.4: Calculate a script that performs feature vectors.,TECHNICAL_TASK
+Modify the existing code to Analyze the DistilBERT model.,TECHNICAL_TASK
+Compute the TF-IDF matrix using the TensorFlow library.,TECHNICAL_TASK
+Write a function to Optimize CNN architecture from the raw input.,TECHNICAL_TASK
+Modify the existing code to Pre-process the stop-word removal.,TECHNICAL_TASK
+Exercise 3.1: Fine-tune a script that performs cosine similarity.,TECHNICAL_TASK
+Task 2: Train DistilBERT model for the given dataset.,TECHNICAL_TASK
+Apply gradient descent techniques to Analyze the model's accuracy.,TECHNICAL_TASK
+Exercise 5.4: Pre-process a script that performs tokenized sequences.,TECHNICAL_TASK
+Train the backpropagation using the Pandas library.,TECHNICAL_TASK
+Use PyTorch to Extract the TF-IDF matrix and output the results.,TECHNICAL_TASK
+Task 4: Optimize stop-word removal for the given dataset.,TECHNICAL_TASK
+Exercise 10.1: Implement a script that performs tokenized sequences.,TECHNICAL_TASK
+Use Scikit-learn to Implement the Euclidean distance and output the results.,TECHNICAL_TASK
+Compute the MNIST digits using the Pandas library.,TECHNICAL_TASK
+Exercise 8.3: Pre-process a script that performs TF-IDF matrix.,TECHNICAL_TASK
+Write a function to Compute MNIST digits from the raw input.,TECHNICAL_TASK
+Write a function to Extract gradient descent from the raw input.,TECHNICAL_TASK
+Use Pandas to Optimize the feature vectors and output the results.,TECHNICAL_TASK
+Apply Euclidean distance techniques to Visualize the model's accuracy.,TECHNICAL_TASK
+Exercise 5.3: Fine-tune a script that performs DistilBERT model.,TECHNICAL_TASK
+Write a function to Compute backpropagation from the raw input.,TECHNICAL_TASK
+Write a function to Analyze TF-IDF matrix from the raw input.,TECHNICAL_TASK
+Modify the existing code to Compute the Euclidean distance.,TECHNICAL_TASK
+Use NLTK to Pre-process the tokenized sequences and output the results.,TECHNICAL_TASK
+Exercise 9.3: Analyze a script that performs tokenized sequences.,TECHNICAL_TASK
+Write a function to Extract Euclidean distance from the raw input.,TECHNICAL_TASK
+Exercise 1.5: Visualize a script that performs CNN architecture.,TECHNICAL_TASK
+Visualize the gradient descent using the Drizzle ORM library.,TECHNICAL_TASK
+Calculate the feature vectors using the Drizzle ORM library.,TECHNICAL_TASK
+Apply feature vectors techniques to Visualize the model's accuracy.,TECHNICAL_TASK
+Exercise 2.4: Implement a script that performs confusion matrix.,TECHNICAL_TASK
+Exercise 7.4: Pre-process a script that performs MNIST digits.,TECHNICAL_TASK
+Task 3: Analyze TF-IDF matrix for the given dataset.,TECHNICAL_TASK
+Visualize the feature vectors using the NLTK library.,TECHNICAL_TASK
+Implement the DistilBERT model using the TensorFlow library.,TECHNICAL_TASK
+Calculate the gradient descent using the NLTK library.,TECHNICAL_TASK
+Visualize the DistilBERT model using the NLTK library.,TECHNICAL_TASK
+Task 4: Compute TF-IDF matrix for the given dataset.,TECHNICAL_TASK
+Exercise 8.2: Extract a script that performs MNIST digits.,TECHNICAL_TASK
+Apply cosine similarity techniques to Extract the model's accuracy.,TECHNICAL_TASK
+Apply TF-IDF matrix techniques to Calculate the model's accuracy.,TECHNICAL_TASK
+Task 5: Extract tokenized sequences for the given dataset.,TECHNICAL_TASK
+Exercise 1.2: Calculate a script that performs stop-word removal.,TECHNICAL_TASK
+Extract the MNIST digits using the Scikit-learn library.,TECHNICAL_TASK
+Extract the stop-word removal using the NLTK library.,TECHNICAL_TASK
+Fine-tune the MNIST digits using the Drizzle ORM library.,TECHNICAL_TASK
+Write a function to Analyze gradient descent from the raw input.,TECHNICAL_TASK
+Use Scikit-learn to Calculate the CNN architecture and output the results.,TECHNICAL_TASK
+Task 2: Calculate gradient descent for the given dataset.,TECHNICAL_TASK
+Task 10: Calculate backpropagation for the given dataset.,TECHNICAL_TASK
+Use Drizzle ORM to Calculate the feature vectors and output the results.,TECHNICAL_TASK
+Exercise 6.5: Extract a script that performs CNN architecture.,TECHNICAL_TASK
+Apply CNN architecture techniques to Extract the model's accuracy.,TECHNICAL_TASK
+Apply cosine similarity techniques to Fine-tune the model's accuracy.,TECHNICAL_TASK
+Exercise 8.5: Optimize a script that performs feature vectors.,TECHNICAL_TASK
+Task 8: Pre-process Euclidean distance for the given dataset.,TECHNICAL_TASK
+Extract the tokenized sequences using the Drizzle ORM library.,TECHNICAL_TASK
+Apply stop-word removal techniques to Train the model's accuracy.,TECHNICAL_TASK
+Exercise 7.5: Pre-process a script that performs gradient descent.,TECHNICAL_TASK
+Use TensorFlow to Compute the MNIST digits and output the results.,TECHNICAL_TASK
+Exercise 8.5: Analyze a script that performs stop-word removal.,TECHNICAL_TASK
+Task 6: Train feature vectors for the given dataset.,TECHNICAL_TASK
+Modify the existing code to Calculate the MNIST digits.,TECHNICAL_TASK
+Use Drizzle ORM to Fine-tune the cosine similarity and output the results.,TECHNICAL_TASK
+Compute the DistilBERT model using the Scikit-learn library.,TECHNICAL_TASK
+Use NLTK to Pre-process the CNN architecture and output the results.,TECHNICAL_TASK
+Use Scikit-learn to Extract the cosine similarity and output the results.,TECHNICAL_TASK
+Task 4: Compute CNN architecture for the given dataset.,TECHNICAL_TASK
+Use Drizzle ORM to Extract the MNIST digits and output the results.,TECHNICAL_TASK
+Compute the CNN architecture using the TensorFlow library.,TECHNICAL_TASK
+Apply TF-IDF matrix techniques to Pre-process the model's accuracy.,TECHNICAL_TASK
+Exercise 7.2: Visualize a script that performs backpropagation.,TECHNICAL_TASK
+Use Pandas to Compute the TF-IDF matrix and output the results.,TECHNICAL_TASK
+Apply DistilBERT model techniques to Pre-process the model's accuracy.,TECHNICAL_TASK
+Write a function to Visualize stop-word removal from the raw input.,TECHNICAL_TASK
+Apply tokenized sequences techniques to Analyze the model's accuracy.,TECHNICAL_TASK
+Write a function to Fine-tune gradient descent from the raw input.,TECHNICAL_TASK
+Modify the existing code to Calculate the TF-IDF matrix.,TECHNICAL_TASK
+Exercise 1.5: Pre-process a script that performs confusion matrix.,TECHNICAL_TASK
+Use NLTK to Pre-process the TF-IDF matrix and output the results.,TECHNICAL_TASK
+Write a function to Extract TF-IDF matrix from the raw input.,TECHNICAL_TASK
+Extract the gradient descent using the Drizzle ORM library.,TECHNICAL_TASK
+Exercise 5.1: Pre-process a script that performs cosine similarity.,TECHNICAL_TASK
+Task 6: Visualize Euclidean distance for the given dataset.,TECHNICAL_TASK
+Implement the Euclidean distance using the Scikit-learn library.,TECHNICAL_TASK
+Exercise 6.1: Implement a script that performs cosine similarity.,TECHNICAL_TASK
+Exercise 2.4: Analyze a script that performs MNIST digits.,TECHNICAL_TASK
+Task 9: Implement cosine similarity for the given dataset.,TECHNICAL_TASK
+Task 7: Fine-tune confusion matrix for the given dataset.,TECHNICAL_TASK
+Exercise 5.4: Fine-tune a script that performs MNIST digits.,TECHNICAL_TASK
+Task 6: Optimize stop-word removal for the given dataset.,TECHNICAL_TASK
+Evaluation: (25 pts) Hyperparameter optimization of Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (15 pts) Fine-tuning YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 10% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 44: Cross-validating YOLOv8 using the CIFAR-10 image set based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+Evaluation: (10 pts) Architecting Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 5% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 38: Fine-tuning LSTM using custom WVSU student data based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 45: Evaluating LSTM using the MNIST corpus based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Architecting Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 25: Fine-tuning YOLOv8 using the Sarcasm Dataset based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Architecting Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 46: Architecting DistilBERT using custom WVSU student data based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 30% of your semester grade.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Preprocessing Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Cross-validating LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Preprocessing YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+The AUC-ROC curve analysis accounts for 20% of your semester grade.,WEIGHTED_PRIORITY
+Evaluation: (40 pts) Fine-tuning LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Hyperparameter optimization of Vision Transformer using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Cross-validating Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 36: Cross-validating Random Forest using the CIFAR-10 image set based on F1-score. Worth 40 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (100 pts) Evaluating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (150 pts) Fine-tuning LSTM using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Fine-tuning Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Evaluating ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Preprocessing YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 23: Preprocessing ResNet-50 using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 24: Hyperparameter optimization of DistilBERT using the CIFAR-10 image set based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 9: Architecting DistilBERT using the CIFAR-10 image set based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 50% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 37: Cross-validating Logistic Regression using the MNIST corpus based on Accuracy. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 10: Fine-tuning DistilBERT using the Sarcasm Dataset based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 1: Fine-tuning YOLOv8 using custom WVSU student data based on F1-score. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 38: Architecting DistilBERT using the IMDb sentiment bank based on AUC-ROC curve. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 20: Evaluating Vision Transformer using custom WVSU student data based on Accuracy. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 36: Evaluating ResNet-50 using the IMDb sentiment bank based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 32: Evaluating Vision Transformer using the CIFAR-10 image set based on F1-score. Worth 50 points.,WEIGHTED_PRIORITY
+(REQUIRED) (40 pts) Preprocessing Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+The Accuracy analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 1: Preprocessing ResNet-50 using the MNIST corpus based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+The Mean Squared Error analysis accounts for 30% of your semester grade.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Preprocessing YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 23: Fine-tuning ResNet-50 using custom WVSU student data based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 25% of your semester grade.,WEIGHTED_PRIORITY
+The F1-score analysis accounts for 40% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 29: Fine-tuning ResNet-50 using the IMDb sentiment bank based on Precision-Recall tradeoff. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 38: Preprocessing Vision Transformer using the CIFAR-10 image set based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 43: Hyperparameter optimization of YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 19: Hyperparameter optimization of ResNet-50 using custom WVSU student data based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+The Precision-Recall tradeoff analysis accounts for 10% of your semester grade.,WEIGHTED_PRIORITY
+Assessment 9: Preprocessing Vision Transformer using the CIFAR-10 image set based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 46: Fine-tuning LSTM using the MNIST corpus based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+(REQUIRED) (75 pts) Hyperparameter optimization of YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Cross-validating Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 27: Evaluating LSTM using the CIFAR-10 image set based on AUC-ROC curve. Worth 10 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (30 pts) Hyperparameter optimization of ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 20: Fine-tuning YOLOv8 using the MNIST corpus based on F1-score. Worth 10 points.,WEIGHTED_PRIORITY
+Evaluation: (50 pts) Fine-tuning LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 48: Fine-tuning Random Forest using the CIFAR-10 image set based on F1-score. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 10: Architecting DistilBERT using the MNIST corpus based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Hyperparameter optimization of Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Architecting LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+(REQUIRED) (50 pts) Architecting LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Fine-tuning YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 26: Fine-tuning DistilBERT using custom WVSU student data based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 28: Fine-tuning Logistic Regression using custom WVSU student data based on AUC-ROC curve. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 6: Architecting Random Forest using the MNIST corpus based on F1-score. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 44: Architecting LSTM using the MNIST corpus based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Fine-tuning DistilBERT using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 2: Preprocessing YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 32: Preprocessing YOLOv8 using the CIFAR-10 image set based on F1-score. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 19: Preprocessing ResNet-50 using the CIFAR-10 image set based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+Evaluation: (15 pts) Evaluating DistilBERT using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 14: Hyperparameter optimization of YOLOv8 using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 30: Hyperparameter optimization of Random Forest using the IMDb sentiment bank based on Accuracy. Worth 20 points.,WEIGHTED_PRIORITY
+MANDATORY: (50 pts) Hyperparameter optimization of Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 36: Architecting Vision Transformer using the MNIST corpus based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+(REQUIRED) (15 pts) Cross-validating DistilBERT using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 34: Evaluating Random Forest using the MNIST corpus based on Mean Squared Error. Worth 50 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Evaluating Logistic Regression using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 4: Architecting YOLOv8 using the IMDb sentiment bank based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (50 pts) Fine-tuning Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Evaluating LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 23: Hyperparameter optimization of YOLOv8 using the Sarcasm Dataset based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Evaluation: (100 pts) Architecting ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 27: Fine-tuning YOLOv8 using custom WVSU student data based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 35: Cross-validating Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+MANDATORY: (20 pts) Evaluating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Cross-validating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Cross-validating YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (30 pts) Fine-tuning DistilBERT using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (75 pts) Fine-tuning YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 44: Cross-validating ResNet-50 using custom WVSU student data based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 26: Evaluating DistilBERT using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 19: Evaluating YOLOv8 using the MNIST corpus based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 9: Preprocessing Vision Transformer using the IMDb sentiment bank based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 10: Cross-validating Vision Transformer using the MNIST corpus based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Evaluation: (75 pts) Architecting Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (50 pts) Hyperparameter optimization of Logistic Regression using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 9: Cross-validating YOLOv8 using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 45: Fine-tuning YOLOv8 using the Sarcasm Dataset based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Fine-tuning Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Cross-validating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 16: Fine-tuning Logistic Regression using the IMDb sentiment bank based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Fine-tuning YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 46: Architecting Random Forest using the CIFAR-10 image set based on Precision-Recall tradeoff. Worth 40 points.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Evaluating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (10 pts) Evaluating Random Forest using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 12: Evaluating DistilBERT using custom WVSU student data based on Precision-Recall tradeoff. Worth 25 points.,WEIGHTED_PRIORITY
+Assessment 46: Cross-validating DistilBERT using custom WVSU student data based on Precision-Recall tradeoff. Worth 30 points.,WEIGHTED_PRIORITY
+MANDATORY: (150 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+(REQUIRED) (20 pts) Fine-tuning Logistic Regression using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 10: Hyperparameter optimization of LSTM using custom WVSU student data based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Cross-validating Vision Transformer using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 3: Hyperparameter optimization of ResNet-50 using the CIFAR-10 image set based on Mean Squared Error. Worth 10 points.,WEIGHTED_PRIORITY
+Assessment 22: Hyperparameter optimization of Logistic Regression using custom WVSU student data based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Preprocessing YOLOv8 using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 16: Cross-validating Random Forest using the IMDb sentiment bank based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Architecting Logistic Regression using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (15 pts) Hyperparameter optimization of Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (40 pts) Evaluating ResNet-50 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 27: Fine-tuning Random Forest using custom WVSU student data based on Mean Squared Error. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 19: Cross-validating ResNet-50 using custom WVSU student data based on F1-score. Worth 150 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (75 pts) Hyperparameter optimization of YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 50: Cross-validating Logistic Regression using the MNIST corpus based on Precision-Recall tradeoff. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 32: Architecting ResNet-50 using the MNIST corpus based on Mean Squared Error. Worth 150 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Hyperparameter optimization of LSTM using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 37: Hyperparameter optimization of LSTM using the IMDb sentiment bank based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 47: Architecting Vision Transformer using the MNIST corpus based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+Assessment 16: Architecting Vision Transformer using custom WVSU student data based on Accuracy. Worth 40 points.,WEIGHTED_PRIORITY
+Assessment 17: Fine-tuning YOLOv8 using the MNIST corpus based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 20: Hyperparameter optimization of Random Forest using the MNIST corpus based on AUC-ROC curve. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 40: Evaluating LSTM using custom WVSU student data based on Mean Squared Error. Worth 20 points.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Preprocessing LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (20 pts) Fine-tuning YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+MAJOR TASK: (15 pts) Fine-tuning Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Fine-tuning ResNet-50 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Evaluation: (20 pts) Evaluating YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 44: Evaluating YOLOv8 using the CIFAR-10 image set based on AUC-ROC curve. Worth 50 points.,WEIGHTED_PRIORITY
+Assessment 50: Hyperparameter optimization of DistilBERT using the Sarcasm Dataset based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 24: Architecting LSTM using the Sarcasm Dataset based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+CRITICAL: (100 pts) Architecting ResNet-50 using the MNIST corpus.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Evaluating Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Architecting YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (10 pts) Evaluating YOLOv8 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 29: Evaluating Vision Transformer using the MNIST corpus based on AUC-ROC curve. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 15: Architecting Vision Transformer using custom WVSU student data based on Accuracy. Worth 50 points.,WEIGHTED_PRIORITY
+MANDATORY: (25 pts) Architecting LSTM using the MNIST corpus.,WEIGHTED_PRIORITY
+Assessment 50: Preprocessing LSTM using the Sarcasm Dataset based on Precision-Recall tradeoff. Worth 15 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (20 pts) Fine-tuning YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (10 pts) Cross-validating Random Forest using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 41: Hyperparameter optimization of ResNet-50 using the Sarcasm Dataset based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+(REQUIRED) (150 pts) Evaluating Logistic Regression using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 44: Evaluating Logistic Regression using the IMDb sentiment bank based on Accuracy. Worth 150 points.,WEIGHTED_PRIORITY
+Assessment 23: Fine-tuning Random Forest using the MNIST corpus based on F1-score. Worth 75 points.,WEIGHTED_PRIORITY
+Assessment 40: Fine-tuning ResNet-50 using the Sarcasm Dataset based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+CRITICAL: (40 pts) Fine-tuning ResNet-50 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 50: Preprocessing Logistic Regression using the MNIST corpus based on AUC-ROC curve. Worth 30 points.,WEIGHTED_PRIORITY
+(REQUIRED) (75 pts) Architecting LSTM using custom WVSU student data.,WEIGHTED_PRIORITY
+CRITICAL: (30 pts) Evaluating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+MANDATORY: (100 pts) Architecting Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 46: Preprocessing ResNet-50 using the CIFAR-10 image set based on AUC-ROC curve. Worth 20 points.,WEIGHTED_PRIORITY
+Assessment 20: Fine-tuning LSTM using custom WVSU student data based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Evaluating YOLOv8 using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+MANDATORY: (75 pts) Fine-tuning Vision Transformer using custom WVSU student data.,WEIGHTED_PRIORITY
+MANDATORY: (40 pts) Architecting Random Forest using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Architecting Vision Transformer using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 6: Preprocessing DistilBERT using the IMDb sentiment bank based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+Assessment 8: Evaluating LSTM using custom WVSU student data based on Accuracy. Worth 10 points.,WEIGHTED_PRIORITY
+Evaluation: (150 pts) Cross-validating DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 27: Cross-validating YOLOv8 using custom WVSU student data based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+(REQUIRED) (100 pts) Architecting Random Forest using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+(REQUIRED) (30 pts) Preprocessing ResNet-50 using custom WVSU student data.,WEIGHTED_PRIORITY
+Assessment 5: Cross-validating ResNet-50 using the Sarcasm Dataset based on F1-score. Worth 40 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (150 pts) Evaluating YOLOv8 using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+Assessment 40: Architecting LSTM using custom WVSU student data based on Mean Squared Error. Worth 40 points.,WEIGHTED_PRIORITY
+MAJOR TASK: (30 pts) Evaluating Random Forest using the MNIST corpus.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (40 pts) Architecting LSTM using the Sarcasm Dataset.,WEIGHTED_PRIORITY
+Assessment 43: Cross-validating Random Forest using the MNIST corpus based on Accuracy. Worth 15 points.,WEIGHTED_PRIORITY
+Assessment 24: Hyperparameter optimization of LSTM using the CIFAR-10 image set based on F1-score. Worth 100 points.,WEIGHTED_PRIORITY
+GRADING CRITERIA: (10 pts) Preprocessing DistilBERT using the CIFAR-10 image set.,WEIGHTED_PRIORITY
+MANDATORY: (30 pts) Evaluating YOLOv8 using the IMDb sentiment bank.,WEIGHTED_PRIORITY
+Assessment 47: Evaluating YOLOv8 using the CIFAR-10 image set based on Mean Squared Error. Worth 100 points.,WEIGHTED_PRIORITY
+
+Additional Task: refactor the middleware within the user dashboard for an additional 16 points.,OPTIONAL_BONUS
+Optional: optimize the runtime within the user dashboard for an additional 31 points.,OPTIONAL_BONUS
+Additional Task: implement a dark mode for the UI for an additional 69 points.,OPTIONAL_BONUS
+For extra points: refactor the middleware for the login flow for an additional 14 points.,OPTIONAL_BONUS
+Optional: optimize the runtime for the UI for an additional 60 points.,OPTIONAL_BONUS
+For extra points: deploy to Vercel for the login flow for an additional 35 points.,OPTIONAL_BONUS
+Volunteer Task: implement a dark mode for the UI for an additional 25 points.,OPTIONAL_BONUS
+Volunteer Task: add a unit test in the backend for an additional 63 points.,OPTIONAL_BONUS
+For extra points: implement a dark mode on the landing page for an additional 50 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware on the landing page for an additional 95 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md for the login flow for an additional 62 points.,OPTIONAL_BONUS
+Extra Credit: add a unit test in the backend for an additional 66 points.,OPTIONAL_BONUS
+Bonus: deploy to Vercel for the UI for an additional 39 points.,OPTIONAL_BONUS
+Additional Task: optimize the runtime for the UI for an additional 78 points.,OPTIONAL_BONUS
+For extra points: refactor the middleware within the user dashboard for an additional 3 points.,OPTIONAL_BONUS
+Extra Credit: deploy to Vercel for the login flow for an additional 89 points.,OPTIONAL_BONUS
+Extra Credit: refactor the middleware in the backend for an additional 20 points.,OPTIONAL_BONUS
+Extra Credit: optimize the runtime on the landing page for an additional 94 points.,OPTIONAL_BONUS
+Extra Credit: refactor the middleware on the landing page for an additional 34 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware for the UI for an additional 1 points.,OPTIONAL_BONUS
+Extra Credit: deploy to Vercel on the landing page for an additional 55 points.,OPTIONAL_BONUS
+Volunteer Task: optimize the runtime on the landing page for an additional 82 points.,OPTIONAL_BONUS
+Extra Credit: refactor the middleware for the login flow for an additional 12 points.,OPTIONAL_BONUS
+For extra points: create a README.md for the login flow for an additional 16 points.,OPTIONAL_BONUS
+For extra points: add a unit test within the user dashboard for an additional 93 points.,OPTIONAL_BONUS
+For extra points: deploy to Vercel on the landing page for an additional 38 points.,OPTIONAL_BONUS
+Bonus: optimize the runtime within the user dashboard for an additional 88 points.,OPTIONAL_BONUS
+Volunteer Task: implement a dark mode for the UI for an additional 59 points.,OPTIONAL_BONUS
+Optional: deploy to Vercel for the UI for an additional 11 points.,OPTIONAL_BONUS
+Volunteer Task: refactor the middleware in the backend for an additional 31 points.,OPTIONAL_BONUS
+Optional: refactor the middleware in the backend for an additional 25 points.,OPTIONAL_BONUS
+Volunteer Task: create a README.md on the landing page for an additional 59 points.,OPTIONAL_BONUS
+Additional Task: optimize the runtime on the landing page for an additional 49 points.,OPTIONAL_BONUS
+For extra points: create a README.md for the UI for an additional 68 points.,OPTIONAL_BONUS
+Bonus: add a unit test for the UI for an additional 62 points.,OPTIONAL_BONUS
+For extra points: refactor the middleware for the UI for an additional 61 points.,OPTIONAL_BONUS
+Volunteer Task: deploy to Vercel for the login flow for an additional 23 points.,OPTIONAL_BONUS
+For extra points: implement a dark mode in the backend for an additional 2 points.,OPTIONAL_BONUS
+Additional Task: optimize the runtime for the login flow for an additional 80 points.,OPTIONAL_BONUS
+Optional: add a unit test for the UI for an additional 77 points.,OPTIONAL_BONUS
+For extra points: add a unit test in the backend for an additional 72 points.,OPTIONAL_BONUS
+Extra Credit: add a unit test for the UI for an additional 92 points.,OPTIONAL_BONUS
+Volunteer Task: deploy to Vercel within the user dashboard for an additional 23 points.,OPTIONAL_BONUS
+Extra Credit: implement a dark mode for the UI for an additional 12 points.,OPTIONAL_BONUS
+Optional: optimize the runtime within the user dashboard for an additional 86 points.,OPTIONAL_BONUS
+Extra Credit: add a unit test on the landing page for an additional 62 points.,OPTIONAL_BONUS
+For extra points: optimize the runtime on the landing page for an additional 61 points.,OPTIONAL_BONUS
+Volunteer Task: implement a dark mode for the UI for an additional 97 points.,OPTIONAL_BONUS
+Volunteer Task: refactor the middleware in the backend for an additional 18 points.,OPTIONAL_BONUS
+Optional: implement a dark mode in the backend for an additional 2 points.,OPTIONAL_BONUS
+Optional: implement a dark mode in the backend for an additional 18 points.,OPTIONAL_BONUS
+Volunteer Task: implement a dark mode on the landing page for an additional 46 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware for the login flow for an additional 90 points.,OPTIONAL_BONUS
+Bonus: optimize the runtime within the user dashboard for an additional 3 points.,OPTIONAL_BONUS
+For extra points: implement a dark mode for the login flow for an additional 93 points.,OPTIONAL_BONUS
+Extra Credit: deploy to Vercel on the landing page for an additional 12 points.,OPTIONAL_BONUS
+Extra Credit: add a unit test on the landing page for an additional 5 points.,OPTIONAL_BONUS
+For extra points: add a unit test for the login flow for an additional 33 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware for the UI for an additional 17 points.,OPTIONAL_BONUS
+Additional Task: create a README.md for the UI for an additional 35 points.,OPTIONAL_BONUS
+Bonus: create a README.md within the user dashboard for an additional 70 points.,OPTIONAL_BONUS
+Bonus: optimize the runtime on the landing page for an additional 34 points.,OPTIONAL_BONUS
+Extra Credit: add a unit test for the login flow for an additional 46 points.,OPTIONAL_BONUS
+Additional Task: create a README.md for the login flow for an additional 84 points.,OPTIONAL_BONUS
+Volunteer Task: optimize the runtime for the UI for an additional 39 points.,OPTIONAL_BONUS
+Optional: implement a dark mode for the UI for an additional 3 points.,OPTIONAL_BONUS
+Extra Credit: optimize the runtime on the landing page for an additional 45 points.,OPTIONAL_BONUS
+Optional: optimize the runtime for the UI for an additional 99 points.,OPTIONAL_BONUS
+Optional: implement a dark mode within the user dashboard for an additional 10 points.,OPTIONAL_BONUS
+Bonus: create a README.md in the backend for an additional 86 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware for the login flow for an additional 97 points.,OPTIONAL_BONUS
+Optional: implement a dark mode in the backend for an additional 35 points.,OPTIONAL_BONUS
+Optional: refactor the middleware within the user dashboard for an additional 12 points.,OPTIONAL_BONUS
+Additional Task: deploy to Vercel within the user dashboard for an additional 12 points.,OPTIONAL_BONUS
+Optional: create a README.md for the UI for an additional 67 points.,OPTIONAL_BONUS
+Additional Task: deploy to Vercel on the landing page for an additional 86 points.,OPTIONAL_BONUS
+Optional: refactor the middleware for the login flow for an additional 14 points.,OPTIONAL_BONUS
+For extra points: implement a dark mode within the user dashboard for an additional 14 points.,OPTIONAL_BONUS
+Optional: create a README.md in the backend for an additional 34 points.,OPTIONAL_BONUS
+Optional: refactor the middleware within the user dashboard for an additional 59 points.,OPTIONAL_BONUS
+Optional: refactor the middleware on the landing page for an additional 25 points.,OPTIONAL_BONUS
+Extra Credit: implement a dark mode within the user dashboard for an additional 48 points.,OPTIONAL_BONUS
+Optional: create a README.md for the UI for an additional 59 points.,OPTIONAL_BONUS
+Optional: add a unit test in the backend for an additional 25 points.,OPTIONAL_BONUS
+Additional Task: refactor the middleware for the UI for an additional 8 points.,OPTIONAL_BONUS
+Additional Task: add a unit test within the user dashboard for an additional 70 points.,OPTIONAL_BONUS
+Optional: implement a dark mode for the UI for an additional 75 points.,OPTIONAL_BONUS
+Extra Credit: optimize the runtime within the user dashboard for an additional 57 points.,OPTIONAL_BONUS
+For extra points: create a README.md for the login flow for an additional 63 points.,OPTIONAL_BONUS
+Additional Task: create a README.md within the user dashboard for an additional 77 points.,OPTIONAL_BONUS
+Volunteer Task: implement a dark mode on the landing page for an additional 25 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md for the login flow for an additional 15 points.,OPTIONAL_BONUS
+Volunteer Task: add a unit test for the login flow for an additional 55 points.,OPTIONAL_BONUS
+Additional Task: deploy to Vercel in the backend for an additional 2 points.,OPTIONAL_BONUS
+Volunteer Task: refactor the middleware within the user dashboard for an additional 17 points.,OPTIONAL_BONUS
+Volunteer Task: create a README.md on the landing page for an additional 39 points.,OPTIONAL_BONUS
+Volunteer Task: create a README.md for the UI for an additional 9 points.,OPTIONAL_BONUS
+Additional Task: implement a dark mode within the user dashboard for an additional 61 points.,OPTIONAL_BONUS
+For extra points: implement a dark mode on the landing page for an additional 7 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware for the login flow for an additional 83 points.,OPTIONAL_BONUS
+Volunteer Task: create a README.md on the landing page for an additional 14 points.,OPTIONAL_BONUS
+Bonus: create a README.md in the backend for an additional 7 points.,OPTIONAL_BONUS
+Optional: deploy to Vercel on the landing page for an additional 17 points.,OPTIONAL_BONUS
+Optional: create a README.md within the user dashboard for an additional 30 points.,OPTIONAL_BONUS
+Optional: optimize the runtime for the UI for an additional 13 points.,OPTIONAL_BONUS
+Additional Task: deploy to Vercel in the backend for an additional 61 points.,OPTIONAL_BONUS
+Extra Credit: deploy to Vercel within the user dashboard for an additional 80 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md in the backend for an additional 62 points.,OPTIONAL_BONUS
+Volunteer Task: refactor the middleware in the backend for an additional 63 points.,OPTIONAL_BONUS
+Additional Task: deploy to Vercel for the login flow for an additional 96 points.,OPTIONAL_BONUS
+For extra points: implement a dark mode for the login flow for an additional 71 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware within the user dashboard for an additional 19 points.,OPTIONAL_BONUS
+Extra Credit: implement a dark mode for the UI for an additional 66 points.,OPTIONAL_BONUS
+Extra Credit: refactor the middleware in the backend for an additional 44 points.,OPTIONAL_BONUS
+Volunteer Task: add a unit test in the backend for an additional 53 points.,OPTIONAL_BONUS
+Additional Task: implement a dark mode on the landing page for an additional 39 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md in the backend for an additional 61 points.,OPTIONAL_BONUS
+Bonus: implement a dark mode on the landing page for an additional 19 points.,OPTIONAL_BONUS
+Additional Task: deploy to Vercel for the login flow for an additional 93 points.,OPTIONAL_BONUS
+Bonus: deploy to Vercel for the UI for an additional 8 points.,OPTIONAL_BONUS
+Extra Credit: deploy to Vercel for the UI for an additional 75 points.,OPTIONAL_BONUS
+Volunteer Task: optimize the runtime in the backend for an additional 85 points.,OPTIONAL_BONUS
+Bonus: optimize the runtime for the UI for an additional 21 points.,OPTIONAL_BONUS
+For extra points: add a unit test for the UI for an additional 90 points.,OPTIONAL_BONUS
+Volunteer Task: optimize the runtime on the landing page for an additional 3 points.,OPTIONAL_BONUS
+Optional: create a README.md for the UI for an additional 79 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md for the login flow for an additional 46 points.,OPTIONAL_BONUS
+Optional: implement a dark mode on the landing page for an additional 31 points.,OPTIONAL_BONUS
+Additional Task: refactor the middleware for the login flow for an additional 3 points.,OPTIONAL_BONUS
+Bonus: implement a dark mode for the UI for an additional 36 points.,OPTIONAL_BONUS
+For extra points: add a unit test within the user dashboard for an additional 28 points.,OPTIONAL_BONUS
+For extra points: optimize the runtime within the user dashboard for an additional 57 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md for the login flow for an additional 86 points.,OPTIONAL_BONUS
+Extra Credit: refactor the middleware within the user dashboard for an additional 88 points.,OPTIONAL_BONUS
+For extra points: deploy to Vercel for the login flow for an additional 74 points.,OPTIONAL_BONUS
+Additional Task: optimize the runtime for the UI for an additional 60 points.,OPTIONAL_BONUS
+Extra Credit: implement a dark mode for the login flow for an additional 59 points.,OPTIONAL_BONUS
+Optional: implement a dark mode in the backend for an additional 85 points.,OPTIONAL_BONUS
+For extra points: create a README.md within the user dashboard for an additional 91 points.,OPTIONAL_BONUS
+Bonus: create a README.md for the login flow for an additional 62 points.,OPTIONAL_BONUS
+Bonus: optimize the runtime in the backend for an additional 54 points.,OPTIONAL_BONUS
+Optional: create a README.md for the UI for an additional 31 points.,OPTIONAL_BONUS
+For extra points: optimize the runtime for the login flow for an additional 23 points.,OPTIONAL_BONUS
+Extra Credit: deploy to Vercel on the landing page for an additional 48 points.,OPTIONAL_BONUS
+Additional Task: optimize the runtime in the backend for an additional 21 points.,OPTIONAL_BONUS
+Additional Task: deploy to Vercel for the login flow for an additional 21 points.,OPTIONAL_BONUS
+Optional: refactor the middleware on the landing page for an additional 68 points.,OPTIONAL_BONUS
+Optional: optimize the runtime for the UI for an additional 20 points.,OPTIONAL_BONUS
+Additional Task: refactor the middleware in the backend for an additional 16 points.,OPTIONAL_BONUS
+Optional: optimize the runtime for the login flow for an additional 44 points.,OPTIONAL_BONUS
+Extra Credit: deploy to Vercel for the UI for an additional 10 points.,OPTIONAL_BONUS
+Volunteer Task: add a unit test in the backend for an additional 90 points.,OPTIONAL_BONUS
+For extra points: add a unit test within the user dashboard for an additional 23 points.,OPTIONAL_BONUS
+For extra points: optimize the runtime for the login flow for an additional 14 points.,OPTIONAL_BONUS
+For extra points: optimize the runtime within the user dashboard for an additional 83 points.,OPTIONAL_BONUS
+Bonus: add a unit test for the login flow for an additional 47 points.,OPTIONAL_BONUS
+Optional: add a unit test in the backend for an additional 79 points.,OPTIONAL_BONUS
+Bonus: optimize the runtime for the UI for an additional 30 points.,OPTIONAL_BONUS
+Volunteer Task: refactor the middleware for the UI for an additional 44 points.,OPTIONAL_BONUS
+Optional: add a unit test in the backend for an additional 37 points.,OPTIONAL_BONUS
+Additional Task: create a README.md within the user dashboard for an additional 87 points.,OPTIONAL_BONUS
+Additional Task: optimize the runtime for the UI for an additional 66 points.,OPTIONAL_BONUS
+Optional: implement a dark mode within the user dashboard for an additional 68 points.,OPTIONAL_BONUS
+Bonus: refactor the middleware for the UI for an additional 56 points.,OPTIONAL_BONUS
+Volunteer Task: deploy to Vercel for the UI for an additional 4 points.,OPTIONAL_BONUS
+Optional: refactor the middleware in the backend for an additional 97 points.,OPTIONAL_BONUS
+For extra points: implement a dark mode on the landing page for an additional 19 points.,OPTIONAL_BONUS
+Bonus: deploy to Vercel for the UI for an additional 99 points.,OPTIONAL_BONUS
+Volunteer Task: create a README.md within the user dashboard for an additional 82 points.,OPTIONAL_BONUS
+Extra Credit: optimize the runtime in the backend for an additional 10 points.,OPTIONAL_BONUS
+Bonus: deploy to Vercel within the user dashboard for an additional 69 points.,OPTIONAL_BONUS
+For extra points: refactor the middleware on the landing page for an additional 71 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md in the backend for an additional 51 points.,OPTIONAL_BONUS
+Additional Task: implement a dark mode for the UI for an additional 56 points.,OPTIONAL_BONUS
+Additional Task: optimize the runtime within the user dashboard for an additional 100 points.,OPTIONAL_BONUS
+For extra points: create a README.md on the landing page for an additional 32 points.,OPTIONAL_BONUS
+Bonus: add a unit test for the login flow for an additional 67 points.,OPTIONAL_BONUS
+Volunteer Task: deploy to Vercel on the landing page for an additional 86 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md for the UI for an additional 6 points.,OPTIONAL_BONUS
+Optional: implement a dark mode for the UI for an additional 19 points.,OPTIONAL_BONUS
+For extra points: deploy to Vercel on the landing page for an additional 47 points.,OPTIONAL_BONUS
+Bonus: create a README.md for the login flow for an additional 84 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md for the UI for an additional 60 points.,OPTIONAL_BONUS
+Volunteer Task: deploy to Vercel within the user dashboard for an additional 61 points.,OPTIONAL_BONUS
+Extra Credit: create a README.md in the backend for an additional 34 points.,OPTIONAL_BONUS
+Optional: create a README.md in the backend for an additional 65 points.,OPTIONAL_BONUS
+Optional: optimize the runtime for the UI for an additional 49 points.,OPTIONAL_BONUS
+Volunteer Task: optimize the runtime for the UI for an additional 79 points.,OPTIONAL_BONUS
+For extra points: refactor the middleware within the user dashboard for an additional 28 points.,OPTIONAL_BONUS
+Optional: create a README.md for the login flow for an additional 80 points.,OPTIONAL_BONUS
+Optional: create a README.md for the UI for an additional 74 points.,OPTIONAL_BONUS
+Volunteer Task: create a README.md for the UI for an additional 56 points.,OPTIONAL_BONUS
+For extra points: optimize the runtime for the login flow for an additional 24 points.,OPTIONAL_BONUS
+"Prior to starting, setup a virtual environment v1.4.",PRE_REQUISITE
+"To prepare, initialize the Tailwind CSS config v5.6.",PRE_REQUISITE
+"Ensure you first, configure the 24GB RAM allocation v2.9.",PRE_REQUISITE
+"Ensure you first, clone the provided CSV v1.7.",PRE_REQUISITE
+"As a first step, import the latest Fedora updates v5.6.",PRE_REQUISITE
+"Before you begin, clone a virtual environment v2.1.",PRE_REQUISITE
+"Before you begin, install the Python 3.10 interpreter v4.2.",PRE_REQUISITE
+"Ensure you first, configure the latest Fedora updates v5.4.",PRE_REQUISITE
+"To prepare, install the GitHub repository v2.6.",PRE_REQUISITE
+"To prepare, update a virtual environment v1.9.",PRE_REQUISITE
+"Ensure you first, initialize a virtual environment v5.1.",PRE_REQUISITE
+"To prepare, update supergfxctl for your GPU v4.9.",PRE_REQUISITE
+"To prepare, install the Tailwind CSS config v4.5.",PRE_REQUISITE
+"To prepare, setup the DistilBERT tokenizer v5.3.",PRE_REQUISITE
+"To prepare, configure the 24GB RAM allocation v3.5.",PRE_REQUISITE
+"Prior to starting, import the Kaggle API key v3.3.",PRE_REQUISITE
+"To prepare, download supergfxctl for your GPU v2.9.",PRE_REQUISITE
+"Ensure you first, clone the Neon DB credentials v4.2.",PRE_REQUISITE
+"Prior to starting, install the MNIST dataset v2.7.",PRE_REQUISITE
+"Ensure you first, download a virtual environment v3.0.",PRE_REQUISITE
+"Before you begin, setup the UGREEN power bank driver v2.4.",PRE_REQUISITE
+"Prior to starting, setup the 24GB RAM allocation v3.0.",PRE_REQUISITE
+"Ensure you first, import the UGREEN power bank driver v2.3.",PRE_REQUISITE
+"As a first step, update the SvelteKit boilerplate v2.3.",PRE_REQUISITE
+"To prepare, verify the GitHub repository v1.0.",PRE_REQUISITE
+"To prepare, download the provided CSV v1.0.",PRE_REQUISITE
+"Prior to starting, import the provided CSV v2.9.",PRE_REQUISITE
+"Ensure you first, import the provided CSV v1.7.",PRE_REQUISITE
+"Ensure you first, configure the MNIST dataset v1.0.",PRE_REQUISITE
+"As a first step, setup the UGREEN power bank driver v2.1.",PRE_REQUISITE
+"Before you begin, download the provided CSV v3.4.",PRE_REQUISITE
+"Prior to starting, update a virtual environment v4.1.",PRE_REQUISITE
+"To prepare, install the DistilBERT tokenizer v3.8.",PRE_REQUISITE
+"Before you begin, update Drizzle ORM v4.8.",PRE_REQUISITE
+"Ensure you first, initialize supergfxctl for your GPU v4.9.",PRE_REQUISITE
+"Before you begin, clone the latest Fedora updates v4.5.",PRE_REQUISITE
+"Prior to starting, verify the provided CSV v5.0.",PRE_REQUISITE
+"As a first step, import a virtual environment v5.8.",PRE_REQUISITE
+"Prior to starting, initialize the requirements.txt file v2.7.",PRE_REQUISITE
+"Ensure you first, download the SvelteKit boilerplate v1.6.",PRE_REQUISITE
+"As a first step, download the Tailwind CSS config v4.1.",PRE_REQUISITE
+"As a first step, setup the provided CSV v4.1.",PRE_REQUISITE
+"To prepare, install the DistilBERT tokenizer v1.0.",PRE_REQUISITE
+"Ensure you first, setup the DistilBERT tokenizer v3.8.",PRE_REQUISITE
+"Before you begin, update the NLTK library v1.4.",PRE_REQUISITE
+"To prepare, download a virtual environment v2.3.",PRE_REQUISITE
+"Prior to starting, configure a virtual environment v4.7.",PRE_REQUISITE
+"As a first step, update the MNIST dataset v2.4.",PRE_REQUISITE
+"As a first step, verify a virtual environment v1.8.",PRE_REQUISITE
+"Ensure you first, initialize the GitHub repository v4.4.",PRE_REQUISITE
+"Ensure you first, verify the Tailwind CSS config v4.8.",PRE_REQUISITE
+"To prepare, download the requirements.txt file v5.1.",PRE_REQUISITE
+"As a first step, configure the NLTK library v1.9.",PRE_REQUISITE
+"Ensure you first, import the MNIST dataset v5.3.",PRE_REQUISITE
+"As a first step, configure Drizzle ORM v4.8.",PRE_REQUISITE
+"Prior to starting, clone a virtual environment v3.5.",PRE_REQUISITE
+"Prior to starting, import the MNIST dataset v3.1.",PRE_REQUISITE
+"Ensure you first, configure the GitHub repository v2.0.",PRE_REQUISITE
+"Prior to starting, download the provided CSV v5.1.",PRE_REQUISITE
+"Before you begin, clone the DistilBERT tokenizer v3.4.",PRE_REQUISITE
+"To prepare, download the MNIST dataset v4.3.",PRE_REQUISITE
+"Prior to starting, clone Drizzle ORM v2.7.",PRE_REQUISITE
+"To prepare, setup the requirements.txt file v4.1.",PRE_REQUISITE
+"To prepare, install supergfxctl for your GPU v4.2.",PRE_REQUISITE
+"Prior to starting, import the requirements.txt file v3.4.",PRE_REQUISITE
+"To prepare, update the requirements.txt file v5.6.",PRE_REQUISITE
+"As a first step, import the GitHub repository v3.2.",PRE_REQUISITE
+"Ensure you first, download the UGREEN power bank driver v5.8.",PRE_REQUISITE
+"To prepare, install Drizzle ORM v3.6.",PRE_REQUISITE
+"Prior to starting, import the provided CSV v1.6.",PRE_REQUISITE
+"Prior to starting, setup the Python 3.10 interpreter v5.7.",PRE_REQUISITE
+"Prior to starting, download the provided CSV v2.3.",PRE_REQUISITE
+"Prior to starting, initialize Drizzle ORM v3.2.",PRE_REQUISITE
+"Ensure you first, download supergfxctl for your GPU v2.2.",PRE_REQUISITE
+"As a first step, configure the Python 3.10 interpreter v2.5.",PRE_REQUISITE
+"To prepare, download the Neon DB credentials v5.5.",PRE_REQUISITE
+"Before you begin, configure the SvelteKit boilerplate v2.4.",PRE_REQUISITE
+"Prior to starting, import the 24GB RAM allocation v1.6.",PRE_REQUISITE
+"As a first step, update the SvelteKit boilerplate v5.0.",PRE_REQUISITE
+"Prior to starting, configure the NLTK library v3.9.",PRE_REQUISITE
+"Prior to starting, verify the requirements.txt file v3.9.",PRE_REQUISITE
+"As a first step, setup the UGREEN power bank driver v2.6.",PRE_REQUISITE
+"To prepare, initialize the MNIST dataset v3.5.",PRE_REQUISITE
+"Prior to starting, update a virtual environment v1.6.",PRE_REQUISITE
+"Ensure you first, update the NLTK library v5.2.",PRE_REQUISITE
+"Before you begin, download the NLTK library v2.1.",PRE_REQUISITE
+"To prepare, update the DistilBERT tokenizer v5.4.",PRE_REQUISITE
+"Prior to starting, import supergfxctl for your GPU v4.5.",PRE_REQUISITE
+"Before you begin, initialize the SvelteKit boilerplate v2.3.",PRE_REQUISITE

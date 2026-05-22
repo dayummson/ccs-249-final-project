@@ -9,10 +9,11 @@ import ollama
 from constants.label import LABELS, RAW_ID2LABEL
 import re
 from utils.extractors.docx_extractor import extract_blocks_from_docx
+import pandas as pd
 
-FILE_PATH = "../../samples/unit-4-activity.docx"
+FILE_PATH = "../../datasets/evaluations/eval.csv"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_NAME = "deepseek-coder:6.7b"
+MODEL_NAME = "llama3.2:latest"
 
 
 CLASSIFY_PROMPT = """Classify the following sentence from a university \
@@ -32,6 +33,11 @@ Reply with only the category name, nothing else. No explanation. \
 No punctuation. Just one of the six category names above.
 
 Sentence: \"{sentence}\""""
+
+
+df = pd.read_csv(FILE_PATH)
+texts = df["text"].tolist()
+true_labels = df["true_label"].tolist()
 
 
 def extract_label(raw_response):
@@ -88,20 +94,13 @@ def evaluate(model_name, texts):
     return predicted
 
 
-blocks = extract_blocks_from_docx(FILE_PATH)
-
-texts = [b["text"] for b in blocks]
-
-
 result = evaluate(model_name=MODEL_NAME, texts=texts)
 
 print(result)
 
 # Save Results to CSV
 # This saves the file in the exact directory where your script runs
-csv_file_path = os.path.join(
-    BASE_DIR, f"{MODEL_NAME}-unit-4-activity-classified-raw.csv"
-)
+csv_file_path = os.path.join(BASE_DIR, f"{MODEL_NAME}-classification-results.csv")
 
 # Extract the header keys from your dictionary items
 csv_headers = ["text", "label"]

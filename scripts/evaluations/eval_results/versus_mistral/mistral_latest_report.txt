@@ -1,0 +1,20 @@
+Model: mistral:latest (ollama)
+Samples: 1195
+
+Accuracy : 0.4594
+Precision: 0.7254
+Recall   : 0.4594
+F1 Score : 0.4052
+
+                   precision    recall  f1-score   support
+
+       ADMIN_TRAP       1.00      0.53      0.69       199
+           IGNORE       0.71      0.21      0.32       197
+   OPTIONAL_BONUS       0.41      0.92      0.56       199
+    PRE_REQUISITE       0.90      0.09      0.16       199
+   TECHNICAL_TASK       0.35      0.90      0.50       201
+WEIGHTED_PRIORITY       1.00      0.11      0.19       199
+
+        micro avg       0.47      0.46      0.46      1194
+        macro avg       0.73      0.46      0.41      1194
+     weighted avg       0.73      0.46      0.41      1194

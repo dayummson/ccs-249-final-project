@@ -1,4 +1,4 @@
-Model: Fine_Tuned
+Model: DistilBERT_FineTuned (hf)
 Samples: 1195
 
 Accuracy : 0.7590
